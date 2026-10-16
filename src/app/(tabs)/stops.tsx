@@ -1,5 +1,5 @@
-
 import Ionicons from "@expo/vector-icons/Ionicons";
+import { router } from "expo-router";
 import { useMemo, useState } from "react";
 import {
     FlatList,
@@ -60,9 +60,19 @@ export default function StopsScreen() {
             <FlatList
                 data={filteredStops}
                 keyExtractor={(item) => item.id}
+
                 renderItem={({ item }) => (
-                    <StopCard stop={item} />
+                    <StopCard
+                        stop={item}
+                        onPress={() =>
+                            router.push({
+                                pathname: "/stop/[id]",
+                                params: { id: item.id },
+                            })
+                        }
+                    />
                 )}
+
                 contentContainerStyle={styles.list}
                 keyboardShouldPersistTaps="handled"
                 ListEmptyComponent={
