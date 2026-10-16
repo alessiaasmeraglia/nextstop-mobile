@@ -1,6 +1,14 @@
 
+import {
+    Pressable,
+    StyleSheet,
+    Text,
+    View,
+} from "react-native";
+
 import Ionicons from "@expo/vector-icons/Ionicons";
-import { Pressable, StyleSheet, Text, View } from "react-native";
+
+import { useFavorites } from "../context/FavoritesContext";
 import type { Stop } from "../types/transport";
 
 interface StopCardProps {
@@ -12,35 +20,65 @@ export default function StopCard({
     stop,
     onPress,
 }: StopCardProps) {
+    const {
+        isFavorite,
+        toggleFavorite,
+        isLoading,
+    } = useFavorites();
+
+    const saved = isFavorite(stop.id);
+
     return (
-        <Pressable
-            style={styles.card}
-            onPress={onPress}
-            disabled={!onPress}
-            accessibilityRole={onPress ? "button" : undefined}
-            accessibilityLabel={`${stop.name}, ${stop.city}`}
-        >
-            <View style={styles.iconContainer}>
-                <Ionicons name="bus-outline" size={24} color="#7047EB" />
-            </View>
+        <View style={styles.card}>
+            <Pressable
+                style={styles.mainContent}
+                onPress={onPress}
+                disabled={!onPress}
+                accessibilityRole={onPress ? "button" : undefined}
+                accessibilityLabel={`${stop.name}, ${stop.city}`}
+            >
+                <View style={styles.iconContainer}>
+                    <Ionicons
+                        name={stop.mode === "train" ? "train-outline" : "bus-outline"}
+                        size={24}
+                        color="#7047EB"
+                    />
+                </View>
 
-            <View style={styles.content}>
-                <Text style={styles.name}>{stop.name}</Text>
-                <Text style={styles.city}>{stop.city}</Text>
+                <View style={styles.content}>
+                    <Text style={styles.name}>{stop.name}</Text>
 
-                <Text style={styles.lines}>
-                    Lines: {stop.lines.join(" · ")}
-                </Text>
-            </View>
+                    <Text style={styles.city}>{stop.city}</Text>
 
-            {onPress && (
+                    <Text style={styles.lines}>
+                        Lines: {stop.lines.join(" · ")}
+                    </Text>
+                </View>
+            </Pressable>
+
+            <Pressable
+                onPress={() => toggleFavorite(stop.id)}
+                disabled={isLoading}
+                accessibilityRole="button"
+                accessibilityLabel={
+                    saved
+                        ? `Remove ${stop.name} from favorites`
+                        : `Add ${stop.name} to favorites`
+                }
+                accessibilityState={{
+                    selected: saved,
+                    disabled: isLoading,
+                }}
+                hitSlop={8}
+                style={styles.favoriteButton}
+            >
                 <Ionicons
-                    name="chevron-forward"
-                    size={20}
-                    color="#737383"
+                    name={saved ? "heart" : "heart-outline"}
+                    size={24}
+                    color={saved ? "#7047EB" : "#737383"}
                 />
-            )}
-        </Pressable>
+            </Pressable>
+        </View>
     );
 }
 
@@ -52,6 +90,12 @@ const styles = StyleSheet.create({
         borderRadius: 16,
         padding: 16,
         marginBottom: 12,
+        gap: 10,
+    },
+    mainContent: {
+        flex: 1,
+        flexDirection: "row",
+        alignItems: "center",
         gap: 14,
     },
     iconContainer: {
@@ -79,5 +123,11 @@ const styles = StyleSheet.create({
         fontSize: 13,
         color: "#7047EB",
         marginTop: 8,
+    },
+    favoriteButton: {
+        width: 44,
+        height: 44,
+        alignItems: "center",
+        justifyContent: "center",
     },
 });
