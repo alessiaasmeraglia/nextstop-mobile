@@ -1,0 +1,10995 @@
+[
+  {
+    "id": "408",
+    "name": "3 Nov. \"Centro S.Chiara\"",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "8"
+    ],
+    "mode": "bus",
+    "latitude": 46.062192,
+    "longitude": 11.123797
+  },
+  {
+    "id": "409",
+    "name": "3 Nov. \"Centro S.Chiara\"",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "4",
+      "8"
+    ],
+    "mode": "bus",
+    "latitude": 46.062244,
+    "longitude": 11.123946
+  },
+  {
+    "id": "466",
+    "name": "3 Nov. \"Ponte Cavalleggeri\"",
+    "city": "Trento",
+    "lines": [
+      "1",
+      "3",
+      "4",
+      "8",
+      "13"
+    ],
+    "mode": "bus",
+    "latitude": 46.05926,
+    "longitude": 11.126666
+  },
+  {
+    "id": "524",
+    "name": "3 Nov. \"Ponte Cavalleggeri\"",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "8",
+      "12",
+      "13"
+    ],
+    "mode": "bus",
+    "latitude": 46.059396,
+    "longitude": 11.126384
+  },
+  {
+    "id": "260",
+    "name": "Adamello Gorizia",
+    "city": "Trento",
+    "lines": [
+      "2",
+      "7",
+      "18"
+    ],
+    "mode": "bus",
+    "latitude": 46.059886,
+    "longitude": 11.132267
+  },
+  {
+    "id": "265",
+    "name": "Al Desert Muredei",
+    "city": "Trento",
+    "lines": [
+      "14"
+    ],
+    "mode": "bus",
+    "latitude": 46.050958,
+    "longitude": 11.117076
+  },
+  {
+    "id": "3109",
+    "name": "Albere \"Muse\"",
+    "city": "Trento",
+    "lines": [
+      "19"
+    ],
+    "mode": "bus",
+    "latitude": 46.06269,
+    "longitude": 11.113605
+  },
+  {
+    "id": "269",
+    "name": "Apuleio \"Case Degasperi\"",
+    "city": "Trento",
+    "lines": [
+      "2"
+    ],
+    "mode": "bus",
+    "latitude": 46.073543,
+    "longitude": 11.115546
+  },
+  {
+    "id": "270",
+    "name": "Apuleio \"Ponte S.Giorgio\"",
+    "city": "Trento",
+    "lines": [
+      "2"
+    ],
+    "mode": "bus",
+    "latitude": 46.076349,
+    "longitude": 11.114967
+  },
+  {
+    "id": "272",
+    "name": "Asiago \"Bellevue\"",
+    "city": "Trento",
+    "lines": [
+      "6"
+    ],
+    "mode": "bus",
+    "latitude": 46.053211,
+    "longitude": 11.136383
+  },
+  {
+    "id": "273",
+    "name": "Asiago \"Bellevue\"",
+    "city": "Trento",
+    "lines": [
+      "1",
+      "6"
+    ],
+    "mode": "bus",
+    "latitude": 46.053087,
+    "longitude": 11.136438
+  },
+  {
+    "id": "271",
+    "name": "Asiago \"Cernidor\"",
+    "city": "Trento",
+    "lines": [
+      "6"
+    ],
+    "mode": "bus",
+    "latitude": 46.050295,
+    "longitude": 11.13724
+  },
+  {
+    "id": "274",
+    "name": "Asiago \"Cernidor\"",
+    "city": "Trento",
+    "lines": [
+      "1",
+      "6"
+    ],
+    "mode": "bus",
+    "latitude": 46.049614,
+    "longitude": 11.137304
+  },
+  {
+    "id": "3095",
+    "name": "Asiago S. Bartolameo",
+    "city": "Trento",
+    "lines": [
+      "1",
+      "6"
+    ],
+    "mode": "bus",
+    "latitude": 46.047682,
+    "longitude": 11.137738
+  },
+  {
+    "id": "15",
+    "name": "Asiago S.Bartolameo",
+    "city": "Trento",
+    "lines": [
+      "6"
+    ],
+    "mode": "bus",
+    "latitude": 46.047706,
+    "longitude": 11.137591
+  },
+  {
+    "id": "2671",
+    "name": "Avancini Laste",
+    "city": "Trento",
+    "lines": [
+      "C"
+    ],
+    "mode": "bus",
+    "latitude": 46.071437,
+    "longitude": 11.130726
+  },
+  {
+    "id": "2777",
+    "name": "Baldresca",
+    "city": "Rovereto",
+    "lines": [
+      "6"
+    ],
+    "mode": "bus",
+    "latitude": 45.880234,
+    "longitude": 11.028386
+  },
+  {
+    "id": "277",
+    "name": "Barbacovi \"Itg Pozzo\"",
+    "city": "Trento",
+    "lines": [
+      "1",
+      "6",
+      "18"
+    ],
+    "mode": "bus",
+    "latitude": 46.064413,
+    "longitude": 11.12985
+  },
+  {
+    "id": "1",
+    "name": "Baselga Del Bondone",
+    "city": "Trento",
+    "lines": [
+      "1"
+    ],
+    "mode": "bus",
+    "latitude": 46.078354,
+    "longitude": 11.047183
+  },
+  {
+    "id": "2",
+    "name": "Baselga Del Bondone",
+    "city": "Trento",
+    "lines": [
+      "1",
+      "6",
+      "8"
+    ],
+    "mode": "bus",
+    "latitude": 46.078528,
+    "longitude": 11.047586
+  },
+  {
+    "id": "3",
+    "name": "Belvedere",
+    "city": "Trento",
+    "lines": [
+      "8",
+      "12",
+      "14"
+    ],
+    "mode": "bus",
+    "latitude": 46.044409,
+    "longitude": 11.105369
+  },
+  {
+    "id": "92",
+    "name": "Bettini \"Madonna Bianca\"",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "4"
+    ],
+    "mode": "bus",
+    "latitude": 46.04238,
+    "longitude": 11.132874
+  },
+  {
+    "id": "281",
+    "name": "Bettini \"Nido Mad. Bianca\"",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "4"
+    ],
+    "mode": "bus",
+    "latitude": 46.040445,
+    "longitude": 11.135356
+  },
+  {
+    "id": "282",
+    "name": "Bettini \"Nido Mad. Bianca\"",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "4"
+    ],
+    "mode": "bus",
+    "latitude": 46.040111,
+    "longitude": 11.135449
+  },
+  {
+    "id": "283",
+    "name": "Bezzi Filzi",
+    "city": "Trento",
+    "lines": [
+      "2",
+      "3",
+      "4",
+      "7",
+      "12",
+      "14",
+      "C"
+    ],
+    "mode": "bus",
+    "latitude": 46.058483,
+    "longitude": 11.119231
+  },
+  {
+    "id": "2213",
+    "name": "Bivio Per Senter",
+    "city": "Rovereto",
+    "lines": [
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 45.881227,
+    "longitude": 11.077484
+  },
+  {
+    "id": "2214",
+    "name": "Bivio Per Senter",
+    "city": "Rovereto",
+    "lines": [
+      "6",
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 45.881368,
+    "longitude": 11.077601
+  },
+  {
+    "id": "284",
+    "name": "Bolghera \"S.Antonio\"",
+    "city": "Trento",
+    "lines": [
+      "1",
+      "2",
+      "7",
+      "18"
+    ],
+    "mode": "bus",
+    "latitude": 46.058168,
+    "longitude": 11.1312
+  },
+  {
+    "id": "2926",
+    "name": "Borgo S.Caterina",
+    "city": "Rovereto",
+    "lines": [
+      "A",
+      "AB",
+      "B"
+    ],
+    "mode": "bus",
+    "latitude": 45.889827,
+    "longitude": 11.039426
+  },
+  {
+    "id": "9",
+    "name": "Borino",
+    "city": "Trento",
+    "lines": [
+      "5",
+      "CM"
+    ],
+    "mode": "bus",
+    "latitude": 46.067127,
+    "longitude": 11.165537
+  },
+  {
+    "id": "2530",
+    "name": "Borino",
+    "city": "Trento",
+    "lines": [
+      "CM"
+    ],
+    "mode": "bus",
+    "latitude": 46.067029,
+    "longitude": 11.165565
+  },
+  {
+    "id": "2529",
+    "name": "Borino Civ.69",
+    "city": "Trento",
+    "lines": [
+      "CM"
+    ],
+    "mode": "bus",
+    "latitude": 46.066021,
+    "longitude": 11.168748
+  },
+  {
+    "id": "2532",
+    "name": "Borino Civ.69",
+    "city": "Trento",
+    "lines": [
+      "CM"
+    ],
+    "mode": "bus",
+    "latitude": 46.066016,
+    "longitude": 11.168863
+  },
+  {
+    "id": "2476",
+    "name": "Bosco Della Citta'",
+    "city": "Rovereto",
+    "lines": [
+      "6"
+    ],
+    "mode": "bus",
+    "latitude": 45.901507,
+    "longitude": 11.055439
+  },
+  {
+    "id": "291",
+    "name": "Brennero \"Bren Center\"",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "4",
+      "8",
+      "11",
+      "17"
+    ],
+    "mode": "bus",
+    "latitude": 46.091515,
+    "longitude": 11.115307
+  },
+  {
+    "id": "292",
+    "name": "Brennero \"Bren Center\"",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "8",
+      "11",
+      "14",
+      "17"
+    ],
+    "mode": "bus",
+    "latitude": 46.091499,
+    "longitude": 11.115601
+  },
+  {
+    "id": "297",
+    "name": "Brennero \"Ex Scalo Filzi\"",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "7",
+      "8",
+      "11",
+      "14",
+      "15",
+      "17"
+    ],
+    "mode": "bus",
+    "latitude": 46.080071,
+    "longitude": 11.122109
+  },
+  {
+    "id": "298",
+    "name": "Brennero \"Ex Scalo Filzi\"",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "4",
+      "7",
+      "8",
+      "11",
+      "15",
+      "17"
+    ],
+    "mode": "bus",
+    "latitude": 46.078474,
+    "longitude": 11.122797
+  },
+  {
+    "id": "296",
+    "name": "Brennero \"Magnete\"",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "4",
+      "8",
+      "11",
+      "17"
+    ],
+    "mode": "bus",
+    "latitude": 46.089309,
+    "longitude": 11.116571
+  },
+  {
+    "id": "300",
+    "name": "Brennero \"Tridente\"",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "8",
+      "11",
+      "14",
+      "17"
+    ],
+    "mode": "bus",
+    "latitude": 46.08648,
+    "longitude": 11.11843
+  },
+  {
+    "id": "294",
+    "name": "Brennero Malvasia",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "7",
+      "8",
+      "11",
+      "14",
+      "15",
+      "17"
+    ],
+    "mode": "bus",
+    "latitude": 46.077968,
+    "longitude": 11.123274
+  },
+  {
+    "id": "293",
+    "name": "Brennero Marconi",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "7",
+      "8",
+      "11",
+      "14",
+      "15",
+      "17"
+    ],
+    "mode": "bus",
+    "latitude": 46.08323,
+    "longitude": 11.120204
+  },
+  {
+    "id": "295",
+    "name": "Brennero Marconi",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "4",
+      "7",
+      "8",
+      "11",
+      "15",
+      "17"
+    ],
+    "mode": "bus",
+    "latitude": 46.083704,
+    "longitude": 11.119817
+  },
+  {
+    "id": "2435",
+    "name": "Brescia \"Ca Dei Gai\"",
+    "city": "Trento",
+    "lines": [
+      "1"
+    ],
+    "mode": "bus",
+    "latitude": 46.07348,
+    "longitude": 11.105332
+  },
+  {
+    "id": "2485",
+    "name": "Brescia \"Ca Dei Gai\"",
+    "city": "Trento",
+    "lines": [
+      "1",
+      "6",
+      "8"
+    ],
+    "mode": "bus",
+    "latitude": 46.073335,
+    "longitude": 11.105624
+  },
+  {
+    "id": "171",
+    "name": "Brescia \"Piedicastello\"",
+    "city": "Trento",
+    "lines": [
+      "1",
+      "2",
+      "6"
+    ],
+    "mode": "bus",
+    "latitude": 46.070815,
+    "longitude": 11.113433
+  },
+  {
+    "id": "172",
+    "name": "Brescia \"Piedicastello\"",
+    "city": "Trento",
+    "lines": [
+      "1",
+      "2",
+      "6",
+      "8"
+    ],
+    "mode": "bus",
+    "latitude": 46.070531,
+    "longitude": 11.111447
+  },
+  {
+    "id": "32",
+    "name": "Brescia \"Villa Salvotti\"",
+    "city": "Trento",
+    "lines": [
+      "1"
+    ],
+    "mode": "bus",
+    "latitude": 46.076115,
+    "longitude": 11.101057
+  },
+  {
+    "id": "433",
+    "name": "Brescia Divisioni Alpine",
+    "city": "Trento",
+    "lines": [
+      "1",
+      "2",
+      "6"
+    ],
+    "mode": "bus",
+    "latitude": 46.071043,
+    "longitude": 11.109667
+  },
+  {
+    "id": "434",
+    "name": "Brescia Divisioni Alpine",
+    "city": "Trento",
+    "lines": [
+      "1",
+      "2",
+      "6",
+      "8"
+    ],
+    "mode": "bus",
+    "latitude": 46.07096,
+    "longitude": 11.109664
+  },
+  {
+    "id": "301",
+    "name": "Brigata Acqui \"Ite Tambosi\"",
+    "city": "Trento",
+    "lines": [
+      "7",
+      "9",
+      "10"
+    ],
+    "mode": "bus",
+    "latitude": 46.065447,
+    "longitude": 11.128453
+  },
+  {
+    "id": "2923",
+    "name": "Cadine Della Fornas",
+    "city": "Trento",
+    "lines": [
+      "1",
+      "6",
+      "8"
+    ],
+    "mode": "bus",
+    "latitude": 46.087128,
+    "longitude": 11.068883
+  },
+  {
+    "id": "2924",
+    "name": "Cadine Della Fornas",
+    "city": "Trento",
+    "lines": [
+      "1"
+    ],
+    "mode": "bus",
+    "latitude": 46.086991,
+    "longitude": 11.069357
+  },
+  {
+    "id": "10",
+    "name": "Cadine Strada Gardesana",
+    "city": "Trento",
+    "lines": [
+      "1"
+    ],
+    "mode": "bus",
+    "latitude": 46.088578,
+    "longitude": 11.065061
+  },
+  {
+    "id": "11",
+    "name": "Cadine Strada Gardesana",
+    "city": "Trento",
+    "lines": [
+      "1",
+      "6",
+      "8"
+    ],
+    "mode": "bus",
+    "latitude": 46.088767,
+    "longitude": 11.064526
+  },
+  {
+    "id": "2960",
+    "name": "Cadine Voltei",
+    "city": "Trento",
+    "lines": [
+      "1"
+    ],
+    "mode": "bus",
+    "latitude": 46.086415,
+    "longitude": 11.068176
+  },
+  {
+    "id": "2848",
+    "name": "Campana Dei Caduti",
+    "city": "Rovereto",
+    "lines": [
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 45.874479,
+    "longitude": 11.0409
+  },
+  {
+    "id": "304",
+    "name": "Caneppele Goio",
+    "city": "Trento",
+    "lines": [
+      "4",
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 46.094442,
+    "longitude": 11.105189
+  },
+  {
+    "id": "305",
+    "name": "Caneppele Goio",
+    "city": "Trento",
+    "lines": [
+      "4",
+      "8"
+    ],
+    "mode": "bus",
+    "latitude": 46.094446,
+    "longitude": 11.10508
+  },
+  {
+    "id": "56",
+    "name": "Canova Aichner",
+    "city": "Trento",
+    "lines": [
+      "4",
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 46.101923,
+    "longitude": 11.103255
+  },
+  {
+    "id": "12",
+    "name": "Canova Paludi",
+    "city": "Trento",
+    "lines": [
+      "4",
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 46.099273,
+    "longitude": 11.109269
+  },
+  {
+    "id": "57",
+    "name": "Canova Via Della Canova",
+    "city": "Trento",
+    "lines": [
+      "4",
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 46.100323,
+    "longitude": 11.106659
+  },
+  {
+    "id": "2219",
+    "name": "Casa Del Falegname",
+    "city": "Rovereto",
+    "lines": [
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 45.885863,
+    "longitude": 11.076374
+  },
+  {
+    "id": "2220",
+    "name": "Casa Del Falegname",
+    "city": "Rovereto",
+    "lines": [
+      "6",
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 45.885592,
+    "longitude": 11.076418
+  },
+  {
+    "id": "2221",
+    "name": "Casa Nel Bosco",
+    "city": "Rovereto",
+    "lines": [
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 45.882463,
+    "longitude": 11.076427
+  },
+  {
+    "id": "2222",
+    "name": "Casa Nel Bosco",
+    "city": "Rovereto",
+    "lines": [
+      "6",
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 45.882368,
+    "longitude": 11.076445
+  },
+  {
+    "id": "275",
+    "name": "Castello Buonconsiglio",
+    "city": "Trento",
+    "lines": [
+      "1",
+      "6",
+      "7",
+      "18",
+      "C"
+    ],
+    "mode": "bus",
+    "latitude": 46.070388,
+    "longitude": 11.126826
+  },
+  {
+    "id": "2409",
+    "name": "Cavalcavia S.Lorenzo",
+    "city": "Trento",
+    "lines": [
+      "1",
+      "6",
+      "8",
+      "N"
+    ],
+    "mode": "bus",
+    "latitude": 46.070362,
+    "longitude": 11.119089
+  },
+  {
+    "id": "2526",
+    "name": "Celva",
+    "city": "Trento",
+    "lines": [
+      "CM"
+    ],
+    "mode": "bus",
+    "latitude": 46.071795,
+    "longitude": 11.176795
+  },
+  {
+    "id": "2961",
+    "name": "Centa Brennero",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "7",
+      "8",
+      "14"
+    ],
+    "mode": "bus",
+    "latitude": 46.075624,
+    "longitude": 11.123987
+  },
+  {
+    "id": "3156",
+    "name": "Centochiavi \"Aci\"",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "7",
+      "17"
+    ],
+    "mode": "bus",
+    "latitude": 46.093919,
+    "longitude": 11.120723
+  },
+  {
+    "id": "85",
+    "name": "Centochiavi Dalla Fior",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "7",
+      "17"
+    ],
+    "mode": "bus",
+    "latitude": 46.094565,
+    "longitude": 11.120643
+  },
+  {
+    "id": "2389",
+    "name": "Centochiavi Lunelli",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "7",
+      "17"
+    ],
+    "mode": "bus",
+    "latitude": 46.092571,
+    "longitude": 11.120604
+  },
+  {
+    "id": "177",
+    "name": "Cervara \"Port'aquila\"",
+    "city": "Trento",
+    "lines": [
+      "10"
+    ],
+    "mode": "bus",
+    "latitude": 46.070192,
+    "longitude": 11.128072
+  },
+  {
+    "id": "178",
+    "name": "Cervara \"Port'aquila\"",
+    "city": "Trento",
+    "lines": [
+      "10",
+      "C"
+    ],
+    "mode": "bus",
+    "latitude": 46.070054,
+    "longitude": 11.12791
+  },
+  {
+    "id": "3092",
+    "name": "Cervara \"Scalinata\"",
+    "city": "Trento",
+    "lines": [
+      "C"
+    ],
+    "mode": "bus",
+    "latitude": 46.072081,
+    "longitude": 11.128289
+  },
+  {
+    "id": "306",
+    "name": "Cervara Cereria",
+    "city": "Trento",
+    "lines": [
+      "10",
+      "C"
+    ],
+    "mode": "bus",
+    "latitude": 46.074217,
+    "longitude": 11.128394
+  },
+  {
+    "id": "307",
+    "name": "Cervara Cereria",
+    "city": "Trento",
+    "lines": [
+      "10"
+    ],
+    "mode": "bus",
+    "latitude": 46.074148,
+    "longitude": 11.128427
+  },
+  {
+    "id": "2524",
+    "name": "Cimirlo",
+    "city": "Trento",
+    "lines": [
+      "CM"
+    ],
+    "mode": "bus",
+    "latitude": 46.067728,
+    "longitude": 11.18477
+  },
+  {
+    "id": "3121",
+    "name": "Cimirlo \"B&B\"",
+    "city": "Trento",
+    "lines": [
+      "CM"
+    ],
+    "mode": "bus",
+    "latitude": 46.070148,
+    "longitude": 11.182007
+  },
+  {
+    "id": "3119",
+    "name": "Cimirlo \"Cabina Elettrica\"",
+    "city": "Trento",
+    "lines": [
+      "CM"
+    ],
+    "mode": "bus",
+    "latitude": 46.068314,
+    "longitude": 11.183582
+  },
+  {
+    "id": "3120",
+    "name": "Cimirlo \"Parco\"",
+    "city": "Trento",
+    "lines": [
+      "CM"
+    ],
+    "mode": "bus",
+    "latitude": 46.070155,
+    "longitude": 11.183772
+  },
+  {
+    "id": "2224",
+    "name": "Cisterna",
+    "city": "Rovereto",
+    "lines": [
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 45.883095,
+    "longitude": 11.086366
+  },
+  {
+    "id": "2225",
+    "name": "Cisterna",
+    "city": "Rovereto",
+    "lines": [
+      "6",
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 45.88321,
+    "longitude": 11.086375
+  },
+  {
+    "id": "2895",
+    "name": "Cisterna Capolinea",
+    "city": "Rovereto",
+    "lines": [
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 45.883067,
+    "longitude": 11.087295
+  },
+  {
+    "id": "2994",
+    "name": "Clinica Solatrix",
+    "city": "Rovereto",
+    "lines": [
+      "A",
+      "C"
+    ],
+    "mode": "bus",
+    "latitude": 45.897743,
+    "longitude": 11.04542
+  },
+  {
+    "id": "21",
+    "name": "Cognola \"Centro Civico\"",
+    "city": "Trento",
+    "lines": [
+      "9",
+      "10",
+      "16"
+    ],
+    "mode": "bus",
+    "latitude": 46.07644,
+    "longitude": 11.141608
+  },
+  {
+    "id": "2505",
+    "name": "Cognola \"Chiesa\"",
+    "city": "Trento",
+    "lines": [
+      "9",
+      "10",
+      "16"
+    ],
+    "mode": "bus",
+    "latitude": 46.076338,
+    "longitude": 11.141634
+  },
+  {
+    "id": "28",
+    "name": "Cognola \"Scuole\"",
+    "city": "Trento",
+    "lines": [
+      "9",
+      "10"
+    ],
+    "mode": "bus",
+    "latitude": 46.075713,
+    "longitude": 11.144004
+  },
+  {
+    "id": "29",
+    "name": "Cognola \"Scuole\"",
+    "city": "Trento",
+    "lines": [
+      "9",
+      "10"
+    ],
+    "mode": "bus",
+    "latitude": 46.075819,
+    "longitude": 11.144105
+  },
+  {
+    "id": "17",
+    "name": "Cognola \"Toresela\"",
+    "city": "Trento",
+    "lines": [
+      "9",
+      "10"
+    ],
+    "mode": "bus",
+    "latitude": 46.07889,
+    "longitude": 11.153522
+  },
+  {
+    "id": "18",
+    "name": "Cognola \"Toresela\"",
+    "city": "Trento",
+    "lines": [
+      "9",
+      "10"
+    ],
+    "mode": "bus",
+    "latitude": 46.078916,
+    "longitude": 11.154062
+  },
+  {
+    "id": "30",
+    "name": "Cognola Alla Veduta \"Roza\"",
+    "city": "Trento",
+    "lines": [
+      "9",
+      "10"
+    ],
+    "mode": "bus",
+    "latitude": 46.077643,
+    "longitude": 11.151166
+  },
+  {
+    "id": "31",
+    "name": "Cognola Alla Veduta \"Roza\"",
+    "city": "Trento",
+    "lines": [
+      "9",
+      "10"
+    ],
+    "mode": "bus",
+    "latitude": 46.078022,
+    "longitude": 11.151578
+  },
+  {
+    "id": "19",
+    "name": "Cognola Bivio Civezzano",
+    "city": "Trento",
+    "lines": [
+      "9",
+      "10"
+    ],
+    "mode": "bus",
+    "latitude": 46.080507,
+    "longitude": 11.158307
+  },
+  {
+    "id": "20",
+    "name": "Cognola Bivio Civezzano",
+    "city": "Trento",
+    "lines": [
+      "9",
+      "10"
+    ],
+    "mode": "bus",
+    "latitude": 46.080506,
+    "longitude": 11.158409
+  },
+  {
+    "id": "22",
+    "name": "Cognola Grezoni",
+    "city": "Trento",
+    "lines": [
+      "9",
+      "10"
+    ],
+    "mode": "bus",
+    "latitude": 46.075937,
+    "longitude": 11.146884
+  },
+  {
+    "id": "23",
+    "name": "Cognola Grezoni",
+    "city": "Trento",
+    "lines": [
+      "9",
+      "10"
+    ],
+    "mode": "bus",
+    "latitude": 46.075967,
+    "longitude": 11.14658
+  },
+  {
+    "id": "25",
+    "name": "Cognola S.Vito",
+    "city": "Trento",
+    "lines": [
+      "9",
+      "10",
+      "16"
+    ],
+    "mode": "bus",
+    "latitude": 46.075681,
+    "longitude": 11.14077
+  },
+  {
+    "id": "26",
+    "name": "Cognola S.Vito",
+    "city": "Trento",
+    "lines": [
+      "5",
+      "9",
+      "10",
+      "16"
+    ],
+    "mode": "bus",
+    "latitude": 46.075653,
+    "longitude": 11.141776
+  },
+  {
+    "id": "488",
+    "name": "Conci \"Villazzano 3\"",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "4"
+    ],
+    "mode": "bus",
+    "latitude": 46.041035,
+    "longitude": 11.14068
+  },
+  {
+    "id": "310",
+    "name": "Conci De Riccabona",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "13"
+    ],
+    "mode": "bus",
+    "latitude": 46.039514,
+    "longitude": 11.140832
+  },
+  {
+    "id": "311",
+    "name": "Conci De Riccabona",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "4",
+      "13"
+    ],
+    "mode": "bus",
+    "latitude": 46.039362,
+    "longitude": 11.140403
+  },
+  {
+    "id": "312",
+    "name": "Conci Ferrovia",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "13"
+    ],
+    "mode": "bus",
+    "latitude": 46.039317,
+    "longitude": 11.137726
+  },
+  {
+    "id": "313",
+    "name": "Conci Ferrovia",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "4",
+      "13"
+    ],
+    "mode": "bus",
+    "latitude": 46.039824,
+    "longitude": 11.137235
+  },
+  {
+    "id": "1280",
+    "name": "Corso Bettini \"Mart\"",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "C",
+      "V"
+    ],
+    "mode": "bus",
+    "latitude": 45.892943,
+    "longitude": 11.043667
+  },
+  {
+    "id": "1281",
+    "name": "Corso Bettini \"Mart\"",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "6",
+      "7",
+      "C",
+      "V"
+    ],
+    "mode": "bus",
+    "latitude": 45.893097,
+    "longitude": 11.043771
+  },
+  {
+    "id": "1278",
+    "name": "Corso Bettini Liceo",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "6",
+      "7",
+      "C",
+      "V"
+    ],
+    "mode": "bus",
+    "latitude": 45.896301,
+    "longitude": 11.043306
+  },
+  {
+    "id": "1279",
+    "name": "Corso Bettini Liceo",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "6",
+      "7",
+      "C",
+      "V"
+    ],
+    "mode": "bus",
+    "latitude": 45.895162,
+    "longitude": 11.043361
+  },
+  {
+    "id": "1283",
+    "name": "Corso Rosmini Monumento",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "6",
+      "7",
+      "A",
+      "AB",
+      "B",
+      "C",
+      "V"
+    ],
+    "mode": "bus",
+    "latitude": 45.890893,
+    "longitude": 11.042737
+  },
+  {
+    "id": "1284",
+    "name": "Corso Rosmini Posta",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "A",
+      "AB",
+      "B",
+      "C",
+      "V"
+    ],
+    "mode": "bus",
+    "latitude": 45.890968,
+    "longitude": 11.040933
+  },
+  {
+    "id": "1282",
+    "name": "Corso Rosmini Via Savioli",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "C",
+      "V"
+    ],
+    "mode": "bus",
+    "latitude": 45.890979,
+    "longitude": 11.038463
+  },
+  {
+    "id": "1285",
+    "name": "Corso Rosmini Via Savioli",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "6",
+      "7",
+      "A",
+      "AB",
+      "B",
+      "C",
+      "V"
+    ],
+    "mode": "bus",
+    "latitude": 45.890912,
+    "longitude": 11.038264
+  },
+  {
+    "id": "1286",
+    "name": "Corso Verona Ospedale",
+    "city": "Rovereto",
+    "lines": [
+      "3",
+      "5",
+      "6",
+      "AB",
+      "B",
+      "V"
+    ],
+    "mode": "bus",
+    "latitude": 45.882264,
+    "longitude": 11.040343
+  },
+  {
+    "id": "1289",
+    "name": "Corso Verona Ospedale",
+    "city": "Rovereto",
+    "lines": [
+      "A",
+      "AB",
+      "B"
+    ],
+    "mode": "bus",
+    "latitude": 45.881038,
+    "longitude": 11.039613
+  },
+  {
+    "id": "2494",
+    "name": "Corso Verona Via Cainelli",
+    "city": "Rovereto",
+    "lines": [
+      "AB",
+      "B"
+    ],
+    "mode": "bus",
+    "latitude": 45.877258,
+    "longitude": 11.035978
+  },
+  {
+    "id": "38",
+    "name": "Cortesano",
+    "city": "Trento",
+    "lines": [
+      "3"
+    ],
+    "mode": "bus",
+    "latitude": 46.124661,
+    "longitude": 11.133726
+  },
+  {
+    "id": "2509",
+    "name": "Costa",
+    "city": "Rovereto",
+    "lines": [
+      "6",
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 45.884566,
+    "longitude": 11.072775
+  },
+  {
+    "id": "1295",
+    "name": "Costa Capolinea",
+    "city": "Rovereto",
+    "lines": [
+      "6",
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 45.884164,
+    "longitude": 11.072955
+  },
+  {
+    "id": "2454",
+    "name": "Crosare Officina",
+    "city": "Trento",
+    "lines": [
+      "G"
+    ],
+    "mode": "bus",
+    "latitude": 46.110073,
+    "longitude": 11.105462
+  },
+  {
+    "id": "2455",
+    "name": "Crosare Parcheggio",
+    "city": "Trento",
+    "lines": [
+      "G"
+    ],
+    "mode": "bus",
+    "latitude": 46.107957,
+    "longitude": 11.10538
+  },
+  {
+    "id": "318",
+    "name": "Degasperi \"Big Center\"",
+    "city": "Trento",
+    "lines": [
+      "4",
+      "8"
+    ],
+    "mode": "bus",
+    "latitude": 46.044844,
+    "longitude": 11.128022
+  },
+  {
+    "id": "319",
+    "name": "Degasperi \"Big Center\"",
+    "city": "Trento",
+    "lines": [
+      "4",
+      "8"
+    ],
+    "mode": "bus",
+    "latitude": 46.045018,
+    "longitude": 11.128138
+  },
+  {
+    "id": "316",
+    "name": "Degasperi \"Palazzo Stella\"",
+    "city": "Trento",
+    "lines": [
+      "4",
+      "8"
+    ],
+    "mode": "bus",
+    "latitude": 46.0431,
+    "longitude": 11.129397
+  },
+  {
+    "id": "317",
+    "name": "Degasperi \"Palazzo Stella\"",
+    "city": "Trento",
+    "lines": [
+      "4",
+      "8"
+    ],
+    "mode": "bus",
+    "latitude": 46.0429,
+    "longitude": 11.129774
+  },
+  {
+    "id": "314",
+    "name": "Degasperi Anna Frank",
+    "city": "Trento",
+    "lines": [
+      "4",
+      "8",
+      "C"
+    ],
+    "mode": "bus",
+    "latitude": 46.050201,
+    "longitude": 11.124067
+  },
+  {
+    "id": "315",
+    "name": "Degasperi Anna Frank",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "4",
+      "8",
+      "12",
+      "C"
+    ],
+    "mode": "bus",
+    "latitude": 46.051157,
+    "longitude": 11.122932
+  },
+  {
+    "id": "320",
+    "name": "Degasperi La Clarina",
+    "city": "Trento",
+    "lines": [
+      "4",
+      "8",
+      "C"
+    ],
+    "mode": "bus",
+    "latitude": 46.048007,
+    "longitude": 11.126793
+  },
+  {
+    "id": "321",
+    "name": "Degasperi La Clarina",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "4",
+      "8",
+      "12",
+      "18",
+      "C"
+    ],
+    "mode": "bus",
+    "latitude": 46.04867,
+    "longitude": 11.126205
+  },
+  {
+    "id": "37",
+    "name": "Degli Alpini Oberziner",
+    "city": "Trento",
+    "lines": [
+      "4",
+      "8"
+    ],
+    "mode": "bus",
+    "latitude": 46.079109,
+    "longitude": 11.118075
+  },
+  {
+    "id": "322",
+    "name": "Dei Mille \"Villa Igea\"",
+    "city": "Trento",
+    "lines": [
+      "7",
+      "18"
+    ],
+    "mode": "bus",
+    "latitude": 46.062502,
+    "longitude": 11.127822
+  },
+  {
+    "id": "323",
+    "name": "Dei Mille \"Villa Igea\"",
+    "city": "Trento",
+    "lines": [
+      "7",
+      "18"
+    ],
+    "mode": "bus",
+    "latitude": 46.062524,
+    "longitude": 11.127957
+  },
+  {
+    "id": "3128",
+    "name": "Dogana \"Stazione Ftm\"",
+    "city": "Trento",
+    "lines": [
+      "11",
+      "15",
+      "17"
+    ],
+    "mode": "bus",
+    "latitude": 46.073852,
+    "longitude": 11.120692
+  },
+  {
+    "id": "437",
+    "name": "Dos Trento \"Centro Sportivo\"",
+    "city": "Trento",
+    "lines": [
+      "2",
+      "6"
+    ],
+    "mode": "bus",
+    "latitude": 46.075623,
+    "longitude": 11.107078
+  },
+  {
+    "id": "438",
+    "name": "Dos Trento \"Centro Sportivo\"",
+    "city": "Trento",
+    "lines": [
+      "2",
+      "6"
+    ],
+    "mode": "bus",
+    "latitude": 46.075279,
+    "longitude": 11.107483
+  },
+  {
+    "id": "330",
+    "name": "Dos Trento Apuleio",
+    "city": "Trento",
+    "lines": [
+      "2",
+      "6",
+      "N"
+    ],
+    "mode": "bus",
+    "latitude": 46.073035,
+    "longitude": 11.114821
+  },
+  {
+    "id": "329",
+    "name": "Dos Trento Mariano",
+    "city": "Trento",
+    "lines": [
+      "2",
+      "6",
+      "N"
+    ],
+    "mode": "bus",
+    "latitude": 46.074583,
+    "longitude": 11.11342
+  },
+  {
+    "id": "2713",
+    "name": "Dos Trento Mariano",
+    "city": "Trento",
+    "lines": [
+      "N"
+    ],
+    "mode": "bus",
+    "latitude": 46.073642,
+    "longitude": 11.114545
+  },
+  {
+    "id": "2931",
+    "name": "Dosso",
+    "city": "Rovereto",
+    "lines": [
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 45.881347,
+    "longitude": 11.054833
+  },
+  {
+    "id": "2935",
+    "name": "Dosso",
+    "city": "Rovereto",
+    "lines": [
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 45.881423,
+    "longitude": 11.054627
+  },
+  {
+    "id": "2525",
+    "name": "Eremo",
+    "city": "Trento",
+    "lines": [
+      "CM"
+    ],
+    "mode": "bus",
+    "latitude": 46.068285,
+    "longitude": 11.17864
+  },
+  {
+    "id": "2535",
+    "name": "Eremo",
+    "city": "Trento",
+    "lines": [
+      "CM"
+    ],
+    "mode": "bus",
+    "latitude": 46.068223,
+    "longitude": 11.1787
+  },
+  {
+    "id": "162",
+    "name": "F.Lli Fontana Gen. Cantore",
+    "city": "Trento",
+    "lines": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "mode": "bus",
+    "latitude": 46.076884,
+    "longitude": 11.118989
+  },
+  {
+    "id": "333",
+    "name": "F.Lli Fontana Gen. Cantore",
+    "city": "Trento",
+    "lines": [
+      "2",
+      "4",
+      "8"
+    ],
+    "mode": "bus",
+    "latitude": 46.077014,
+    "longitude": 11.118701
+  },
+  {
+    "id": "334",
+    "name": "F.Lli Fontana Oberziner",
+    "city": "Trento",
+    "lines": [
+      "2"
+    ],
+    "mode": "bus",
+    "latitude": 46.077447,
+    "longitude": 11.11678
+  },
+  {
+    "id": "401",
+    "name": "F.Lli Perini 3 Novembre",
+    "city": "Trento",
+    "lines": [
+      "1",
+      "2",
+      "8",
+      "13"
+    ],
+    "mode": "bus",
+    "latitude": 46.060865,
+    "longitude": 11.124266
+  },
+  {
+    "id": "335",
+    "name": "Fermi La Clarina",
+    "city": "Trento",
+    "lines": [
+      "12",
+      "18",
+      "C"
+    ],
+    "mode": "bus",
+    "latitude": 46.048694,
+    "longitude": 11.129102
+  },
+  {
+    "id": "2811",
+    "name": "Fermi Volta",
+    "city": "Trento",
+    "lines": [
+      "18"
+    ],
+    "mode": "bus",
+    "latitude": 46.047137,
+    "longitude": 11.127008
+  },
+  {
+    "id": "3145",
+    "name": "Fermi Volta",
+    "city": "Trento",
+    "lines": [
+      "18"
+    ],
+    "mode": "bus",
+    "latitude": 46.046989,
+    "longitude": 11.126274
+  },
+  {
+    "id": "3146",
+    "name": "Fersina \"Campi Da Tennis\"",
+    "city": "Trento",
+    "lines": [
+      "18"
+    ],
+    "mode": "bus",
+    "latitude": 46.044632,
+    "longitude": 11.12169
+  },
+  {
+    "id": "3147",
+    "name": "Fersina \"Campi Da Tennis\"",
+    "city": "Trento",
+    "lines": [
+      "18"
+    ],
+    "mode": "bus",
+    "latitude": 46.044827,
+    "longitude": 11.122294
+  },
+  {
+    "id": "3149",
+    "name": "Fersina \"Zona Sportiva\"",
+    "city": "Trento",
+    "lines": [
+      "18"
+    ],
+    "mode": "bus",
+    "latitude": 46.041683,
+    "longitude": 11.123708
+  },
+  {
+    "id": "338",
+    "name": "Fogazzaro \"Piscina\"",
+    "city": "Trento",
+    "lines": [
+      "18"
+    ],
+    "mode": "bus",
+    "latitude": 46.056256,
+    "longitude": 11.130446
+  },
+  {
+    "id": "339",
+    "name": "Fogazzaro \"Piscina\"",
+    "city": "Trento",
+    "lines": [
+      "18"
+    ],
+    "mode": "bus",
+    "latitude": 46.055999,
+    "longitude": 11.129676
+  },
+  {
+    "id": "43",
+    "name": "Forte Bus De Vela",
+    "city": "Trento",
+    "lines": [
+      "1",
+      "6",
+      "8"
+    ],
+    "mode": "bus",
+    "latitude": 46.085345,
+    "longitude": 11.069798
+  },
+  {
+    "id": "46",
+    "name": "Gabbiolo \"Campo Sportivo\"",
+    "city": "Trento",
+    "lines": [
+      "6",
+      "13"
+    ],
+    "mode": "bus",
+    "latitude": 46.055301,
+    "longitude": 11.14899
+  },
+  {
+    "id": "47",
+    "name": "Gabbiolo \"Campo Sportivo\"",
+    "city": "Trento",
+    "lines": [
+      "1",
+      "6",
+      "13"
+    ],
+    "mode": "bus",
+    "latitude": 46.055279,
+    "longitude": 11.148843
+  },
+  {
+    "id": "2918",
+    "name": "Gabbiolo Capolinea",
+    "city": "Trento",
+    "lines": [
+      "6"
+    ],
+    "mode": "bus",
+    "latitude": 46.055543,
+    "longitude": 11.149154
+  },
+  {
+    "id": "3133",
+    "name": "Galassa De Riccabona",
+    "city": "Trento",
+    "lines": [
+      "1",
+      "3",
+      "6",
+      "13"
+    ],
+    "mode": "bus",
+    "latitude": 46.041497,
+    "longitude": 11.142601
+  },
+  {
+    "id": "3134",
+    "name": "Galassa De Riccabona",
+    "city": "Trento",
+    "lines": [
+      "1",
+      "3",
+      "6",
+      "13"
+    ],
+    "mode": "bus",
+    "latitude": 46.041289,
+    "longitude": 11.142599
+  },
+  {
+    "id": "342",
+    "name": "Gandhi \"Parco Anna Frank\"",
+    "city": "Trento",
+    "lines": [
+      "18"
+    ],
+    "mode": "bus",
+    "latitude": 46.051768,
+    "longitude": 11.124369
+  },
+  {
+    "id": "2763",
+    "name": "Gard.D.Mezzo Dos D.La Luna",
+    "city": "Trento",
+    "lines": [
+      "G"
+    ],
+    "mode": "bus",
+    "latitude": 46.11529,
+    "longitude": 11.117253
+  },
+  {
+    "id": "2764",
+    "name": "Gard.D.Mezzo Maso Garbini",
+    "city": "Trento",
+    "lines": [
+      "G"
+    ],
+    "mode": "bus",
+    "latitude": 46.114547,
+    "longitude": 11.116633
+  },
+  {
+    "id": "430",
+    "name": "Gardolo \"Cimitero\"",
+    "city": "Trento",
+    "lines": [
+      "4",
+      "7",
+      "G"
+    ],
+    "mode": "bus",
+    "latitude": 46.106424,
+    "longitude": 11.105638
+  },
+  {
+    "id": "13",
+    "name": "Gardolo \"Materna Paludi\"",
+    "city": "Trento",
+    "lines": [
+      "4",
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 46.103917,
+    "longitude": 11.108166
+  },
+  {
+    "id": "261",
+    "name": "Gardolo \"Stazione Ftm\"",
+    "city": "Trento",
+    "lines": [
+      "4",
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 46.107233,
+    "longitude": 11.103845
+  },
+  {
+    "id": "258",
+    "name": "Gardolo 4 Nov. \"Piscina\"",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 46.104302,
+    "longitude": 11.112908
+  },
+  {
+    "id": "2663",
+    "name": "Gardolo 4 Nov. 2 Giugno",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 46.101135,
+    "longitude": 11.112927
+  },
+  {
+    "id": "257",
+    "name": "Gardolo 4 Nov. Canova",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 46.098824,
+    "longitude": 11.112888
+  },
+  {
+    "id": "259",
+    "name": "Gardolo 4 Nov. Soprasasso",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 46.106596,
+    "longitude": 11.112223
+  },
+  {
+    "id": "2457",
+    "name": "Gardolo Castel di Gardolo",
+    "city": "Trento",
+    "lines": [
+      "G"
+    ],
+    "mode": "bus",
+    "latitude": 46.113949,
+    "longitude": 11.110526
+  },
+  {
+    "id": "2458",
+    "name": "Gardolo Castel di Gardolo",
+    "city": "Trento",
+    "lines": [
+      "G"
+    ],
+    "mode": "bus",
+    "latitude": 46.113874,
+    "longitude": 11.11117
+  },
+  {
+    "id": "59",
+    "name": "Gardolo D.Milani \"Piscina\"",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "7",
+      "17"
+    ],
+    "mode": "bus",
+    "latitude": 46.10671,
+    "longitude": 11.114353
+  },
+  {
+    "id": "60",
+    "name": "Gardolo D.Milani \"Piscina\"",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "7",
+      "17"
+    ],
+    "mode": "bus",
+    "latitude": 46.106764,
+    "longitude": 11.114361
+  },
+  {
+    "id": "58",
+    "name": "Gardolo Don Milani 8 Marzo",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "7",
+      "17"
+    ],
+    "mode": "bus",
+    "latitude": 46.103947,
+    "longitude": 11.117561
+  },
+  {
+    "id": "61",
+    "name": "Gardolo Don Milani 8 Marzo",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "7",
+      "17"
+    ],
+    "mode": "bus",
+    "latitude": 46.104154,
+    "longitude": 11.117338
+  },
+  {
+    "id": "53",
+    "name": "Gardolo P.Le Neufahrn Nord",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "4",
+      "7",
+      "G"
+    ],
+    "mode": "bus",
+    "latitude": 46.106673,
+    "longitude": 11.11158
+  },
+  {
+    "id": "52",
+    "name": "Gardolo P.Le Neufahrn Sud",
+    "city": "Trento",
+    "lines": [
+      "4",
+      "7",
+      "11",
+      "17",
+      "G"
+    ],
+    "mode": "bus",
+    "latitude": 46.106607,
+    "longitude": 11.111622
+  },
+  {
+    "id": "54",
+    "name": "Gardolo Piazza",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "4",
+      "11",
+      "17",
+      "G"
+    ],
+    "mode": "bus",
+    "latitude": 46.108364,
+    "longitude": 11.111681
+  },
+  {
+    "id": "55",
+    "name": "Gardolo Piazza",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "4",
+      "G"
+    ],
+    "mode": "bus",
+    "latitude": 46.108465,
+    "longitude": 11.111514
+  },
+  {
+    "id": "50",
+    "name": "Gardolo S.Anna",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "4",
+      "11",
+      "17",
+      "G"
+    ],
+    "mode": "bus",
+    "latitude": 46.111157,
+    "longitude": 11.109534
+  },
+  {
+    "id": "51",
+    "name": "Gardolo S.Anna",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "4",
+      "G"
+    ],
+    "mode": "bus",
+    "latitude": 46.111087,
+    "longitude": 11.109494
+  },
+  {
+    "id": "62",
+    "name": "Gardolo S.Anna Carpenedi",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "4",
+      "11",
+      "17",
+      "G"
+    ],
+    "mode": "bus",
+    "latitude": 46.113334,
+    "longitude": 11.107735
+  },
+  {
+    "id": "63",
+    "name": "Gardolo S.Anna Carpenedi",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "4",
+      "G"
+    ],
+    "mode": "bus",
+    "latitude": 46.113375,
+    "longitude": 11.107612
+  },
+  {
+    "id": "428",
+    "name": "Gardolo Soprasasso",
+    "city": "Trento",
+    "lines": [
+      "4",
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 46.105625,
+    "longitude": 11.107433
+  },
+  {
+    "id": "429",
+    "name": "Gardolo Soprasasso",
+    "city": "Trento",
+    "lines": [
+      "4",
+      "7",
+      "G"
+    ],
+    "mode": "bus",
+    "latitude": 46.105498,
+    "longitude": 11.10728
+  },
+  {
+    "id": "64",
+    "name": "Gardolo Svincolo Ss.12",
+    "city": "Trento",
+    "lines": [
+      "3"
+    ],
+    "mode": "bus",
+    "latitude": 46.106196,
+    "longitude": 11.109014
+  },
+  {
+    "id": "471",
+    "name": "Gazzadina Al Molar",
+    "city": "Trento",
+    "lines": [
+      "3"
+    ],
+    "mode": "bus",
+    "latitude": 46.130653,
+    "longitude": 11.130774
+  },
+  {
+    "id": "472",
+    "name": "Gazzadina Al Molar",
+    "city": "Trento",
+    "lines": [
+      "3"
+    ],
+    "mode": "bus",
+    "latitude": 46.130483,
+    "longitude": 11.130637
+  },
+  {
+    "id": "66",
+    "name": "Gazzadina Al Pontat",
+    "city": "Trento",
+    "lines": [
+      "3"
+    ],
+    "mode": "bus",
+    "latitude": 46.128896,
+    "longitude": 11.128728
+  },
+  {
+    "id": "67",
+    "name": "Gazzadina Al Pontat",
+    "city": "Trento",
+    "lines": [
+      "3"
+    ],
+    "mode": "bus",
+    "latitude": 46.128751,
+    "longitude": 11.129085
+  },
+  {
+    "id": "2522",
+    "name": "Gazzadina Del Porfido",
+    "city": "Trento",
+    "lines": [
+      "3"
+    ],
+    "mode": "bus",
+    "latitude": 46.130527,
+    "longitude": 11.126294
+  },
+  {
+    "id": "2521",
+    "name": "Gazzadina Le Case Nòve",
+    "city": "Trento",
+    "lines": [
+      "3"
+    ],
+    "mode": "bus",
+    "latitude": 46.134055,
+    "longitude": 11.128326
+  },
+  {
+    "id": "65",
+    "name": "Gazzadina Strada Vecchia",
+    "city": "Trento",
+    "lines": [
+      "3"
+    ],
+    "mode": "bus",
+    "latitude": 46.13011,
+    "longitude": 11.126402
+  },
+  {
+    "id": "68",
+    "name": "Gazzadina Strada Vecchia",
+    "city": "Trento",
+    "lines": [
+      "3"
+    ],
+    "mode": "bus",
+    "latitude": 46.130171,
+    "longitude": 11.126098
+  },
+  {
+    "id": "2680",
+    "name": "Gazzoletti Piazza Dante",
+    "city": "Trento",
+    "lines": [
+      "1",
+      "6",
+      "7",
+      "11",
+      "15",
+      "17",
+      "C"
+    ],
+    "mode": "bus",
+    "latitude": 46.071849,
+    "longitude": 11.122012
+  },
+  {
+    "id": "2887",
+    "name": "Genovesa",
+    "city": "Rovereto",
+    "lines": [
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 45.882824,
+    "longitude": 11.062596
+  },
+  {
+    "id": "2888",
+    "name": "Genovesa",
+    "city": "Rovereto",
+    "lines": [
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 45.882447,
+    "longitude": 11.062558
+  },
+  {
+    "id": "344",
+    "name": "Gerola \"Ospedale S.Chiara\"",
+    "city": "Trento",
+    "lines": [
+      "1",
+      "2",
+      "7",
+      "18"
+    ],
+    "mode": "bus",
+    "latitude": 46.058333,
+    "longitude": 11.133082
+  },
+  {
+    "id": "346",
+    "name": "Ghiaie \"Giardinerie\"",
+    "city": "Trento",
+    "lines": [
+      "12"
+    ],
+    "mode": "bus",
+    "latitude": 46.05317,
+    "longitude": 11.116794
+  },
+  {
+    "id": "2406",
+    "name": "Ghiaie \"Giardinerie\"",
+    "city": "Trento",
+    "lines": [
+      "12"
+    ],
+    "mode": "bus",
+    "latitude": 46.052905,
+    "longitude": 11.11704
+  },
+  {
+    "id": "2448",
+    "name": "Ghiaie \"Sc. Materna\"",
+    "city": "Trento",
+    "lines": [
+      "G"
+    ],
+    "mode": "bus",
+    "latitude": 46.124688,
+    "longitude": 11.099827
+  },
+  {
+    "id": "2446",
+    "name": "Ghiaie \"Zona Ind.Le Ftm\"",
+    "city": "Trento",
+    "lines": [
+      "G"
+    ],
+    "mode": "bus",
+    "latitude": 46.119112,
+    "longitude": 11.105325
+  },
+  {
+    "id": "345",
+    "name": "Ghiaie Monte Baldo",
+    "city": "Trento",
+    "lines": [
+      "12"
+    ],
+    "mode": "bus",
+    "latitude": 46.056236,
+    "longitude": 11.11612
+  },
+  {
+    "id": "2407",
+    "name": "Ghiaie Monte Baldo",
+    "city": "Trento",
+    "lines": [
+      "12"
+    ],
+    "mode": "bus",
+    "latitude": 46.05639,
+    "longitude": 11.116193
+  },
+  {
+    "id": "2447",
+    "name": "Ghiaie Salisburgo",
+    "city": "Trento",
+    "lines": [
+      "G"
+    ],
+    "mode": "bus",
+    "latitude": 46.123098,
+    "longitude": 11.103287
+  },
+  {
+    "id": "2673",
+    "name": "Giardini Collina",
+    "city": "Trento",
+    "lines": [
+      "C"
+    ],
+    "mode": "bus",
+    "latitude": 46.068199,
+    "longitude": 11.129707
+  },
+  {
+    "id": "347",
+    "name": "Giovanelli \"Osp. S.Camillo\"",
+    "city": "Trento",
+    "lines": [
+      "1",
+      "6",
+      "18"
+    ],
+    "mode": "bus",
+    "latitude": 46.0655,
+    "longitude": 11.131873
+  },
+  {
+    "id": "349",
+    "name": "Giusti \"Arcivescovile\"",
+    "city": "Trento",
+    "lines": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "7",
+      "12",
+      "13",
+      "14",
+      "19",
+      "C"
+    ],
+    "mode": "bus",
+    "latitude": 46.061521,
+    "longitude": 11.119038
+  },
+  {
+    "id": "348",
+    "name": "Giusti Pascoli",
+    "city": "Trento",
+    "lines": [
+      "2",
+      "4",
+      "12",
+      "13",
+      "14",
+      "19",
+      "C"
+    ],
+    "mode": "bus",
+    "latitude": 46.060282,
+    "longitude": 11.118954
+  },
+  {
+    "id": "3155",
+    "name": "Gocciadoro",
+    "city": "Trento",
+    "lines": [
+      "2",
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 46.056371,
+    "longitude": 11.135201
+  },
+  {
+    "id": "351",
+    "name": "Gocciadoro \"Poliambulatori\"",
+    "city": "Trento",
+    "lines": [
+      "2",
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 46.055632,
+    "longitude": 11.132219
+  },
+  {
+    "id": "352",
+    "name": "Gorizia Adamello",
+    "city": "Trento",
+    "lines": [
+      "1",
+      "2",
+      "7",
+      "18"
+    ],
+    "mode": "bus",
+    "latitude": 46.059878,
+    "longitude": 11.131346
+  },
+  {
+    "id": "353",
+    "name": "Gramsci \"Materna La Clarina\"",
+    "city": "Trento",
+    "lines": [
+      "18"
+    ],
+    "mode": "bus",
+    "latitude": 46.053331,
+    "longitude": 11.125535
+  },
+  {
+    "id": "354",
+    "name": "Gramsci Einaudi",
+    "city": "Trento",
+    "lines": [
+      "18"
+    ],
+    "mode": "bus",
+    "latitude": 46.052639,
+    "longitude": 11.128171
+  },
+  {
+    "id": "355",
+    "name": "Grazioli Brigata Acqui",
+    "city": "Trento",
+    "lines": [
+      "1",
+      "6",
+      "18"
+    ],
+    "mode": "bus",
+    "latitude": 46.067114,
+    "longitude": 11.128745
+  },
+  {
+    "id": "70",
+    "name": "Grotta Bindesi",
+    "city": "Trento",
+    "lines": [
+      "6"
+    ],
+    "mode": "bus",
+    "latitude": 46.043306,
+    "longitude": 11.151756
+  },
+  {
+    "id": "71",
+    "name": "Grotta Bindesi",
+    "city": "Trento",
+    "lines": [
+      "1",
+      "6"
+    ],
+    "mode": "bus",
+    "latitude": 46.043679,
+    "longitude": 11.151494
+  },
+  {
+    "id": "69",
+    "name": "Grotta Piazza",
+    "city": "Trento",
+    "lines": [
+      "1",
+      "6"
+    ],
+    "mode": "bus",
+    "latitude": 46.045775,
+    "longitude": 11.151173
+  },
+  {
+    "id": "2383",
+    "name": "Guardini \"Centochiavi\"",
+    "city": "Trento",
+    "lines": [
+      "8",
+      "16"
+    ],
+    "mode": "bus",
+    "latitude": 46.092602,
+    "longitude": 11.118549
+  },
+  {
+    "id": "356",
+    "name": "Guardini Gilli",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "7",
+      "17"
+    ],
+    "mode": "bus",
+    "latitude": 46.091908,
+    "longitude": 11.119067
+  },
+  {
+    "id": "357",
+    "name": "Guardini Gilli",
+    "city": "Trento",
+    "lines": [
+      "8",
+      "16"
+    ],
+    "mode": "bus",
+    "latitude": 46.091364,
+    "longitude": 11.119265
+  },
+  {
+    "id": "2793",
+    "name": "Innsbruck \"Trentino Trasporti\"",
+    "city": "Trento",
+    "lines": [
+      "15"
+    ],
+    "mode": "bus",
+    "latitude": 46.101861,
+    "longitude": 11.094798
+  },
+  {
+    "id": "2794",
+    "name": "Innsbruck \"Trentino Trasporti\"",
+    "city": "Trento",
+    "lines": [
+      "15"
+    ],
+    "mode": "bus",
+    "latitude": 46.102289,
+    "longitude": 11.094582
+  },
+  {
+    "id": "2797",
+    "name": "Interporto \"Fercam\"",
+    "city": "Trento",
+    "lines": [
+      "15"
+    ],
+    "mode": "bus",
+    "latitude": 46.108338,
+    "longitude": 11.091621
+  },
+  {
+    "id": "2798",
+    "name": "Interporto \"Fercam\"",
+    "city": "Trento",
+    "lines": [
+      "15"
+    ],
+    "mode": "bus",
+    "latitude": 46.108429,
+    "longitude": 11.0917
+  },
+  {
+    "id": "2791",
+    "name": "Interporto \"Interbrennero\"",
+    "city": "Trento",
+    "lines": [
+      "15"
+    ],
+    "mode": "bus",
+    "latitude": 46.111248,
+    "longitude": 11.090882
+  },
+  {
+    "id": "2792",
+    "name": "Interporto \"Interbrennero\"",
+    "city": "Trento",
+    "lines": [
+      "15"
+    ],
+    "mode": "bus",
+    "latitude": 46.111195,
+    "longitude": 11.090792
+  },
+  {
+    "id": "2795",
+    "name": "Interporto \"Logistica 2\"",
+    "city": "Trento",
+    "lines": [
+      "15"
+    ],
+    "mode": "bus",
+    "latitude": 46.106315,
+    "longitude": 11.092329
+  },
+  {
+    "id": "2796",
+    "name": "Interporto \"Logistica 2\"",
+    "city": "Trento",
+    "lines": [
+      "15"
+    ],
+    "mode": "bus",
+    "latitude": 46.106112,
+    "longitude": 11.092271
+  },
+  {
+    "id": "2828",
+    "name": "Interporto \"Sait\"",
+    "city": "Trento",
+    "lines": [
+      "15"
+    ],
+    "mode": "bus",
+    "latitude": 46.113255,
+    "longitude": 11.090192
+  },
+  {
+    "id": "2829",
+    "name": "Interporto \"Sait\"",
+    "city": "Trento",
+    "lines": [
+      "15"
+    ],
+    "mode": "bus",
+    "latitude": 46.113317,
+    "longitude": 11.090281
+  },
+  {
+    "id": "2470",
+    "name": "Jedin Sanseverino",
+    "city": "Trento",
+    "lines": [
+      "12"
+    ],
+    "mode": "bus",
+    "latitude": 46.051205,
+    "longitude": 11.114779
+  },
+  {
+    "id": "2471",
+    "name": "Jedin Sanseverino",
+    "city": "Trento",
+    "lines": [
+      "12"
+    ],
+    "mode": "bus",
+    "latitude": 46.051314,
+    "longitude": 11.11448
+  },
+  {
+    "id": "73",
+    "name": "Lamar \"Ftm\"",
+    "city": "Trento",
+    "lines": [
+      "17"
+    ],
+    "mode": "bus",
+    "latitude": 46.125847,
+    "longitude": 11.107861
+  },
+  {
+    "id": "74",
+    "name": "Lamar \"Ftm\"",
+    "city": "Trento",
+    "lines": [
+      "4",
+      "8",
+      "17"
+    ],
+    "mode": "bus",
+    "latitude": 46.125967,
+    "longitude": 11.107596
+  },
+  {
+    "id": "75",
+    "name": "Lamar \"Sottostazione Enel\"",
+    "city": "Trento",
+    "lines": [
+      "17"
+    ],
+    "mode": "bus",
+    "latitude": 46.129144,
+    "longitude": 11.109752
+  },
+  {
+    "id": "285",
+    "name": "Lamar \"Sottostazione Enel\"",
+    "city": "Trento",
+    "lines": [
+      "4",
+      "8",
+      "17"
+    ],
+    "mode": "bus",
+    "latitude": 46.131117,
+    "longitude": 11.110231
+  },
+  {
+    "id": "2472",
+    "name": "Lamar \"Via Rossa\"",
+    "city": "Trento",
+    "lines": [
+      "17"
+    ],
+    "mode": "bus",
+    "latitude": 46.121478,
+    "longitude": 11.106445
+  },
+  {
+    "id": "4",
+    "name": "Lamar Ponte Avisio",
+    "city": "Trento",
+    "lines": [
+      "17"
+    ],
+    "mode": "bus",
+    "latitude": 46.134568,
+    "longitude": 11.111001
+  },
+  {
+    "id": "223",
+    "name": "Lamar Sponda Trentina",
+    "city": "Trento",
+    "lines": [
+      "4",
+      "8",
+      "17"
+    ],
+    "mode": "bus",
+    "latitude": 46.134482,
+    "longitude": 11.111548
+  },
+  {
+    "id": "3111",
+    "name": "Lamar Sponda Trentina",
+    "city": "Trento",
+    "lines": [
+      "17"
+    ],
+    "mode": "bus",
+    "latitude": 46.134686,
+    "longitude": 11.111923
+  },
+  {
+    "id": "448",
+    "name": "Largo Prati",
+    "city": "Trento",
+    "lines": [
+      "12"
+    ],
+    "mode": "bus",
+    "latitude": 46.057498,
+    "longitude": 11.117145
+  },
+  {
+    "id": "449",
+    "name": "Largo Prati",
+    "city": "Trento",
+    "lines": [
+      "8",
+      "12",
+      "14"
+    ],
+    "mode": "bus",
+    "latitude": 46.057502,
+    "longitude": 11.117642
+  },
+  {
+    "id": "2395",
+    "name": "Largo S.Floriano",
+    "city": "Rovereto",
+    "lines": [
+      "AB",
+      "B"
+    ],
+    "mode": "bus",
+    "latitude": 45.866427,
+    "longitude": 11.032708
+  },
+  {
+    "id": "76",
+    "name": "Largo Sauro",
+    "city": "Trento",
+    "lines": [
+      "11",
+      "15",
+      "17"
+    ],
+    "mode": "bus",
+    "latitude": 46.074753,
+    "longitude": 11.125004
+  },
+  {
+    "id": "3100",
+    "name": "Lavoro E Scienza \"Buc\"",
+    "city": "Trento",
+    "lines": [
+      "19"
+    ],
+    "mode": "bus",
+    "latitude": 46.058772,
+    "longitude": 11.115079
+  },
+  {
+    "id": "1343",
+    "name": "Lizzana Cristo",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "2"
+    ],
+    "mode": "bus",
+    "latitude": 45.8669,
+    "longitude": 11.030821
+  },
+  {
+    "id": "1347",
+    "name": "Lizzana Cristo",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "2"
+    ],
+    "mode": "bus",
+    "latitude": 45.867194,
+    "longitude": 11.030778
+  },
+  {
+    "id": "1348",
+    "name": "Lizzana Scuole Medie",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "2",
+      "AB",
+      "B"
+    ],
+    "mode": "bus",
+    "latitude": 45.870122,
+    "longitude": 11.031121
+  },
+  {
+    "id": "1349",
+    "name": "Lizzana Scuole Medie",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "2"
+    ],
+    "mode": "bus",
+    "latitude": 45.870153,
+    "longitude": 11.031031
+  },
+  {
+    "id": "1287",
+    "name": "Lizzanella Corso Verona",
+    "city": "Rovereto",
+    "lines": [
+      "AB",
+      "B"
+    ],
+    "mode": "bus",
+    "latitude": 45.875615,
+    "longitude": 11.034204
+  },
+  {
+    "id": "1350",
+    "name": "Lizzanella Ss.12",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "2",
+      "AB",
+      "B"
+    ],
+    "mode": "bus",
+    "latitude": 45.875541,
+    "longitude": 11.031728
+  },
+  {
+    "id": "1351",
+    "name": "Lizzanella Ss.12",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "2"
+    ],
+    "mode": "bus",
+    "latitude": 45.876134,
+    "longitude": 11.032003
+  },
+  {
+    "id": "358",
+    "name": "Lunelli \"Aci\"",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "7",
+      "17"
+    ],
+    "mode": "bus",
+    "latitude": 46.092684,
+    "longitude": 11.119846
+  },
+  {
+    "id": "262",
+    "name": "M. Rossi \"Stella D.Mattino\"",
+    "city": "Trento",
+    "lines": [
+      "4",
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 46.107391,
+    "longitude": 11.101207
+  },
+  {
+    "id": "263",
+    "name": "M. Rossi \"Stella D.Mattino\"",
+    "city": "Trento",
+    "lines": [
+      "4",
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 46.107354,
+    "longitude": 11.100457
+  },
+  {
+    "id": "156",
+    "name": "M.Vaccino \"Maso Librar\"",
+    "city": "Trento",
+    "lines": [
+      "10",
+      "M"
+    ],
+    "mode": "bus",
+    "latitude": 46.11041,
+    "longitude": 11.138496
+  },
+  {
+    "id": "157",
+    "name": "M.Vaccino \"Maso Librar\"",
+    "city": "Trento",
+    "lines": [
+      "9",
+      "10",
+      "M"
+    ],
+    "mode": "bus",
+    "latitude": 46.110514,
+    "longitude": 11.138462
+  },
+  {
+    "id": "371",
+    "name": "Maccani \"Ex Sloi\"",
+    "city": "Trento",
+    "lines": [
+      "4"
+    ],
+    "mode": "bus",
+    "latitude": 46.087967,
+    "longitude": 11.110639
+  },
+  {
+    "id": "372",
+    "name": "Maccani \"Ex Sloi\"",
+    "city": "Trento",
+    "lines": [
+      "4",
+      "8"
+    ],
+    "mode": "bus",
+    "latitude": 46.087889,
+    "longitude": 11.110606
+  },
+  {
+    "id": "368",
+    "name": "Maccani \"Polizia Locale\"",
+    "city": "Trento",
+    "lines": [
+      "4"
+    ],
+    "mode": "bus",
+    "latitude": 46.089845,
+    "longitude": 11.109059
+  },
+  {
+    "id": "369",
+    "name": "Maccani \"Polizia Locale\"",
+    "city": "Trento",
+    "lines": [
+      "4",
+      "8"
+    ],
+    "mode": "bus",
+    "latitude": 46.090707,
+    "longitude": 11.10823
+  },
+  {
+    "id": "360",
+    "name": "Maccani \"Rotatoria\"",
+    "city": "Trento",
+    "lines": [
+      "4",
+      "8"
+    ],
+    "mode": "bus",
+    "latitude": 46.082769,
+    "longitude": 11.114889
+  },
+  {
+    "id": "370",
+    "name": "Maccani \"Rotatoria\"",
+    "city": "Trento",
+    "lines": [
+      "4",
+      "8"
+    ],
+    "mode": "bus",
+    "latitude": 46.082986,
+    "longitude": 11.114802
+  },
+  {
+    "id": "365",
+    "name": "Maccani Abondi",
+    "city": "Trento",
+    "lines": [
+      "4",
+      "8"
+    ],
+    "mode": "bus",
+    "latitude": 46.080884,
+    "longitude": 11.116571
+  },
+  {
+    "id": "366",
+    "name": "Maccani Abondi",
+    "city": "Trento",
+    "lines": [
+      "4",
+      "8"
+    ],
+    "mode": "bus",
+    "latitude": 46.080857,
+    "longitude": 11.116496
+  },
+  {
+    "id": "363",
+    "name": "Maccani Campotrentino",
+    "city": "Trento",
+    "lines": [
+      "4"
+    ],
+    "mode": "bus",
+    "latitude": 46.085714,
+    "longitude": 11.112535
+  },
+  {
+    "id": "364",
+    "name": "Maccani Campotrentino",
+    "city": "Trento",
+    "lines": [
+      "4",
+      "8"
+    ],
+    "mode": "bus",
+    "latitude": 46.085455,
+    "longitude": 11.112658
+  },
+  {
+    "id": "361",
+    "name": "Maccani Commercio",
+    "city": "Trento",
+    "lines": [
+      "4",
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 46.091766,
+    "longitude": 11.10749
+  },
+  {
+    "id": "98",
+    "name": "Madonna Bianca \"Man\"",
+    "city": "Trento",
+    "lines": [
+      "8"
+    ],
+    "mode": "bus",
+    "latitude": 46.040233,
+    "longitude": 11.13044
+  },
+  {
+    "id": "96",
+    "name": "Madonna Bianca \"S.Gaetano\"",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "4",
+      "8"
+    ],
+    "mode": "bus",
+    "latitude": 46.037978,
+    "longitude": 11.13066
+  },
+  {
+    "id": "1301",
+    "name": "Marco",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "2"
+    ],
+    "mode": "bus",
+    "latitude": 45.83687,
+    "longitude": 11.011181
+  },
+  {
+    "id": "1298",
+    "name": "Marco Centro",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "2"
+    ],
+    "mode": "bus",
+    "latitude": 45.843919,
+    "longitude": 11.008619
+  },
+  {
+    "id": "1304",
+    "name": "Marco Centro",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "2"
+    ],
+    "mode": "bus",
+    "latitude": 45.843821,
+    "longitude": 11.008624
+  },
+  {
+    "id": "1299",
+    "name": "Marco Chiesa",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "2"
+    ],
+    "mode": "bus",
+    "latitude": 45.841814,
+    "longitude": 11.007836
+  },
+  {
+    "id": "1303",
+    "name": "Marco Chiesa",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "2"
+    ],
+    "mode": "bus",
+    "latitude": 45.841461,
+    "longitude": 11.008369
+  },
+  {
+    "id": "2988",
+    "name": "Marco Nord",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "2"
+    ],
+    "mode": "bus",
+    "latitude": 45.849555,
+    "longitude": 11.012767
+  },
+  {
+    "id": "2989",
+    "name": "Marco Nord",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "2"
+    ],
+    "mode": "bus",
+    "latitude": 45.849354,
+    "longitude": 11.01256
+  },
+  {
+    "id": "2849",
+    "name": "Marco Parco Ex De Bellat",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "2"
+    ],
+    "mode": "bus",
+    "latitude": 45.843739,
+    "longitude": 11.007041
+  },
+  {
+    "id": "2850",
+    "name": "Marco Parco Ex De Bellat",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "2"
+    ],
+    "mode": "bus",
+    "latitude": 45.84362,
+    "longitude": 11.007289
+  },
+  {
+    "id": "1300",
+    "name": "Marco Via Alla Ghiffa",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "2"
+    ],
+    "mode": "bus",
+    "latitude": 45.840134,
+    "longitude": 11.009486
+  },
+  {
+    "id": "1302",
+    "name": "Marco Via Alla Ghiffa",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "2"
+    ],
+    "mode": "bus",
+    "latitude": 45.8402,
+    "longitude": 11.00955
+  },
+  {
+    "id": "1297",
+    "name": "Marco Via Pinera",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "2"
+    ],
+    "mode": "bus",
+    "latitude": 45.847951,
+    "longitude": 11.011766
+  },
+  {
+    "id": "1305",
+    "name": "Marco Via Pinera",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "2"
+    ],
+    "mode": "bus",
+    "latitude": 45.847456,
+    "longitude": 11.011517
+  },
+  {
+    "id": "2851",
+    "name": "Marco Via S.Romedio",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "2"
+    ],
+    "mode": "bus",
+    "latitude": 45.845993,
+    "longitude": 11.004454
+  },
+  {
+    "id": "2852",
+    "name": "Marco Via S.Romedio",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "2"
+    ],
+    "mode": "bus",
+    "latitude": 45.847454,
+    "longitude": 11.003501
+  },
+  {
+    "id": "374",
+    "name": "Marconi Solteri",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "7",
+      "17"
+    ],
+    "mode": "bus",
+    "latitude": 46.084415,
+    "longitude": 11.121228
+  },
+  {
+    "id": "375",
+    "name": "Marconi Solteri",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "7",
+      "17"
+    ],
+    "mode": "bus",
+    "latitude": 46.084529,
+    "longitude": 11.121727
+  },
+  {
+    "id": "103",
+    "name": "Martignano \"Chiesa\"",
+    "city": "Trento",
+    "lines": [
+      "10",
+      "16"
+    ],
+    "mode": "bus",
+    "latitude": 46.088719,
+    "longitude": 11.130593
+  },
+  {
+    "id": "111",
+    "name": "Martignano Ai Bolleri",
+    "city": "Trento",
+    "lines": [
+      "10",
+      "M"
+    ],
+    "mode": "bus",
+    "latitude": 46.094528,
+    "longitude": 11.130103
+  },
+  {
+    "id": "112",
+    "name": "Martignano Ai Bolleri",
+    "city": "Trento",
+    "lines": [
+      "9",
+      "10",
+      "M"
+    ],
+    "mode": "bus",
+    "latitude": 46.094843,
+    "longitude": 11.129425
+  },
+  {
+    "id": "279",
+    "name": "Martignano Capitel",
+    "city": "Trento",
+    "lines": [
+      "10",
+      "16"
+    ],
+    "mode": "bus",
+    "latitude": 46.082249,
+    "longitude": 11.127221
+  },
+  {
+    "id": "280",
+    "name": "Martignano Capitel",
+    "city": "Trento",
+    "lines": [
+      "9",
+      "10",
+      "16"
+    ],
+    "mode": "bus",
+    "latitude": 46.08168,
+    "longitude": 11.126846
+  },
+  {
+    "id": "327",
+    "name": "Martignano Castori",
+    "city": "Trento",
+    "lines": [
+      "10",
+      "16"
+    ],
+    "mode": "bus",
+    "latitude": 46.083464,
+    "longitude": 11.127864
+  },
+  {
+    "id": "328",
+    "name": "Martignano Castori",
+    "city": "Trento",
+    "lines": [
+      "9",
+      "10",
+      "16"
+    ],
+    "mode": "bus",
+    "latitude": 46.083438,
+    "longitude": 11.127722
+  },
+  {
+    "id": "308",
+    "name": "Martignano Cesarini",
+    "city": "Trento",
+    "lines": [
+      "10",
+      "16"
+    ],
+    "mode": "bus",
+    "latitude": 46.086329,
+    "longitude": 11.129247
+  },
+  {
+    "id": "309",
+    "name": "Martignano Cesarini",
+    "city": "Trento",
+    "lines": [
+      "9",
+      "10",
+      "16"
+    ],
+    "mode": "bus",
+    "latitude": 46.087089,
+    "longitude": 11.129618
+  },
+  {
+    "id": "325",
+    "name": "Martignano Costiole",
+    "city": "Trento",
+    "lines": [
+      "10"
+    ],
+    "mode": "bus",
+    "latitude": 46.092338,
+    "longitude": 11.132591
+  },
+  {
+    "id": "326",
+    "name": "Martignano Costiole",
+    "city": "Trento",
+    "lines": [
+      "9",
+      "10"
+    ],
+    "mode": "bus",
+    "latitude": 46.092456,
+    "longitude": 11.1325
+  },
+  {
+    "id": "101",
+    "name": "Martignano Formigheta",
+    "city": "Trento",
+    "lines": [
+      "9",
+      "10",
+      "16"
+    ],
+    "mode": "bus",
+    "latitude": 46.089145,
+    "longitude": 11.133132
+  },
+  {
+    "id": "102",
+    "name": "Martignano Formigheta",
+    "city": "Trento",
+    "lines": [
+      "9",
+      "10",
+      "16"
+    ],
+    "mode": "bus",
+    "latitude": 46.088977,
+    "longitude": 11.133177
+  },
+  {
+    "id": "106",
+    "name": "Martignano P.Zza Menghin",
+    "city": "Trento",
+    "lines": [
+      "10",
+      "M"
+    ],
+    "mode": "bus",
+    "latitude": 46.090133,
+    "longitude": 11.131586
+  },
+  {
+    "id": "107",
+    "name": "Martignano P.Zza Menghin",
+    "city": "Trento",
+    "lines": [
+      "9",
+      "10"
+    ],
+    "mode": "bus",
+    "latitude": 46.090206,
+    "longitude": 11.131471
+  },
+  {
+    "id": "108",
+    "name": "Martignano Piazza Canopi",
+    "city": "Trento",
+    "lines": [
+      "9",
+      "10",
+      "16"
+    ],
+    "mode": "bus",
+    "latitude": 46.089258,
+    "longitude": 11.130976
+  },
+  {
+    "id": "7",
+    "name": "Maso Bolleri",
+    "city": "Trento",
+    "lines": [
+      "10",
+      "M"
+    ],
+    "mode": "bus",
+    "latitude": 46.102457,
+    "longitude": 11.124144
+  },
+  {
+    "id": "8",
+    "name": "Maso Bolleri",
+    "city": "Trento",
+    "lines": [
+      "9",
+      "10",
+      "M"
+    ],
+    "mode": "bus",
+    "latitude": 46.102269,
+    "longitude": 11.123991
+  },
+  {
+    "id": "2528",
+    "name": "Maso di Brenz",
+    "city": "Trento",
+    "lines": [
+      "CM"
+    ],
+    "mode": "bus",
+    "latitude": 46.065735,
+    "longitude": 11.172325
+  },
+  {
+    "id": "2533",
+    "name": "Maso di Brenz",
+    "city": "Trento",
+    "lines": [
+      "CM"
+    ],
+    "mode": "bus",
+    "latitude": 46.065461,
+    "longitude": 11.172052
+  },
+  {
+    "id": "2240",
+    "name": "Maso Mortal",
+    "city": "Rovereto",
+    "lines": [
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 45.882697,
+    "longitude": 11.079603
+  },
+  {
+    "id": "2241",
+    "name": "Maso Mortal",
+    "city": "Rovereto",
+    "lines": [
+      "6",
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 45.882929,
+    "longitude": 11.079489
+  },
+  {
+    "id": "441",
+    "name": "Maso Rossi Aichner",
+    "city": "Trento",
+    "lines": [
+      "4",
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 46.105192,
+    "longitude": 11.100545
+  },
+  {
+    "id": "2423",
+    "name": "Maso Rossi Aichner",
+    "city": "Trento",
+    "lines": [
+      "4",
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 46.105349,
+    "longitude": 11.100544
+  },
+  {
+    "id": "2475",
+    "name": "Maso Valduga",
+    "city": "Rovereto",
+    "lines": [
+      "6"
+    ],
+    "mode": "bus",
+    "latitude": 45.899728,
+    "longitude": 11.054359
+  },
+  {
+    "id": "2477",
+    "name": "Maso Valduga",
+    "city": "Rovereto",
+    "lines": [
+      "6"
+    ],
+    "mode": "bus",
+    "latitude": 45.899654,
+    "longitude": 11.054251
+  },
+  {
+    "id": "2949",
+    "name": "Mattarello \"Parco\"",
+    "city": "Trento",
+    "lines": [
+      "4",
+      "8"
+    ],
+    "mode": "bus",
+    "latitude": 46.008686,
+    "longitude": 11.131522
+  },
+  {
+    "id": "2950",
+    "name": "Mattarello \"Parco\"",
+    "city": "Trento",
+    "lines": [
+      "8"
+    ],
+    "mode": "bus",
+    "latitude": 46.007896,
+    "longitude": 11.131472
+  },
+  {
+    "id": "123",
+    "name": "Mattarello \"Ronchi\"",
+    "city": "Trento",
+    "lines": [
+      "8"
+    ],
+    "mode": "bus",
+    "latitude": 46.017229,
+    "longitude": 11.132453
+  },
+  {
+    "id": "124",
+    "name": "Mattarello \"Ronchi\"",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "4",
+      "8"
+    ],
+    "mode": "bus",
+    "latitude": 46.017316,
+    "longitude": 11.132591
+  },
+  {
+    "id": "2951",
+    "name": "Mattarello \"Torre Franca\"",
+    "city": "Trento",
+    "lines": [
+      "4",
+      "8"
+    ],
+    "mode": "bus",
+    "latitude": 46.006528,
+    "longitude": 11.131035
+  },
+  {
+    "id": "2952",
+    "name": "Mattarello \"Torre Franca\"",
+    "city": "Trento",
+    "lines": [
+      "8"
+    ],
+    "mode": "bus",
+    "latitude": 46.005877,
+    "longitude": 11.129908
+  },
+  {
+    "id": "127",
+    "name": "Mattarello Catoni",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "4",
+      "8"
+    ],
+    "mode": "bus",
+    "latitude": 46.009422,
+    "longitude": 11.128968
+  },
+  {
+    "id": "2953",
+    "name": "Mattarello Ex Stazione",
+    "city": "Trento",
+    "lines": [
+      "8"
+    ],
+    "mode": "bus",
+    "latitude": 46.007801,
+    "longitude": 11.126954
+  },
+  {
+    "id": "2815",
+    "name": "Mattarello Fratte",
+    "city": "Trento",
+    "lines": [
+      "8"
+    ],
+    "mode": "bus",
+    "latitude": 46.005384,
+    "longitude": 11.126518
+  },
+  {
+    "id": "2814",
+    "name": "Mattarello Gotarda",
+    "city": "Trento",
+    "lines": [
+      "8"
+    ],
+    "mode": "bus",
+    "latitude": 46.009948,
+    "longitude": 11.128593
+  },
+  {
+    "id": "119",
+    "name": "Mattarello Piazza Perini",
+    "city": "Trento",
+    "lines": [
+      "4",
+      "8"
+    ],
+    "mode": "bus",
+    "latitude": 46.00691,
+    "longitude": 11.128386
+  },
+  {
+    "id": "122",
+    "name": "Mattarello Pomeranos",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "4",
+      "8"
+    ],
+    "mode": "bus",
+    "latitude": 46.013587,
+    "longitude": 11.131547
+  },
+  {
+    "id": "2947",
+    "name": "Mattarello Regole",
+    "city": "Trento",
+    "lines": [
+      "4",
+      "8"
+    ],
+    "mode": "bus",
+    "latitude": 46.010984,
+    "longitude": 11.13167
+  },
+  {
+    "id": "2948",
+    "name": "Mattarello Regole",
+    "city": "Trento",
+    "lines": [
+      "8"
+    ],
+    "mode": "bus",
+    "latitude": 46.011238,
+    "longitude": 11.131717
+  },
+  {
+    "id": "128",
+    "name": "Mattarello Rio Stolzano",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "4",
+      "8"
+    ],
+    "mode": "bus",
+    "latitude": 46.002959,
+    "longitude": 11.126782
+  },
+  {
+    "id": "2945",
+    "name": "Mattarello Rozola",
+    "city": "Trento",
+    "lines": [
+      "4",
+      "8"
+    ],
+    "mode": "bus",
+    "latitude": 46.012721,
+    "longitude": 11.13216
+  },
+  {
+    "id": "2946",
+    "name": "Mattarello Rozola",
+    "city": "Trento",
+    "lines": [
+      "8"
+    ],
+    "mode": "bus",
+    "latitude": 46.01274,
+    "longitude": 11.132017
+  },
+  {
+    "id": "125",
+    "name": "Mattarello S.Leonardo",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "4",
+      "8"
+    ],
+    "mode": "bus",
+    "latitude": 46.006539,
+    "longitude": 11.127593
+  },
+  {
+    "id": "2954",
+    "name": "Mattarello Sud",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "4",
+      "8"
+    ],
+    "mode": "bus",
+    "latitude": 46.002725,
+    "longitude": 11.12631
+  },
+  {
+    "id": "120",
+    "name": "Mattarello Via Nazionale",
+    "city": "Trento",
+    "lines": [
+      "8"
+    ],
+    "mode": "bus",
+    "latitude": 46.012398,
+    "longitude": 11.1306
+  },
+  {
+    "id": "121",
+    "name": "Mattarello Via Nazionale",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "4",
+      "8"
+    ],
+    "mode": "bus",
+    "latitude": 46.011656,
+    "longitude": 11.130383
+  },
+  {
+    "id": "380",
+    "name": "Mattioli Vittorio Veneto",
+    "city": "Trento",
+    "lines": [
+      "2"
+    ],
+    "mode": "bus",
+    "latitude": 46.058788,
+    "longitude": 11.122615
+  },
+  {
+    "id": "135",
+    "name": "Meano \"Campo Sportivo\"",
+    "city": "Trento",
+    "lines": [
+      "3"
+    ],
+    "mode": "bus",
+    "latitude": 46.128287,
+    "longitude": 11.120321
+  },
+  {
+    "id": "136",
+    "name": "Meano \"Campo Sportivo\"",
+    "city": "Trento",
+    "lines": [
+      "3"
+    ],
+    "mode": "bus",
+    "latitude": 46.128357,
+    "longitude": 11.119865
+  },
+  {
+    "id": "527",
+    "name": "Meano \"Centro Civico\"",
+    "city": "Trento",
+    "lines": [
+      "3"
+    ],
+    "mode": "bus",
+    "latitude": 46.126579,
+    "longitude": 11.11676
+  },
+  {
+    "id": "2386",
+    "name": "Meano \"Centro Civico\"",
+    "city": "Trento",
+    "lines": [
+      "3"
+    ],
+    "mode": "bus",
+    "latitude": 46.12745,
+    "longitude": 11.11658
+  },
+  {
+    "id": "137",
+    "name": "Meano \"Cimitero\"",
+    "city": "Trento",
+    "lines": [
+      "3"
+    ],
+    "mode": "bus",
+    "latitude": 46.125734,
+    "longitude": 11.118399
+  },
+  {
+    "id": "138",
+    "name": "Meano \"Cimitero\"",
+    "city": "Trento",
+    "lines": [
+      "3"
+    ],
+    "mode": "bus",
+    "latitude": 46.125503,
+    "longitude": 11.118357
+  },
+  {
+    "id": "129",
+    "name": "Meano Bivio S.Lazzaro",
+    "city": "Trento",
+    "lines": [
+      "3"
+    ],
+    "mode": "bus",
+    "latitude": 46.128153,
+    "longitude": 11.1152
+  },
+  {
+    "id": "130",
+    "name": "Meano Bivio S.Lazzaro",
+    "city": "Trento",
+    "lines": [
+      "3"
+    ],
+    "mode": "bus",
+    "latitude": 46.127618,
+    "longitude": 11.115305
+  },
+  {
+    "id": "141",
+    "name": "Meano Piazza Dell'assunta",
+    "city": "Trento",
+    "lines": [
+      "3"
+    ],
+    "mode": "bus",
+    "latitude": 46.122693,
+    "longitude": 11.116859
+  },
+  {
+    "id": "142",
+    "name": "Meano Portoni",
+    "city": "Trento",
+    "lines": [
+      "3"
+    ],
+    "mode": "bus",
+    "latitude": 46.123508,
+    "longitude": 11.116937
+  },
+  {
+    "id": "87",
+    "name": "Melta \"Case Itea\"",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "7",
+      "17"
+    ],
+    "mode": "bus",
+    "latitude": 46.102356,
+    "longitude": 11.118127
+  },
+  {
+    "id": "2971",
+    "name": "Melta \"Case Itea\"",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "7",
+      "17"
+    ],
+    "mode": "bus",
+    "latitude": 46.10231,
+    "longitude": 11.118229
+  },
+  {
+    "id": "89",
+    "name": "Melta Centro",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "7",
+      "17"
+    ],
+    "mode": "bus",
+    "latitude": 46.099084,
+    "longitude": 11.119185
+  },
+  {
+    "id": "90",
+    "name": "Melta Centro",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "7",
+      "17"
+    ],
+    "mode": "bus",
+    "latitude": 46.100097,
+    "longitude": 11.118761
+  },
+  {
+    "id": "383",
+    "name": "Menguzzato \"Centro Civico\"",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "4",
+      "13"
+    ],
+    "mode": "bus",
+    "latitude": 46.040399,
+    "longitude": 11.131724
+  },
+  {
+    "id": "384",
+    "name": "Menguzzato \"Centro Civico\"",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "4",
+      "13"
+    ],
+    "mode": "bus",
+    "latitude": 46.04019,
+    "longitude": 11.132068
+  },
+  {
+    "id": "382",
+    "name": "Menguzzato Al Casteller",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "4",
+      "13"
+    ],
+    "mode": "bus",
+    "latitude": 46.038132,
+    "longitude": 11.134411
+  },
+  {
+    "id": "385",
+    "name": "Menguzzato Al Casteller",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "4",
+      "13"
+    ],
+    "mode": "bus",
+    "latitude": 46.03806,
+    "longitude": 11.134171
+  },
+  {
+    "id": "145",
+    "name": "Mesiano \"Fac. Ingegneria\"",
+    "city": "Trento",
+    "lines": [
+      "5",
+      "5/",
+      "16"
+    ],
+    "mode": "bus",
+    "latitude": 46.067111,
+    "longitude": 11.139552
+  },
+  {
+    "id": "146",
+    "name": "Mesiano \"Fac. Ingegneria\"",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "5",
+      "16"
+    ],
+    "mode": "bus",
+    "latitude": 46.067201,
+    "longitude": 11.139594
+  },
+  {
+    "id": "147",
+    "name": "Mesiano \"Stazione Fs\"",
+    "city": "Trento",
+    "lines": [
+      "5",
+      "5/",
+      "16"
+    ],
+    "mode": "bus",
+    "latitude": 46.064922,
+    "longitude": 11.141795
+  },
+  {
+    "id": "148",
+    "name": "Mesiano \"Stazione Fs\"",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "5",
+      "16"
+    ],
+    "mode": "bus",
+    "latitude": 46.065054,
+    "longitude": 11.141743
+  },
+  {
+    "id": "386",
+    "name": "Milano A Prato",
+    "city": "Trento",
+    "lines": [
+      "2"
+    ],
+    "mode": "bus",
+    "latitude": 46.060778,
+    "longitude": 11.127597
+  },
+  {
+    "id": "387",
+    "name": "Milano A Prato",
+    "city": "Trento",
+    "lines": [
+      "2"
+    ],
+    "mode": "bus",
+    "latitude": 46.060738,
+    "longitude": 11.127737
+  },
+  {
+    "id": "388",
+    "name": "Missioni Africane",
+    "city": "Trento",
+    "lines": [
+      "10"
+    ],
+    "mode": "bus",
+    "latitude": 46.076647,
+    "longitude": 11.128205
+  },
+  {
+    "id": "391",
+    "name": "Missioni Africane",
+    "city": "Trento",
+    "lines": [
+      "10"
+    ],
+    "mode": "bus",
+    "latitude": 46.078522,
+    "longitude": 11.12722
+  },
+  {
+    "id": "2242",
+    "name": "Moietto",
+    "city": "Rovereto",
+    "lines": [
+      "6",
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 45.894924,
+    "longitude": 11.085843
+  },
+  {
+    "id": "392",
+    "name": "Monte Baldo Ghiaie",
+    "city": "Trento",
+    "lines": [
+      "8",
+      "14"
+    ],
+    "mode": "bus",
+    "latitude": 46.057187,
+    "longitude": 11.115167
+  },
+  {
+    "id": "2900",
+    "name": "Monte Ghello",
+    "city": "Rovereto",
+    "lines": [
+      "6",
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 45.887321,
+    "longitude": 11.066213
+  },
+  {
+    "id": "2901",
+    "name": "Monte Ghello",
+    "city": "Rovereto",
+    "lines": [
+      "6",
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 45.886975,
+    "longitude": 11.066337
+  },
+  {
+    "id": "3105",
+    "name": "Montegrappa \"Funivia\"",
+    "city": "Trento",
+    "lines": [
+      "N"
+    ],
+    "mode": "bus",
+    "latitude": 46.069134,
+    "longitude": 11.115398
+  },
+  {
+    "id": "151",
+    "name": "Montevaccino",
+    "city": "Trento",
+    "lines": [
+      "9",
+      "10",
+      "M"
+    ],
+    "mode": "bus",
+    "latitude": 46.108248,
+    "longitude": 11.14267
+  },
+  {
+    "id": "152",
+    "name": "Montevaccino di Sotto",
+    "city": "Trento",
+    "lines": [
+      "10",
+      "M"
+    ],
+    "mode": "bus",
+    "latitude": 46.109413,
+    "longitude": 11.140128
+  },
+  {
+    "id": "153",
+    "name": "Montevaccino di Sotto",
+    "city": "Trento",
+    "lines": [
+      "9",
+      "10",
+      "M"
+    ],
+    "mode": "bus",
+    "latitude": 46.109498,
+    "longitude": 11.140077
+  },
+  {
+    "id": "2853",
+    "name": "Mori Stazione",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "2"
+    ],
+    "mode": "bus",
+    "latitude": 45.860779,
+    "longitude": 11.001749
+  },
+  {
+    "id": "2854",
+    "name": "Mori Stazione",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "2"
+    ],
+    "mode": "bus",
+    "latitude": 45.860866,
+    "longitude": 11.001649
+  },
+  {
+    "id": "2275",
+    "name": "Mori Stazione Via Stazione",
+    "city": "Rovereto",
+    "lines": [
+      "2"
+    ],
+    "mode": "bus",
+    "latitude": 45.861992,
+    "longitude": 11.000492
+  },
+  {
+    "id": "2276",
+    "name": "Mori Stazione Via Stazione",
+    "city": "Rovereto",
+    "lines": [
+      "2"
+    ],
+    "mode": "bus",
+    "latitude": 45.861915,
+    "longitude": 11.000478
+  },
+  {
+    "id": "2506",
+    "name": "Muralta Valsugana",
+    "city": "Trento",
+    "lines": [
+      "C"
+    ],
+    "mode": "bus",
+    "latitude": 46.076532,
+    "longitude": 11.130338
+  },
+  {
+    "id": "395",
+    "name": "Muredei Benevoli",
+    "city": "Trento",
+    "lines": [
+      "14"
+    ],
+    "mode": "bus",
+    "latitude": 46.053262,
+    "longitude": 11.118539
+  },
+  {
+    "id": "393",
+    "name": "Muredei Prati",
+    "city": "Trento",
+    "lines": [
+      "14"
+    ],
+    "mode": "bus",
+    "latitude": 46.056933,
+    "longitude": 11.118149
+  },
+  {
+    "id": "2265",
+    "name": "Noriglio Cassa Rurale",
+    "city": "Rovereto",
+    "lines": [
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 45.883624,
+    "longitude": 11.06918
+  },
+  {
+    "id": "2266",
+    "name": "Noriglio Mon. Ai Caduti",
+    "city": "Rovereto",
+    "lines": [
+      "6",
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 45.88366,
+    "longitude": 11.070394
+  },
+  {
+    "id": "2757",
+    "name": "Noriglio Mon. Ai Caduti",
+    "city": "Rovereto",
+    "lines": [
+      "6",
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 45.883883,
+    "longitude": 11.07027
+  },
+  {
+    "id": "2891",
+    "name": "Noriglio Parco Alle Pozze",
+    "city": "Rovereto",
+    "lines": [
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 45.88432,
+    "longitude": 11.065751
+  },
+  {
+    "id": "2914",
+    "name": "Noriglio Parco Alle Pozze",
+    "city": "Rovereto",
+    "lines": [
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 45.884269,
+    "longitude": 11.065384
+  },
+  {
+    "id": "2896",
+    "name": "Noriglio Scuole Elementari",
+    "city": "Rovereto",
+    "lines": [
+      "6",
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 45.881841,
+    "longitude": 11.068764
+  },
+  {
+    "id": "1342",
+    "name": "Noriglio Via Dei Cimbri",
+    "city": "Rovereto",
+    "lines": [
+      "6",
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 45.884634,
+    "longitude": 11.069729
+  },
+  {
+    "id": "2312",
+    "name": "Noriglio Via Fontani",
+    "city": "Rovereto",
+    "lines": [
+      "6"
+    ],
+    "mode": "bus",
+    "latitude": 45.884407,
+    "longitude": 11.06867
+  },
+  {
+    "id": "2889",
+    "name": "Noriglio Via Jacob",
+    "city": "Rovereto",
+    "lines": [
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 45.88383,
+    "longitude": 11.067469
+  },
+  {
+    "id": "2890",
+    "name": "Noriglio Via Jacob",
+    "city": "Rovereto",
+    "lines": [
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 45.883735,
+    "longitude": 11.067717
+  },
+  {
+    "id": "2325",
+    "name": "Noriglio Via Valteri",
+    "city": "Rovereto",
+    "lines": [
+      "6"
+    ],
+    "mode": "bus",
+    "latitude": 45.886164,
+    "longitude": 11.065291
+  },
+  {
+    "id": "397",
+    "name": "Oberziner Alpini",
+    "city": "Trento",
+    "lines": [
+      "4",
+      "8"
+    ],
+    "mode": "bus",
+    "latitude": 46.078725,
+    "longitude": 11.11762
+  },
+  {
+    "id": "161",
+    "name": "Oltrecastello",
+    "city": "Trento",
+    "lines": [
+      "5"
+    ],
+    "mode": "bus",
+    "latitude": 46.072734,
+    "longitude": 11.161992
+  },
+  {
+    "id": "3144",
+    "name": "Orsi \"Ospedale S.Chiara\"",
+    "city": "Trento",
+    "lines": [
+      "2",
+      "7",
+      "18"
+    ],
+    "mode": "bus",
+    "latitude": 46.057568,
+    "longitude": 11.132316
+  },
+  {
+    "id": "2878",
+    "name": "Ossario Castel Dante",
+    "city": "Rovereto",
+    "lines": [
+      "B"
+    ],
+    "mode": "bus",
+    "latitude": 45.871812,
+    "longitude": 11.035579
+  },
+  {
+    "id": "2453",
+    "name": "Palazzine Maso S.Antonio",
+    "city": "Trento",
+    "lines": [
+      "G"
+    ],
+    "mode": "bus",
+    "latitude": 46.11507,
+    "longitude": 11.101847
+  },
+  {
+    "id": "431",
+    "name": "Parco Del Dos Trent",
+    "city": "Trento",
+    "lines": [
+      "2",
+      "6"
+    ],
+    "mode": "bus",
+    "latitude": 46.073335,
+    "longitude": 11.107385
+  },
+  {
+    "id": "432",
+    "name": "Parco Del Dos Trent",
+    "city": "Trento",
+    "lines": [
+      "2",
+      "6"
+    ],
+    "mode": "bus",
+    "latitude": 46.073141,
+    "longitude": 11.107375
+  },
+  {
+    "id": "88",
+    "name": "Parco di Melta",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "7",
+      "17"
+    ],
+    "mode": "bus",
+    "latitude": 46.097301,
+    "longitude": 11.119758
+  },
+  {
+    "id": "91",
+    "name": "Parco di Melta",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "7",
+      "17"
+    ],
+    "mode": "bus",
+    "latitude": 46.097222,
+    "longitude": 11.119861
+  },
+  {
+    "id": "400",
+    "name": "Pasubio Adamello",
+    "city": "Trento",
+    "lines": [
+      "1"
+    ],
+    "mode": "bus",
+    "latitude": 46.060039,
+    "longitude": 11.133347
+  },
+  {
+    "id": "402",
+    "name": "Piave \"Parco S.Chiara\"",
+    "city": "Trento",
+    "lines": [
+      "7",
+      "12",
+      "18"
+    ],
+    "mode": "bus",
+    "latitude": 46.064131,
+    "longitude": 11.12761
+  },
+  {
+    "id": "2518",
+    "name": "Piave \"Parco S.Chiara\"",
+    "city": "Trento",
+    "lines": [
+      "7",
+      "18"
+    ],
+    "mode": "bus",
+    "latitude": 46.063936,
+    "longitude": 11.127641
+  },
+  {
+    "id": "2670",
+    "name": "Piazza Cappuccini",
+    "city": "Trento",
+    "lines": [
+      "C"
+    ],
+    "mode": "bus",
+    "latitude": 46.073035,
+    "longitude": 11.1284
+  },
+  {
+    "id": "2957",
+    "name": "Piazza Centa",
+    "city": "Trento",
+    "lines": [
+      "2",
+      "4",
+      "8"
+    ],
+    "mode": "bus",
+    "latitude": 46.076198,
+    "longitude": 11.123674
+  },
+  {
+    "id": "2189",
+    "name": "Piazza Dante \"Dogana\"",
+    "city": "Trento",
+    "lines": [
+      "2",
+      "3",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "mode": "bus",
+    "latitude": 46.072531,
+    "longitude": 11.119934
+  },
+  {
+    "id": "202",
+    "name": "Piazza Dante \"Pal. Regione\"",
+    "city": "Trento",
+    "lines": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "7",
+      "12",
+      "13",
+      "14",
+      "19",
+      "N"
+    ],
+    "mode": "bus",
+    "latitude": 46.071751,
+    "longitude": 11.1214
+  },
+  {
+    "id": "163",
+    "name": "Piazza Dante \"Palazzo Pat\"",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "4",
+      "6",
+      "7",
+      "11",
+      "15",
+      "17"
+    ],
+    "mode": "bus",
+    "latitude": 46.072301,
+    "longitude": 11.120437
+  },
+  {
+    "id": "247",
+    "name": "Piazza Dante \"Stazione Fs\"",
+    "city": "Trento",
+    "lines": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "5/",
+      "6",
+      "8",
+      "9",
+      "10",
+      "12",
+      "13",
+      "14",
+      "18",
+      "19",
+      "C"
+    ],
+    "mode": "bus",
+    "latitude": 46.071756,
+    "longitude": 11.119511
+  },
+  {
+    "id": "165",
+    "name": "Piazza di Fiera",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "4",
+      "5",
+      "5/",
+      "8",
+      "9",
+      "10"
+    ],
+    "mode": "bus",
+    "latitude": 46.065117,
+    "longitude": 11.123289
+  },
+  {
+    "id": "2273",
+    "name": "Piazza Filzi Via Del Porto",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "mode": "bus",
+    "latitude": 45.884129,
+    "longitude": 11.017931
+  },
+  {
+    "id": "2999",
+    "name": "Piazza Filzi Via Del Porto",
+    "city": "Rovereto",
+    "lines": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "mode": "bus",
+    "latitude": 45.884014,
+    "longitude": 11.018082
+  },
+  {
+    "id": "2394",
+    "name": "Piazza Guella",
+    "city": "Rovereto",
+    "lines": [
+      "AB",
+      "B"
+    ],
+    "mode": "bus",
+    "latitude": 45.867289,
+    "longitude": 11.03188
+  },
+  {
+    "id": "228",
+    "name": "Piazza Madonna Delle Laste",
+    "city": "Trento",
+    "lines": [
+      "C"
+    ],
+    "mode": "bus",
+    "latitude": 46.074105,
+    "longitude": 11.135279
+  },
+  {
+    "id": "1318",
+    "name": "Piazza Manifattura",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "mode": "bus",
+    "latitude": 45.883841,
+    "longitude": 11.021149
+  },
+  {
+    "id": "1319",
+    "name": "Piazza Manifattura",
+    "city": "Rovereto",
+    "lines": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "mode": "bus",
+    "latitude": 45.883941,
+    "longitude": 11.0211
+  },
+  {
+    "id": "1322",
+    "name": "Piazza Podestà",
+    "city": "Rovereto",
+    "lines": [
+      "7",
+      "A"
+    ],
+    "mode": "bus",
+    "latitude": 45.886579,
+    "longitude": 11.045563
+  },
+  {
+    "id": "167",
+    "name": "Piazza Vicenza",
+    "city": "Trento",
+    "lines": [
+      "1",
+      "6"
+    ],
+    "mode": "bus",
+    "latitude": 46.062096,
+    "longitude": 11.132883
+  },
+  {
+    "id": "168",
+    "name": "Piazza Vicenza",
+    "city": "Trento",
+    "lines": [
+      "1",
+      "6"
+    ],
+    "mode": "bus",
+    "latitude": 46.062261,
+    "longitude": 11.132819
+  },
+  {
+    "id": "2412",
+    "name": "Piazzale A22",
+    "city": "Trento",
+    "lines": [
+      "2"
+    ],
+    "mode": "bus",
+    "latitude": 46.077321,
+    "longitude": 11.111076
+  },
+  {
+    "id": "2973",
+    "name": "Piazzale Divisioni Alpine",
+    "city": "Trento",
+    "lines": [
+      "2"
+    ],
+    "mode": "bus",
+    "latitude": 46.071095,
+    "longitude": 11.109908
+  },
+  {
+    "id": "1404",
+    "name": "Piazzale Orsi Ist. Veronesi",
+    "city": "Rovereto",
+    "lines": [
+      "6",
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 45.891409,
+    "longitude": 11.03452
+  },
+  {
+    "id": "1311",
+    "name": "Piazzale Orsi Stazione Fs",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "A",
+      "AB",
+      "B",
+      "C",
+      "V"
+    ],
+    "mode": "bus",
+    "latitude": 45.890257,
+    "longitude": 11.034246
+  },
+  {
+    "id": "1313",
+    "name": "Piazzale S.Giorgio Est",
+    "city": "Rovereto",
+    "lines": [
+      "3",
+      "5",
+      "6",
+      "B"
+    ],
+    "mode": "bus",
+    "latitude": 45.895494,
+    "longitude": 11.029596
+  },
+  {
+    "id": "1314",
+    "name": "Piazzale S.Giorgio Ovest",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "6",
+      "AB"
+    ],
+    "mode": "bus",
+    "latitude": 45.895553,
+    "longitude": 11.028781
+  },
+  {
+    "id": "1315",
+    "name": "Piazzale S.Maria Ospedale",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "2"
+    ],
+    "mode": "bus",
+    "latitude": 45.883528,
+    "longitude": 11.040645
+  },
+  {
+    "id": "1316",
+    "name": "Piazzale S.Maria Ospedale",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "2",
+      "3",
+      "5",
+      "6",
+      "A",
+      "AB",
+      "B",
+      "V"
+    ],
+    "mode": "bus",
+    "latitude": 45.883611,
+    "longitude": 11.04094
+  },
+  {
+    "id": "174",
+    "name": "Ponte Lodovico",
+    "city": "Trento",
+    "lines": [
+      "5",
+      "5/",
+      "9",
+      "10"
+    ],
+    "mode": "bus",
+    "latitude": 46.069376,
+    "longitude": 11.138945
+  },
+  {
+    "id": "175",
+    "name": "Ponte Lodovico",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "5",
+      "16"
+    ],
+    "mode": "bus",
+    "latitude": 46.069514,
+    "longitude": 11.140184
+  },
+  {
+    "id": "331",
+    "name": "Ponte S.Giorgio",
+    "city": "Trento",
+    "lines": [
+      "2",
+      "6"
+    ],
+    "mode": "bus",
+    "latitude": 46.077012,
+    "longitude": 11.114109
+  },
+  {
+    "id": "2928",
+    "name": "Porte Chiesa",
+    "city": "Rovereto",
+    "lines": [
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 45.883426,
+    "longitude": 11.053292
+  },
+  {
+    "id": "2932",
+    "name": "Porte Chiesa",
+    "city": "Rovereto",
+    "lines": [
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 45.883247,
+    "longitude": 11.053675
+  },
+  {
+    "id": "2861",
+    "name": "Porte di Trambileno",
+    "city": "Rovereto",
+    "lines": [
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 45.883428,
+    "longitude": 11.051695
+  },
+  {
+    "id": "2862",
+    "name": "Porte di Trambileno",
+    "city": "Rovereto",
+    "lines": [
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 45.883552,
+    "longitude": 11.051972
+  },
+  {
+    "id": "2929",
+    "name": "Porte Via Al Brentegam",
+    "city": "Rovereto",
+    "lines": [
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 45.880779,
+    "longitude": 11.052624
+  },
+  {
+    "id": "2933",
+    "name": "Porte Via Al Brentegam",
+    "city": "Rovereto",
+    "lines": [
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 45.880888,
+    "longitude": 11.052701
+  },
+  {
+    "id": "2930",
+    "name": "Porte Via Miravalle",
+    "city": "Rovereto",
+    "lines": [
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 45.87997,
+    "longitude": 11.047061
+  },
+  {
+    "id": "2934",
+    "name": "Porte Via Miravalle",
+    "city": "Rovereto",
+    "lines": [
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 45.879896,
+    "longitude": 11.046851
+  },
+  {
+    "id": "181",
+    "name": "Povo \"Casa di Riposo\"",
+    "city": "Trento",
+    "lines": [
+      "5",
+      "CM"
+    ],
+    "mode": "bus",
+    "latitude": 46.065739,
+    "longitude": 11.159706
+  },
+  {
+    "id": "182",
+    "name": "Povo \"Casa di Riposo\"",
+    "city": "Trento",
+    "lines": [
+      "5",
+      "CM"
+    ],
+    "mode": "bus",
+    "latitude": 46.065543,
+    "longitude": 11.159557
+  },
+  {
+    "id": "183",
+    "name": "Povo \"Centro Civico\"",
+    "city": "Trento",
+    "lines": [
+      "5",
+      "6",
+      "13"
+    ],
+    "mode": "bus",
+    "latitude": 46.06411,
+    "longitude": 11.151992
+  },
+  {
+    "id": "184",
+    "name": "Povo \"Centro Civico\"",
+    "city": "Trento",
+    "lines": [
+      "1",
+      "3",
+      "5",
+      "6",
+      "13"
+    ],
+    "mode": "bus",
+    "latitude": 46.06387,
+    "longitude": 11.151952
+  },
+  {
+    "id": "188",
+    "name": "Povo \"Fac. Scienze\"",
+    "city": "Trento",
+    "lines": [
+      "5"
+    ],
+    "mode": "bus",
+    "latitude": 46.063156,
+    "longitude": 11.150091
+  },
+  {
+    "id": "189",
+    "name": "Povo \"Fac. Scienze\"",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "5",
+      "13"
+    ],
+    "mode": "bus",
+    "latitude": 46.063282,
+    "longitude": 11.150174
+  },
+  {
+    "id": "2683",
+    "name": "Povo \"Polo Scientifico\" Est",
+    "city": "Trento",
+    "lines": [
+      "5/",
+      "13"
+    ],
+    "mode": "bus",
+    "latitude": 46.067131,
+    "longitude": 11.15051
+  },
+  {
+    "id": "2833",
+    "name": "Povo \"Polo Scientifico\" Ovest",
+    "city": "Trento",
+    "lines": [
+      "5"
+    ],
+    "mode": "bus",
+    "latitude": 46.067072,
+    "longitude": 11.150437
+  },
+  {
+    "id": "190",
+    "name": "Povo \"Polo Sociale\"",
+    "city": "Trento",
+    "lines": [
+      "5",
+      "CM"
+    ],
+    "mode": "bus",
+    "latitude": 46.06546,
+    "longitude": 11.158013
+  },
+  {
+    "id": "191",
+    "name": "Povo \"Polo Sociale\"",
+    "city": "Trento",
+    "lines": [
+      "5",
+      "CM"
+    ],
+    "mode": "bus",
+    "latitude": 46.065689,
+    "longitude": 11.157889
+  },
+  {
+    "id": "2549",
+    "name": "Povo \"Polo Sociale\" Cap.",
+    "city": "Trento",
+    "lines": [
+      "1",
+      "3",
+      "5",
+      "6",
+      "13",
+      "16"
+    ],
+    "mode": "bus",
+    "latitude": 46.065718,
+    "longitude": 11.15801
+  },
+  {
+    "id": "2490",
+    "name": "Povo Pantè",
+    "city": "Trento",
+    "lines": [
+      "5",
+      "16"
+    ],
+    "mode": "bus",
+    "latitude": 46.063986,
+    "longitude": 11.150894
+  },
+  {
+    "id": "2820",
+    "name": "Povo Pantè",
+    "city": "Trento",
+    "lines": [
+      "5",
+      "16"
+    ],
+    "mode": "bus",
+    "latitude": 46.06394,
+    "longitude": 11.150611
+  },
+  {
+    "id": "186",
+    "name": "Povo Piazza Manci",
+    "city": "Trento",
+    "lines": [
+      "5",
+      "6",
+      "13",
+      "16",
+      "CM"
+    ],
+    "mode": "bus",
+    "latitude": 46.065879,
+    "longitude": 11.154677
+  },
+  {
+    "id": "187",
+    "name": "Povo Piazza Manci",
+    "city": "Trento",
+    "lines": [
+      "1",
+      "3",
+      "5",
+      "6",
+      "13",
+      "16",
+      "CM"
+    ],
+    "mode": "bus",
+    "latitude": 46.065939,
+    "longitude": 11.154528
+  },
+  {
+    "id": "185",
+    "name": "Povo S.Agata",
+    "city": "Trento",
+    "lines": [
+      "5",
+      "6",
+      "13",
+      "16",
+      "CM"
+    ],
+    "mode": "bus",
+    "latitude": 46.066341,
+    "longitude": 11.156734
+  },
+  {
+    "id": "215",
+    "name": "Povo Salé",
+    "city": "Trento",
+    "lines": [
+      "5",
+      "6",
+      "13"
+    ],
+    "mode": "bus",
+    "latitude": 46.062025,
+    "longitude": 11.151318
+  },
+  {
+    "id": "216",
+    "name": "Povo Salé",
+    "city": "Trento",
+    "lines": [
+      "1",
+      "3",
+      "5",
+      "6",
+      "13"
+    ],
+    "mode": "bus",
+    "latitude": 46.062005,
+    "longitude": 11.150887
+  },
+  {
+    "id": "2682",
+    "name": "Povo Sommarive",
+    "city": "Trento",
+    "lines": [
+      "5",
+      "5/",
+      "13"
+    ],
+    "mode": "bus",
+    "latitude": 46.065493,
+    "longitude": 11.150401
+  },
+  {
+    "id": "149",
+    "name": "Povo Valoni",
+    "city": "Trento",
+    "lines": [
+      "5",
+      "5/",
+      "16"
+    ],
+    "mode": "bus",
+    "latitude": 46.065426,
+    "longitude": 11.146084
+  },
+  {
+    "id": "150",
+    "name": "Povo Valoni",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "5",
+      "16"
+    ],
+    "mode": "bus",
+    "latitude": 46.065751,
+    "longitude": 11.146343
+  },
+  {
+    "id": "2488",
+    "name": "Pranzelores \"Top Center\"",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "8"
+    ],
+    "mode": "bus",
+    "latitude": 46.089831,
+    "longitude": 11.118603
+  },
+  {
+    "id": "2489",
+    "name": "Pranzelores \"Tridente\"",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "8"
+    ],
+    "mode": "bus",
+    "latitude": 46.086577,
+    "longitude": 11.12013
+  },
+  {
+    "id": "389",
+    "name": "Quattro Strade",
+    "city": "Trento",
+    "lines": [
+      "10",
+      "C"
+    ],
+    "mode": "bus",
+    "latitude": 46.075498,
+    "longitude": 11.128156
+  },
+  {
+    "id": "390",
+    "name": "Quattro Strade",
+    "city": "Trento",
+    "lines": [
+      "10"
+    ],
+    "mode": "bus",
+    "latitude": 46.07627,
+    "longitude": 11.128154
+  },
+  {
+    "id": "194",
+    "name": "Ravina \"Case Itea\"",
+    "city": "Trento",
+    "lines": [
+      "8",
+      "12",
+      "14"
+    ],
+    "mode": "bus",
+    "latitude": 46.037329,
+    "longitude": 11.114055
+  },
+  {
+    "id": "195",
+    "name": "Ravina \"Case Itea\"",
+    "city": "Trento",
+    "lines": [
+      "12",
+      "14"
+    ],
+    "mode": "bus",
+    "latitude": 46.037956,
+    "longitude": 11.114081
+  },
+  {
+    "id": "117",
+    "name": "Ravina \"Maso Stella\"",
+    "city": "Trento",
+    "lines": [
+      "12"
+    ],
+    "mode": "bus",
+    "latitude": 46.032327,
+    "longitude": 11.112713
+  },
+  {
+    "id": "118",
+    "name": "Ravina \"Maso Stella\"",
+    "city": "Trento",
+    "lines": [
+      "12"
+    ],
+    "mode": "bus",
+    "latitude": 46.032559,
+    "longitude": 11.112917
+  },
+  {
+    "id": "196",
+    "name": "Ravina Chiesa",
+    "city": "Trento",
+    "lines": [
+      "12",
+      "14"
+    ],
+    "mode": "bus",
+    "latitude": 46.03773,
+    "longitude": 11.107763
+  },
+  {
+    "id": "200",
+    "name": "Ravina Del Ponte",
+    "city": "Trento",
+    "lines": [
+      "12"
+    ],
+    "mode": "bus",
+    "latitude": 46.041069,
+    "longitude": 11.113113
+  },
+  {
+    "id": "201",
+    "name": "Ravina Del Ponte",
+    "city": "Trento",
+    "lines": [
+      "14"
+    ],
+    "mode": "bus",
+    "latitude": 46.041193,
+    "longitude": 11.113139
+  },
+  {
+    "id": "2437",
+    "name": "Ravina Della Croce",
+    "city": "Trento",
+    "lines": [
+      "12",
+      "14"
+    ],
+    "mode": "bus",
+    "latitude": 46.040932,
+    "longitude": 11.110995
+  },
+  {
+    "id": "192",
+    "name": "Ravina Masere",
+    "city": "Trento",
+    "lines": [
+      "12"
+    ],
+    "mode": "bus",
+    "latitude": 46.039007,
+    "longitude": 11.111595
+  },
+  {
+    "id": "193",
+    "name": "Ravina Masere",
+    "city": "Trento",
+    "lines": [
+      "8",
+      "12",
+      "14"
+    ],
+    "mode": "bus",
+    "latitude": 46.039311,
+    "longitude": 11.112405
+  },
+  {
+    "id": "198",
+    "name": "Ravina Per Belvedere",
+    "city": "Trento",
+    "lines": [
+      "12",
+      "14"
+    ],
+    "mode": "bus",
+    "latitude": 46.04147,
+    "longitude": 11.106068
+  },
+  {
+    "id": "199",
+    "name": "Ravina Per Belvedere",
+    "city": "Trento",
+    "lines": [
+      "8",
+      "12",
+      "14"
+    ],
+    "mode": "bus",
+    "latitude": 46.040947,
+    "longitude": 11.106338
+  },
+  {
+    "id": "197",
+    "name": "Ravina Piazza",
+    "city": "Trento",
+    "lines": [
+      "8",
+      "12",
+      "14"
+    ],
+    "mode": "bus",
+    "latitude": 46.038007,
+    "longitude": 11.108836
+  },
+  {
+    "id": "207",
+    "name": "Romagnano 7 Fontane",
+    "city": "Trento",
+    "lines": [
+      "12"
+    ],
+    "mode": "bus",
+    "latitude": 46.014708,
+    "longitude": 11.105053
+  },
+  {
+    "id": "2404",
+    "name": "Romagnano 7 Fontane",
+    "city": "Trento",
+    "lines": [
+      "12"
+    ],
+    "mode": "bus",
+    "latitude": 46.014251,
+    "longitude": 11.104356
+  },
+  {
+    "id": "205",
+    "name": "Romagnano Fontanelle",
+    "city": "Trento",
+    "lines": [
+      "12"
+    ],
+    "mode": "bus",
+    "latitude": 46.015241,
+    "longitude": 11.107137
+  },
+  {
+    "id": "206",
+    "name": "Romagnano Fontanelle",
+    "city": "Trento",
+    "lines": [
+      "12"
+    ],
+    "mode": "bus",
+    "latitude": 46.014549,
+    "longitude": 11.106708
+  },
+  {
+    "id": "203",
+    "name": "Romagnano Nord",
+    "city": "Trento",
+    "lines": [
+      "12"
+    ],
+    "mode": "bus",
+    "latitude": 46.020118,
+    "longitude": 11.110866
+  },
+  {
+    "id": "204",
+    "name": "Romagnano Nord",
+    "city": "Trento",
+    "lines": [
+      "12"
+    ],
+    "mode": "bus",
+    "latitude": 46.020034,
+    "longitude": 11.110896
+  },
+  {
+    "id": "208",
+    "name": "Romagnano Piazza Condini",
+    "city": "Trento",
+    "lines": [
+      "12"
+    ],
+    "mode": "bus",
+    "latitude": 46.017727,
+    "longitude": 11.10587
+  },
+  {
+    "id": "211",
+    "name": "Romagnano Rimoni",
+    "city": "Trento",
+    "lines": [
+      "12"
+    ],
+    "mode": "bus",
+    "latitude": 46.016805,
+    "longitude": 11.108328
+  },
+  {
+    "id": "212",
+    "name": "Romagnano Rimoni",
+    "city": "Trento",
+    "lines": [
+      "12"
+    ],
+    "mode": "bus",
+    "latitude": 46.016465,
+    "longitude": 11.108234
+  },
+  {
+    "id": "209",
+    "name": "Romagnano Sud",
+    "city": "Trento",
+    "lines": [
+      "12"
+    ],
+    "mode": "bus",
+    "latitude": 46.013013,
+    "longitude": 11.105542
+  },
+  {
+    "id": "210",
+    "name": "Romagnano Sud",
+    "city": "Trento",
+    "lines": [
+      "12"
+    ],
+    "mode": "bus",
+    "latitude": 46.01213,
+    "longitude": 11.104968
+  },
+  {
+    "id": "403",
+    "name": "Romagnosi Vannetti",
+    "city": "Trento",
+    "lines": [
+      "1",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "18",
+      "C"
+    ],
+    "mode": "bus",
+    "latitude": 46.072966,
+    "longitude": 11.122675
+  },
+  {
+    "id": "213",
+    "name": "Roncafort",
+    "city": "Trento",
+    "lines": [
+      "4",
+      "8"
+    ],
+    "mode": "bus",
+    "latitude": 46.101226,
+    "longitude": 11.101583
+  },
+  {
+    "id": "2422",
+    "name": "Roncafort \"Asilo\"",
+    "city": "Trento",
+    "lines": [
+      "4",
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 46.100975,
+    "longitude": 11.101782
+  },
+  {
+    "id": "303",
+    "name": "Roncafort Bettine",
+    "city": "Trento",
+    "lines": [
+      "4",
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 46.097554,
+    "longitude": 11.102563
+  },
+  {
+    "id": "2492",
+    "name": "Roncafort Bettine",
+    "city": "Trento",
+    "lines": [
+      "4",
+      "8"
+    ],
+    "mode": "bus",
+    "latitude": 46.097604,
+    "longitude": 11.102184
+  },
+  {
+    "id": "2491",
+    "name": "Roncafort Caproni",
+    "city": "Trento",
+    "lines": [
+      "4",
+      "8"
+    ],
+    "mode": "bus",
+    "latitude": 46.100072,
+    "longitude": 11.099813
+  },
+  {
+    "id": "2817",
+    "name": "Roncafort Nord",
+    "city": "Trento",
+    "lines": [
+      "4"
+    ],
+    "mode": "bus",
+    "latitude": 46.10353,
+    "longitude": 11.100099
+  },
+  {
+    "id": "404",
+    "name": "Rosmini \"Cimitero\" / Muse",
+    "city": "Trento",
+    "lines": [
+      "2",
+      "4",
+      "12",
+      "13",
+      "14",
+      "19",
+      "C"
+    ],
+    "mode": "bus",
+    "latitude": 46.064014,
+    "longitude": 11.119486
+  },
+  {
+    "id": "405",
+    "name": "Rosmini \"Cimitero\" / Muse",
+    "city": "Trento",
+    "lines": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "7",
+      "12",
+      "13",
+      "14",
+      "19",
+      "C"
+    ],
+    "mode": "bus",
+    "latitude": 46.063777,
+    "longitude": 11.119653
+  },
+  {
+    "id": "406",
+    "name": "Rosmini S.Maria Maggiore",
+    "city": "Trento",
+    "lines": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "7",
+      "12",
+      "13",
+      "14",
+      "19",
+      "C",
+      "N"
+    ],
+    "mode": "bus",
+    "latitude": 46.067878,
+    "longitude": 11.118839
+  },
+  {
+    "id": "407",
+    "name": "Rosmini S.Maria Maggiore",
+    "city": "Trento",
+    "lines": [
+      "2",
+      "3",
+      "4",
+      "5",
+      "5/",
+      "8",
+      "9",
+      "10",
+      "12",
+      "13",
+      "14",
+      "19",
+      "C",
+      "N"
+    ],
+    "mode": "bus",
+    "latitude": 46.068034,
+    "longitude": 11.118702
+  },
+  {
+    "id": "2672",
+    "name": "Rsa Angeli Custodi",
+    "city": "Trento",
+    "lines": [
+      "C"
+    ],
+    "mode": "bus",
+    "latitude": 46.069698,
+    "longitude": 11.130962
+  },
+  {
+    "id": "2872",
+    "name": "Rsa S.Bartolomeo",
+    "city": "Trento",
+    "lines": [
+      "C"
+    ],
+    "mode": "bus",
+    "latitude": 46.048622,
+    "longitude": 11.134081
+  },
+  {
+    "id": "166",
+    "name": "S.Francesco Porta Nuova",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "4",
+      "5",
+      "5/",
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "mode": "bus",
+    "latitude": 46.06689,
+    "longitude": 11.126409
+  },
+  {
+    "id": "410",
+    "name": "S.Francesco Porta Nuova",
+    "city": "Trento",
+    "lines": [
+      "1",
+      "6",
+      "7",
+      "9",
+      "10",
+      "12",
+      "18"
+    ],
+    "mode": "bus",
+    "latitude": 46.066987,
+    "longitude": 11.12623
+  },
+  {
+    "id": "2281",
+    "name": "S.Ilario Iti",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "V"
+    ],
+    "mode": "bus",
+    "latitude": 45.910898,
+    "longitude": 11.041947
+  },
+  {
+    "id": "2282",
+    "name": "S.Ilario Iti",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "V"
+    ],
+    "mode": "bus",
+    "latitude": 45.909862,
+    "longitude": 11.041587
+  },
+  {
+    "id": "1331",
+    "name": "S.Ilario Sav",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "6",
+      "V"
+    ],
+    "mode": "bus",
+    "latitude": 45.908267,
+    "longitude": 11.040545
+  },
+  {
+    "id": "1333",
+    "name": "S.Ilario Sav",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "6",
+      "V"
+    ],
+    "mode": "bus",
+    "latitude": 45.9079,
+    "longitude": 11.040546
+  },
+  {
+    "id": "1332",
+    "name": "S.Ilario Via Monti",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "2",
+      "3",
+      "6"
+    ],
+    "mode": "bus",
+    "latitude": 45.910928,
+    "longitude": 11.041107
+  },
+  {
+    "id": "2283",
+    "name": "S.Ilario Via Stroperi",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "V"
+    ],
+    "mode": "bus",
+    "latitude": 45.912522,
+    "longitude": 11.043825
+  },
+  {
+    "id": "2284",
+    "name": "S.Ilario Via Stroperi",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "V"
+    ],
+    "mode": "bus",
+    "latitude": 45.912602,
+    "longitude": 11.044046
+  },
+  {
+    "id": "2424",
+    "name": "S.Lorenzo \"Funivia\"",
+    "city": "Trento",
+    "lines": [
+      "1",
+      "6",
+      "8",
+      "N"
+    ],
+    "mode": "bus",
+    "latitude": 46.070164,
+    "longitude": 11.11674
+  },
+  {
+    "id": "2426",
+    "name": "S.Lorenzo \"Funivia\"",
+    "city": "Trento",
+    "lines": [
+      "1",
+      "6",
+      "N"
+    ],
+    "mode": "bus",
+    "latitude": 46.070285,
+    "longitude": 11.117276
+  },
+  {
+    "id": "414",
+    "name": "S.Pio X Benevoli",
+    "city": "Trento",
+    "lines": [
+      "4",
+      "8",
+      "C"
+    ],
+    "mode": "bus",
+    "latitude": 46.053943,
+    "longitude": 11.120571
+  },
+  {
+    "id": "415",
+    "name": "S.Pio X Benevoli",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "4",
+      "8",
+      "C"
+    ],
+    "mode": "bus",
+    "latitude": 46.053836,
+    "longitude": 11.120696
+  },
+  {
+    "id": "413",
+    "name": "S.Pio X Largo Prati",
+    "city": "Trento",
+    "lines": [
+      "4",
+      "8",
+      "C"
+    ],
+    "mode": "bus",
+    "latitude": 46.056778,
+    "longitude": 11.119278
+  },
+  {
+    "id": "412",
+    "name": "S.Pio X Matteotti",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "4",
+      "8",
+      "C"
+    ],
+    "mode": "bus",
+    "latitude": 46.056448,
+    "longitude": 11.119846
+  },
+  {
+    "id": "2295",
+    "name": "Saltaria",
+    "city": "Rovereto",
+    "lines": [
+      "6",
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 45.895289,
+    "longitude": 11.067315
+  },
+  {
+    "id": "2296",
+    "name": "Saltaria",
+    "city": "Rovereto",
+    "lines": [
+      "6",
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 45.895198,
+    "longitude": 11.06739
+  },
+  {
+    "id": "219",
+    "name": "San Donà",
+    "city": "Trento",
+    "lines": [
+      "9",
+      "10",
+      "16"
+    ],
+    "mode": "bus",
+    "latitude": 46.07157,
+    "longitude": 11.138357
+  },
+  {
+    "id": "222",
+    "name": "San Donà",
+    "city": "Trento",
+    "lines": [
+      "5",
+      "9",
+      "10",
+      "16"
+    ],
+    "mode": "bus",
+    "latitude": 46.070882,
+    "longitude": 11.139489
+  },
+  {
+    "id": "220",
+    "name": "San Donà \"Chiesa\"",
+    "city": "Trento",
+    "lines": [
+      "5",
+      "9",
+      "10",
+      "16"
+    ],
+    "mode": "bus",
+    "latitude": 46.072151,
+    "longitude": 11.138386
+  },
+  {
+    "id": "224",
+    "name": "San Lazzaro Ponte Avisio",
+    "city": "Trento",
+    "lines": [
+      "4",
+      "8",
+      "17"
+    ],
+    "mode": "bus",
+    "latitude": 46.137891,
+    "longitude": 11.118434
+  },
+  {
+    "id": "3110",
+    "name": "San Lazzaro Ponte Avisio",
+    "city": "Trento",
+    "lines": [
+      "17"
+    ],
+    "mode": "bus",
+    "latitude": 46.136804,
+    "longitude": 11.116591
+  },
+  {
+    "id": "227",
+    "name": "San Rocco Piazza",
+    "city": "Trento",
+    "lines": [
+      "1",
+      "3",
+      "6",
+      "13"
+    ],
+    "mode": "bus",
+    "latitude": 46.03626,
+    "longitude": 11.146204
+  },
+  {
+    "id": "226",
+    "name": "San Rocco Torricelle",
+    "city": "Trento",
+    "lines": [
+      "1",
+      "3",
+      "6",
+      "13"
+    ],
+    "mode": "bus",
+    "latitude": 46.038494,
+    "longitude": 11.145576
+  },
+  {
+    "id": "24",
+    "name": "San Vito",
+    "city": "Trento",
+    "lines": [
+      "5",
+      "9",
+      "10",
+      "16"
+    ],
+    "mode": "bus",
+    "latitude": 46.075378,
+    "longitude": 11.139504
+  },
+  {
+    "id": "27",
+    "name": "San Vito",
+    "city": "Trento",
+    "lines": [
+      "9",
+      "10",
+      "16"
+    ],
+    "mode": "bus",
+    "latitude": 46.075399,
+    "longitude": 11.13889
+  },
+  {
+    "id": "3104",
+    "name": "Sanseverino \"Funivia\"",
+    "city": "Trento",
+    "lines": [
+      "N"
+    ],
+    "mode": "bus",
+    "latitude": 46.067711,
+    "longitude": 11.115188
+  },
+  {
+    "id": "416",
+    "name": "Sanseverino S.Nicolò",
+    "city": "Trento",
+    "lines": [
+      "8",
+      "14"
+    ],
+    "mode": "bus",
+    "latitude": 46.05237,
+    "longitude": 11.112007
+  },
+  {
+    "id": "417",
+    "name": "Sanseverino S.Nicolò",
+    "city": "Trento",
+    "lines": [
+      "12",
+      "14"
+    ],
+    "mode": "bus",
+    "latitude": 46.050945,
+    "longitude": 11.111681
+  },
+  {
+    "id": "276",
+    "name": "Sanzio \"Castello\"",
+    "city": "Trento",
+    "lines": [
+      "1",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "18",
+      "C"
+    ],
+    "mode": "bus",
+    "latitude": 46.071903,
+    "longitude": 11.126008
+  },
+  {
+    "id": "420",
+    "name": "Segantini Centa",
+    "city": "Trento",
+    "lines": [
+      "2",
+      "3",
+      "4",
+      "6",
+      "7",
+      "8",
+      "11",
+      "15",
+      "17"
+    ],
+    "mode": "bus",
+    "latitude": 46.075533,
+    "longitude": 11.122391
+  },
+  {
+    "id": "421",
+    "name": "Segantini Dogana",
+    "city": "Trento",
+    "lines": [
+      "2",
+      "3",
+      "4",
+      "6",
+      "7",
+      "8"
+    ],
+    "mode": "bus",
+    "latitude": 46.073716,
+    "longitude": 11.121165
+  },
+  {
+    "id": "2300",
+    "name": "Senter",
+    "city": "Rovereto",
+    "lines": [
+      "6",
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 45.877521,
+    "longitude": 11.089343
+  },
+  {
+    "id": "426",
+    "name": "Solteri \"Nido La Trottola\"",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "7",
+      "17"
+    ],
+    "mode": "bus",
+    "latitude": 46.087949,
+    "longitude": 11.121282
+  },
+  {
+    "id": "427",
+    "name": "Solteri \"Nido La Trottola\"",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "7",
+      "17"
+    ],
+    "mode": "bus",
+    "latitude": 46.087572,
+    "longitude": 11.121396
+  },
+  {
+    "id": "422",
+    "name": "Solteri \"Piazzina\"",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "7",
+      "17"
+    ],
+    "mode": "bus",
+    "latitude": 46.085501,
+    "longitude": 11.12256
+  },
+  {
+    "id": "423",
+    "name": "Solteri \"Piazzina\"",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "7",
+      "17"
+    ],
+    "mode": "bus",
+    "latitude": 46.085496,
+    "longitude": 11.122474
+  },
+  {
+    "id": "424",
+    "name": "Solteri Largaiolli",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "7",
+      "17"
+    ],
+    "mode": "bus",
+    "latitude": 46.089979,
+    "longitude": 11.120936
+  },
+  {
+    "id": "425",
+    "name": "Solteri Largaiolli",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "7",
+      "17"
+    ],
+    "mode": "bus",
+    "latitude": 46.090042,
+    "longitude": 11.12082
+  },
+  {
+    "id": "236",
+    "name": "Sopramonte \"Bunaga\"",
+    "city": "Trento",
+    "lines": [
+      "1",
+      "6",
+      "8"
+    ],
+    "mode": "bus",
+    "latitude": 46.069285,
+    "longitude": 11.05707
+  },
+  {
+    "id": "237",
+    "name": "Sopramonte \"Bunaga\"",
+    "city": "Trento",
+    "lines": [
+      "1",
+      "6",
+      "8"
+    ],
+    "mode": "bus",
+    "latitude": 46.069969,
+    "longitude": 11.057969
+  },
+  {
+    "id": "2483",
+    "name": "Sopramonte \"Campra\"",
+    "city": "Trento",
+    "lines": [
+      "1"
+    ],
+    "mode": "bus",
+    "latitude": 46.078588,
+    "longitude": 11.058123
+  },
+  {
+    "id": "2484",
+    "name": "Sopramonte \"Campra\"",
+    "city": "Trento",
+    "lines": [
+      "1"
+    ],
+    "mode": "bus",
+    "latitude": 46.078747,
+    "longitude": 11.058186
+  },
+  {
+    "id": "2501",
+    "name": "Sopramonte \"M.Petoci\"",
+    "city": "Trento",
+    "lines": [
+      "1",
+      "6",
+      "8"
+    ],
+    "mode": "bus",
+    "latitude": 46.066982,
+    "longitude": 11.059531
+  },
+  {
+    "id": "113",
+    "name": "Sopramonte \"Maso Banal\"",
+    "city": "Trento",
+    "lines": [
+      "1",
+      "6",
+      "8"
+    ],
+    "mode": "bus",
+    "latitude": 46.069001,
+    "longitude": 11.063551
+  },
+  {
+    "id": "234",
+    "name": "Sopramonte \"Novai\"",
+    "city": "Trento",
+    "lines": [
+      "1",
+      "6",
+      "8"
+    ],
+    "mode": "bus",
+    "latitude": 46.067712,
+    "longitude": 11.061514
+  },
+  {
+    "id": "232",
+    "name": "Sopramonte \"Valle\"",
+    "city": "Trento",
+    "lines": [
+      "1"
+    ],
+    "mode": "bus",
+    "latitude": 46.075888,
+    "longitude": 11.055913
+  },
+  {
+    "id": "233",
+    "name": "Sopramonte \"Valle\"",
+    "city": "Trento",
+    "lines": [
+      "1",
+      "6",
+      "8"
+    ],
+    "mode": "bus",
+    "latitude": 46.075948,
+    "longitude": 11.05575
+  },
+  {
+    "id": "230",
+    "name": "Sopramonte Bivio Baselga",
+    "city": "Trento",
+    "lines": [
+      "1"
+    ],
+    "mode": "bus",
+    "latitude": 46.07555,
+    "longitude": 11.058451
+  },
+  {
+    "id": "231",
+    "name": "Sopramonte Bivio Baselga",
+    "city": "Trento",
+    "lines": [
+      "1",
+      "6",
+      "8"
+    ],
+    "mode": "bus",
+    "latitude": 46.075587,
+    "longitude": 11.058645
+  },
+  {
+    "id": "229",
+    "name": "Sopramonte Piazza Oveno",
+    "city": "Trento",
+    "lines": [
+      "1"
+    ],
+    "mode": "bus",
+    "latitude": 46.071342,
+    "longitude": 11.059187
+  },
+  {
+    "id": "235",
+    "name": "Sopramonte Piazza Oveno",
+    "city": "Trento",
+    "lines": [
+      "1",
+      "6",
+      "8"
+    ],
+    "mode": "bus",
+    "latitude": 46.071176,
+    "longitude": 11.059527
+  },
+  {
+    "id": "104",
+    "name": "Sp 131 \"Maso Pradiscola\"",
+    "city": "Trento",
+    "lines": [
+      "9",
+      "10",
+      "16"
+    ],
+    "mode": "bus",
+    "latitude": 46.083248,
+    "longitude": 11.135662
+  },
+  {
+    "id": "105",
+    "name": "Sp 131 \"Maso Pradiscola\"",
+    "city": "Trento",
+    "lines": [
+      "9",
+      "10",
+      "16"
+    ],
+    "mode": "bus",
+    "latitude": 46.083257,
+    "longitude": 11.135788
+  },
+  {
+    "id": "154",
+    "name": "Sp 131 \"Paganin\"",
+    "city": "Trento",
+    "lines": [
+      "10",
+      "M"
+    ],
+    "mode": "bus",
+    "latitude": 46.106369,
+    "longitude": 11.137467
+  },
+  {
+    "id": "155",
+    "name": "Sp 131 \"Paganin\"",
+    "city": "Trento",
+    "lines": [
+      "9",
+      "10",
+      "M"
+    ],
+    "mode": "bus",
+    "latitude": 46.106393,
+    "longitude": 11.137553
+  },
+  {
+    "id": "109",
+    "name": "Sp 131 \"Res. Silvana\"",
+    "city": "Trento",
+    "lines": [
+      "10",
+      "M"
+    ],
+    "mode": "bus",
+    "latitude": 46.09764,
+    "longitude": 11.126986
+  },
+  {
+    "id": "110",
+    "name": "Sp 131 \"Res. Silvana\"",
+    "city": "Trento",
+    "lines": [
+      "9",
+      "10",
+      "M"
+    ],
+    "mode": "bus",
+    "latitude": 46.097687,
+    "longitude": 11.12683
+  },
+  {
+    "id": "115",
+    "name": "Sp 131 Al Maso Specchio",
+    "city": "Trento",
+    "lines": [
+      "10",
+      "M"
+    ],
+    "mode": "bus",
+    "latitude": 46.10449,
+    "longitude": 11.123519
+  },
+  {
+    "id": "116",
+    "name": "Sp 131 Al Maso Specchio",
+    "city": "Trento",
+    "lines": [
+      "9",
+      "10",
+      "M"
+    ],
+    "mode": "bus",
+    "latitude": 46.104411,
+    "longitude": 11.123396
+  },
+  {
+    "id": "133",
+    "name": "Sp 76 \"Maregioli\"",
+    "city": "Trento",
+    "lines": [
+      "3"
+    ],
+    "mode": "bus",
+    "latitude": 46.130566,
+    "longitude": 11.121651
+  },
+  {
+    "id": "134",
+    "name": "Sp 76 \"Maregioli\"",
+    "city": "Trento",
+    "lines": [
+      "3"
+    ],
+    "mode": "bus",
+    "latitude": 46.130305,
+    "longitude": 11.121329
+  },
+  {
+    "id": "131",
+    "name": "Sp 76 \"Piac\"",
+    "city": "Trento",
+    "lines": [
+      "3"
+    ],
+    "mode": "bus",
+    "latitude": 46.126807,
+    "longitude": 11.114628
+  },
+  {
+    "id": "139",
+    "name": "Sp 76 \"Via Rossa\"",
+    "city": "Trento",
+    "lines": [
+      "3"
+    ],
+    "mode": "bus",
+    "latitude": 46.119793,
+    "longitude": 11.111463
+  },
+  {
+    "id": "140",
+    "name": "Sp 76 \"Via Rossa\"",
+    "city": "Trento",
+    "lines": [
+      "3"
+    ],
+    "mode": "bus",
+    "latitude": 46.11965,
+    "longitude": 11.111323
+  },
+  {
+    "id": "2377",
+    "name": "Sp 76 Bivio S.Lazzaro",
+    "city": "Trento",
+    "lines": [
+      "3"
+    ],
+    "mode": "bus",
+    "latitude": 46.129,
+    "longitude": 11.115532
+  },
+  {
+    "id": "48",
+    "name": "Sp 76 Carpenedi",
+    "city": "Trento",
+    "lines": [
+      "3"
+    ],
+    "mode": "bus",
+    "latitude": 46.117667,
+    "longitude": 11.110047
+  },
+  {
+    "id": "49",
+    "name": "Sp 76 Carpenedi",
+    "city": "Trento",
+    "lines": [
+      "3"
+    ],
+    "mode": "bus",
+    "latitude": 46.117278,
+    "longitude": 11.108621
+  },
+  {
+    "id": "143",
+    "name": "Sp 76 Dos di Lamar",
+    "city": "Trento",
+    "lines": [
+      "3"
+    ],
+    "mode": "bus",
+    "latitude": 46.124991,
+    "longitude": 11.113511
+  },
+  {
+    "id": "144",
+    "name": "Sp 76 Dos di Lamar",
+    "city": "Trento",
+    "lines": [
+      "3"
+    ],
+    "mode": "bus",
+    "latitude": 46.124688,
+    "longitude": 11.112827
+  },
+  {
+    "id": "245",
+    "name": "Sp 85 \"Soraval\"",
+    "city": "Trento",
+    "lines": [
+      "1"
+    ],
+    "mode": "bus",
+    "latitude": 46.083412,
+    "longitude": 11.064273
+  },
+  {
+    "id": "246",
+    "name": "Sp 85 \"Soraval\"",
+    "city": "Trento",
+    "lines": [
+      "1"
+    ],
+    "mode": "bus",
+    "latitude": 46.083174,
+    "longitude": 11.064109
+  },
+  {
+    "id": "5",
+    "name": "Sp 85 Bivio Sopramonte",
+    "city": "Trento",
+    "lines": [
+      "1"
+    ],
+    "mode": "bus",
+    "latitude": 46.085069,
+    "longitude": 11.069564
+  },
+  {
+    "id": "439",
+    "name": "Sp 90 \"Maso Prudenza\"",
+    "city": "Trento",
+    "lines": [
+      "12"
+    ],
+    "mode": "bus",
+    "latitude": 46.028929,
+    "longitude": 11.111593
+  },
+  {
+    "id": "440",
+    "name": "Sp 90 \"Maso Prudenza\"",
+    "city": "Trento",
+    "lines": [
+      "12"
+    ],
+    "mode": "bus",
+    "latitude": 46.029257,
+    "longitude": 11.111746
+  },
+  {
+    "id": "2510",
+    "name": "Sp.2 Bivio Per Cisterna",
+    "city": "Rovereto",
+    "lines": [
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 45.881195,
+    "longitude": 11.075461
+  },
+  {
+    "id": "1338",
+    "name": "Sp.2 Fr. Campolongo",
+    "city": "Rovereto",
+    "lines": [
+      "6"
+    ],
+    "mode": "bus",
+    "latitude": 45.886965,
+    "longitude": 11.063864
+  },
+  {
+    "id": "1341",
+    "name": "Sp.2 Fr. Campolongo",
+    "city": "Rovereto",
+    "lines": [
+      "6",
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 45.886934,
+    "longitude": 11.063942
+  },
+  {
+    "id": "1296",
+    "name": "Sp.2 Loc. Beccache'",
+    "city": "Rovereto",
+    "lines": [
+      "6",
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 45.882022,
+    "longitude": 11.071445
+  },
+  {
+    "id": "1334",
+    "name": "Sp.2 Loc. Beccache'",
+    "city": "Rovereto",
+    "lines": [
+      "6",
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 45.882294,
+    "longitude": 11.072418
+  },
+  {
+    "id": "1339",
+    "name": "Sp.2 Noriglio",
+    "city": "Rovereto",
+    "lines": [
+      "6",
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 45.884288,
+    "longitude": 11.070321
+  },
+  {
+    "id": "1340",
+    "name": "Sp.2 Noriglio",
+    "city": "Rovereto",
+    "lines": [
+      "6"
+    ],
+    "mode": "bus",
+    "latitude": 45.884322,
+    "longitude": 11.07008
+  },
+  {
+    "id": "2897",
+    "name": "Sp.23 \"Nero Cubo\"",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "2"
+    ],
+    "mode": "bus",
+    "latitude": 45.855485,
+    "longitude": 11.002055
+  },
+  {
+    "id": "2936",
+    "name": "Sp.89 Maso Brentegam",
+    "city": "Rovereto",
+    "lines": [
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 45.880398,
+    "longitude": 11.050848
+  },
+  {
+    "id": "2790",
+    "name": "Spini \"Casa Circondariale\"",
+    "city": "Trento",
+    "lines": [
+      "7",
+      "11",
+      "15"
+    ],
+    "mode": "bus",
+    "latitude": 46.127053,
+    "longitude": 11.096713
+  },
+  {
+    "id": "492",
+    "name": "Spini \"Officine\"",
+    "city": "Trento",
+    "lines": [
+      "4",
+      "11",
+      "17",
+      "G"
+    ],
+    "mode": "bus",
+    "latitude": 46.11841,
+    "longitude": 11.100034
+  },
+  {
+    "id": "493",
+    "name": "Spini \"Officine\"",
+    "city": "Trento",
+    "lines": [
+      "4",
+      "7",
+      "11",
+      "15",
+      "17",
+      "G"
+    ],
+    "mode": "bus",
+    "latitude": 46.118234,
+    "longitude": 11.100622
+  },
+  {
+    "id": "2782",
+    "name": "Spini \"Pal. Giano\"",
+    "city": "Trento",
+    "lines": [
+      "15",
+      "17"
+    ],
+    "mode": "bus",
+    "latitude": 46.12167,
+    "longitude": 11.095136
+  },
+  {
+    "id": "2783",
+    "name": "Spini \"Pal. Giano\"",
+    "city": "Trento",
+    "lines": [
+      "15"
+    ],
+    "mode": "bus",
+    "latitude": 46.121606,
+    "longitude": 11.095087
+  },
+  {
+    "id": "494",
+    "name": "Spini \"Zona Ind.Le Ftm\"",
+    "city": "Trento",
+    "lines": [
+      "4",
+      "11",
+      "17",
+      "G"
+    ],
+    "mode": "bus",
+    "latitude": 46.118168,
+    "longitude": 11.103939
+  },
+  {
+    "id": "495",
+    "name": "Spini \"Zona Ind.Le Ftm\"",
+    "city": "Trento",
+    "lines": [
+      "4",
+      "7",
+      "11",
+      "15",
+      "17",
+      "G"
+    ],
+    "mode": "bus",
+    "latitude": 46.118038,
+    "longitude": 11.10365
+  },
+  {
+    "id": "2788",
+    "name": "Spini Bregenz",
+    "city": "Trento",
+    "lines": [
+      "15"
+    ],
+    "mode": "bus",
+    "latitude": 46.117063,
+    "longitude": 11.092401
+  },
+  {
+    "id": "2789",
+    "name": "Spini Bregenz",
+    "city": "Trento",
+    "lines": [
+      "15"
+    ],
+    "mode": "bus",
+    "latitude": 46.117025,
+    "longitude": 11.092475
+  },
+  {
+    "id": "238",
+    "name": "Spini di Gardolo",
+    "city": "Trento",
+    "lines": [
+      "4",
+      "7",
+      "11",
+      "17",
+      "G"
+    ],
+    "mode": "bus",
+    "latitude": 46.121625,
+    "longitude": 11.090102
+  },
+  {
+    "id": "496",
+    "name": "Spini Klagenfurt",
+    "city": "Trento",
+    "lines": [
+      "4",
+      "11",
+      "15",
+      "G"
+    ],
+    "mode": "bus",
+    "latitude": 46.117775,
+    "longitude": 11.094238
+  },
+  {
+    "id": "497",
+    "name": "Spini Klagenfurt",
+    "city": "Trento",
+    "lines": [
+      "4",
+      "7",
+      "11",
+      "15",
+      "17",
+      "G"
+    ],
+    "mode": "bus",
+    "latitude": 46.117756,
+    "longitude": 11.094421
+  },
+  {
+    "id": "239",
+    "name": "Spini Linz",
+    "city": "Trento",
+    "lines": [
+      "4",
+      "11",
+      "15",
+      "G"
+    ],
+    "mode": "bus",
+    "latitude": 46.118514,
+    "longitude": 11.096121
+  },
+  {
+    "id": "240",
+    "name": "Spini Linz",
+    "city": "Trento",
+    "lines": [
+      "4",
+      "7",
+      "11",
+      "15",
+      "17",
+      "G"
+    ],
+    "mode": "bus",
+    "latitude": 46.118533,
+    "longitude": 11.096514
+  },
+  {
+    "id": "2664",
+    "name": "Spini Loghét",
+    "city": "Trento",
+    "lines": [
+      "4",
+      "7",
+      "11",
+      "17",
+      "G"
+    ],
+    "mode": "bus",
+    "latitude": 46.120397,
+    "longitude": 11.091212
+  },
+  {
+    "id": "2665",
+    "name": "Spini Loghét",
+    "city": "Trento",
+    "lines": [
+      "4",
+      "11",
+      "G"
+    ],
+    "mode": "bus",
+    "latitude": 46.120478,
+    "longitude": 11.091282
+  },
+  {
+    "id": "2786",
+    "name": "Spini Masadori",
+    "city": "Trento",
+    "lines": [
+      "15",
+      "17"
+    ],
+    "mode": "bus",
+    "latitude": 46.119932,
+    "longitude": 11.096486
+  },
+  {
+    "id": "2787",
+    "name": "Spini Masadori",
+    "city": "Trento",
+    "lines": [
+      "15"
+    ],
+    "mode": "bus",
+    "latitude": 46.120106,
+    "longitude": 11.096254
+  },
+  {
+    "id": "241",
+    "name": "Spini Monaco",
+    "city": "Trento",
+    "lines": [
+      "4",
+      "11",
+      "G"
+    ],
+    "mode": "bus",
+    "latitude": 46.11874,
+    "longitude": 11.092667
+  },
+  {
+    "id": "242",
+    "name": "Spini Monaco",
+    "city": "Trento",
+    "lines": [
+      "4",
+      "7",
+      "11",
+      "17",
+      "G"
+    ],
+    "mode": "bus",
+    "latitude": 46.118457,
+    "longitude": 11.092762
+  },
+  {
+    "id": "2925",
+    "name": "Spini Palazzine",
+    "city": "Trento",
+    "lines": [
+      "G"
+    ],
+    "mode": "bus",
+    "latitude": 46.116615,
+    "longitude": 11.100013
+  },
+  {
+    "id": "2449",
+    "name": "Spini Praga",
+    "city": "Trento",
+    "lines": [
+      "15",
+      "G"
+    ],
+    "mode": "bus",
+    "latitude": 46.123637,
+    "longitude": 11.097414
+  },
+  {
+    "id": "2799",
+    "name": "Spini Praga",
+    "city": "Trento",
+    "lines": [
+      "15"
+    ],
+    "mode": "bus",
+    "latitude": 46.123565,
+    "longitude": 11.097434
+  },
+  {
+    "id": "2784",
+    "name": "Spini Varsavia",
+    "city": "Trento",
+    "lines": [
+      "15"
+    ],
+    "mode": "bus",
+    "latitude": 46.125528,
+    "longitude": 11.098368
+  },
+  {
+    "id": "2785",
+    "name": "Spini Varsavia",
+    "city": "Trento",
+    "lines": [
+      "15"
+    ],
+    "mode": "bus",
+    "latitude": 46.125825,
+    "longitude": 11.098119
+  },
+  {
+    "id": "179",
+    "name": "Spré Pinara",
+    "city": "Trento",
+    "lines": [
+      "5",
+      "CM"
+    ],
+    "mode": "bus",
+    "latitude": 46.06749,
+    "longitude": 11.161268
+  },
+  {
+    "id": "180",
+    "name": "Spré Pinara",
+    "city": "Trento",
+    "lines": [
+      "5",
+      "CM"
+    ],
+    "mode": "bus",
+    "latitude": 46.067189,
+    "longitude": 11.160763
+  },
+  {
+    "id": "243",
+    "name": "Spré S.Lucia",
+    "city": "Trento",
+    "lines": [
+      "5",
+      "CM"
+    ],
+    "mode": "bus",
+    "latitude": 46.06941,
+    "longitude": 11.161625
+  },
+  {
+    "id": "244",
+    "name": "Spré S.Lucia",
+    "city": "Trento",
+    "lines": [
+      "5",
+      "CM"
+    ],
+    "mode": "bus",
+    "latitude": 46.069213,
+    "longitude": 11.161184
+  },
+  {
+    "id": "94",
+    "name": "Ss 12 \"Casteller\"",
+    "city": "Trento",
+    "lines": [
+      "8"
+    ],
+    "mode": "bus",
+    "latitude": 46.025382,
+    "longitude": 11.132726
+  },
+  {
+    "id": "95",
+    "name": "Ss 12 \"Casteller\"",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "4",
+      "8"
+    ],
+    "mode": "bus",
+    "latitude": 46.025655,
+    "longitude": 11.132788
+  },
+  {
+    "id": "99",
+    "name": "Ss 12 \"Le Caverne\"",
+    "city": "Trento",
+    "lines": [
+      "8"
+    ],
+    "mode": "bus",
+    "latitude": 46.031037,
+    "longitude": 11.132709
+  },
+  {
+    "id": "100",
+    "name": "Ss 12 \"Le Caverne\"",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "4",
+      "8"
+    ],
+    "mode": "bus",
+    "latitude": 46.030059,
+    "longitude": 11.132908
+  },
+  {
+    "id": "289",
+    "name": "Ss 12 \"Paludi\"",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "4",
+      "8",
+      "11",
+      "17"
+    ],
+    "mode": "bus",
+    "latitude": 46.102642,
+    "longitude": 11.110517
+  },
+  {
+    "id": "286",
+    "name": "Ss 12 \"Pioppeto\"",
+    "city": "Trento",
+    "lines": [
+      "4",
+      "7",
+      "8",
+      "11",
+      "17",
+      "G"
+    ],
+    "mode": "bus",
+    "latitude": 46.108373,
+    "longitude": 11.108551
+  },
+  {
+    "id": "2418",
+    "name": "Ss 12 \"Pioppeto\"",
+    "city": "Trento",
+    "lines": [
+      "17"
+    ],
+    "mode": "bus",
+    "latitude": 46.108607,
+    "longitude": 11.108745
+  },
+  {
+    "id": "72",
+    "name": "Ss 12 \"Zona Ind.Le Ftm\"",
+    "city": "Trento",
+    "lines": [
+      "17"
+    ],
+    "mode": "bus",
+    "latitude": 46.119198,
+    "longitude": 11.106145
+  },
+  {
+    "id": "214",
+    "name": "Ss 12 \"Zona Ind.Le Ftm\"",
+    "city": "Trento",
+    "lines": [
+      "4",
+      "8",
+      "17"
+    ],
+    "mode": "bus",
+    "latitude": 46.120375,
+    "longitude": 11.105848
+  },
+  {
+    "id": "287",
+    "name": "Ss 12 Bivio Meano",
+    "city": "Trento",
+    "lines": [
+      "4",
+      "7",
+      "8",
+      "11",
+      "17",
+      "G"
+    ],
+    "mode": "bus",
+    "latitude": 46.115871,
+    "longitude": 11.10624
+  },
+  {
+    "id": "3137",
+    "name": "Ss 12 Bivio Meano",
+    "city": "Trento",
+    "lines": [
+      "17"
+    ],
+    "mode": "bus",
+    "latitude": 46.115745,
+    "longitude": 11.106448
+  },
+  {
+    "id": "288",
+    "name": "Ss 12 Canova",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "4",
+      "8",
+      "11",
+      "17"
+    ],
+    "mode": "bus",
+    "latitude": 46.098968,
+    "longitude": 11.111801
+  },
+  {
+    "id": "290",
+    "name": "Ss 12 Canova",
+    "city": "Trento",
+    "lines": [
+      "11",
+      "17"
+    ],
+    "mode": "bus",
+    "latitude": 46.100402,
+    "longitude": 11.111543
+  },
+  {
+    "id": "2419",
+    "name": "Ss 12 S.Anna",
+    "city": "Trento",
+    "lines": [
+      "17"
+    ],
+    "mode": "bus",
+    "latitude": 46.112375,
+    "longitude": 11.107453
+  },
+  {
+    "id": "2438",
+    "name": "Ss 12 Talvera",
+    "city": "Trento",
+    "lines": [
+      "11",
+      "17"
+    ],
+    "mode": "bus",
+    "latitude": 46.103414,
+    "longitude": 11.110516
+  },
+  {
+    "id": "340",
+    "name": "Ss 349 Pozzata",
+    "city": "Trento",
+    "lines": [
+      "1",
+      "3",
+      "6",
+      "13"
+    ],
+    "mode": "bus",
+    "latitude": 46.03951,
+    "longitude": 11.144092
+  },
+  {
+    "id": "158",
+    "name": "Ss 45 \"Montevideo\"",
+    "city": "Trento",
+    "lines": [
+      "1"
+    ],
+    "mode": "bus",
+    "latitude": 46.080315,
+    "longitude": 11.098555
+  },
+  {
+    "id": "2500",
+    "name": "Ss 45 \"Scala\"",
+    "city": "Trento",
+    "lines": [
+      "1"
+    ],
+    "mode": "bus",
+    "latitude": 46.077263,
+    "longitude": 11.099858
+  },
+  {
+    "id": "2780",
+    "name": "Ss 45 S.Giorgio",
+    "city": "Trento",
+    "lines": [
+      "1"
+    ],
+    "mode": "bus",
+    "latitude": 46.078559,
+    "longitude": 11.099223
+  },
+  {
+    "id": "278",
+    "name": "Ss 47 Muralta",
+    "city": "Trento",
+    "lines": [
+      "C"
+    ],
+    "mode": "bus",
+    "latitude": 46.077053,
+    "longitude": 11.131799
+  },
+  {
+    "id": "1422",
+    "name": "Ss.12 \"Rovercenter\"",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "2"
+    ],
+    "mode": "bus",
+    "latitude": 45.864467,
+    "longitude": 11.029238
+  },
+  {
+    "id": "2699",
+    "name": "Ss.12 \"Rovercenter\"",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "2"
+    ],
+    "mode": "bus",
+    "latitude": 45.864129,
+    "longitude": 11.029039
+  },
+  {
+    "id": "2806",
+    "name": "Ss.240 \"Alla Staffa\"",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "2"
+    ],
+    "mode": "bus",
+    "latitude": 45.872747,
+    "longitude": 11.024718
+  },
+  {
+    "id": "2870",
+    "name": "Ss.240 \"Alla Staffa\"",
+    "city": "Rovereto",
+    "lines": [
+      "2"
+    ],
+    "mode": "bus",
+    "latitude": 45.872806,
+    "longitude": 11.024445
+  },
+  {
+    "id": "3140",
+    "name": "Ss.240 \"La Favorita\"",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "2"
+    ],
+    "mode": "bus",
+    "latitude": 45.866585,
+    "longitude": 11.009171
+  },
+  {
+    "id": "3141",
+    "name": "Ss.240 \"La Favorita\"",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "2"
+    ],
+    "mode": "bus",
+    "latitude": 45.866523,
+    "longitude": 11.009293
+  },
+  {
+    "id": "2293",
+    "name": "Ss.240 \"Millennium Nord\"",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "2"
+    ],
+    "mode": "bus",
+    "latitude": 45.870196,
+    "longitude": 11.016625
+  },
+  {
+    "id": "2294",
+    "name": "Ss.240 \"Millennium Nord\"",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "2"
+    ],
+    "mode": "bus",
+    "latitude": 45.870509,
+    "longitude": 11.017269
+  },
+  {
+    "id": "2289",
+    "name": "Ss.240 \"Millennium Sud\"",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "2"
+    ],
+    "mode": "bus",
+    "latitude": 45.868636,
+    "longitude": 11.014105
+  },
+  {
+    "id": "2291",
+    "name": "Ss.240 \"Millennium Sud\"",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "2"
+    ],
+    "mode": "bus",
+    "latitude": 45.868695,
+    "longitude": 11.014031
+  },
+  {
+    "id": "2965",
+    "name": "Stadio Quercia",
+    "city": "Rovereto",
+    "lines": [
+      "A",
+      "AB"
+    ],
+    "mode": "bus",
+    "latitude": 45.901153,
+    "longitude": 11.036354
+  },
+  {
+    "id": "2987",
+    "name": "Stadio Quercia",
+    "city": "Rovereto",
+    "lines": [
+      "1"
+    ],
+    "mode": "bus",
+    "latitude": 45.90094,
+    "longitude": 11.036197
+  },
+  {
+    "id": "1312",
+    "name": "Stazione Fs",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "C",
+      "V"
+    ],
+    "mode": "bus",
+    "latitude": 45.890549,
+    "longitude": 11.033982
+  },
+  {
+    "id": "3005",
+    "name": "Stazione Fs",
+    "city": "Rovereto",
+    "lines": [
+      "2"
+    ],
+    "mode": "bus",
+    "latitude": 45.89171,
+    "longitude": 11.034206
+  },
+  {
+    "id": "93",
+    "name": "Stella \"S.Gaetano\"",
+    "city": "Trento",
+    "lines": [
+      "8"
+    ],
+    "mode": "bus",
+    "latitude": 46.036419,
+    "longitude": 11.13043
+  },
+  {
+    "id": "97",
+    "name": "Stella Marighetto",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "4",
+      "8"
+    ],
+    "mode": "bus",
+    "latitude": 46.03424,
+    "longitude": 11.131449
+  },
+  {
+    "id": "3003",
+    "name": "Strada Degli Artiglieri",
+    "city": "Rovereto",
+    "lines": [
+      "B"
+    ],
+    "mode": "bus",
+    "latitude": 45.869867,
+    "longitude": 11.036383
+  },
+  {
+    "id": "173",
+    "name": "Tangenziale Ovest Pezcoller",
+    "city": "Trento",
+    "lines": [
+      "8",
+      "12",
+      "14"
+    ],
+    "mode": "bus",
+    "latitude": 46.047882,
+    "longitude": 11.11346
+  },
+  {
+    "id": "250",
+    "name": "Tavernaro \"Salet\"",
+    "city": "Trento",
+    "lines": [
+      "9",
+      "10"
+    ],
+    "mode": "bus",
+    "latitude": 46.081825,
+    "longitude": 11.157904
+  },
+  {
+    "id": "251",
+    "name": "Tavernaro \"Salet\"",
+    "city": "Trento",
+    "lines": [
+      "9",
+      "10"
+    ],
+    "mode": "bus",
+    "latitude": 46.081977,
+    "longitude": 11.158399
+  },
+  {
+    "id": "252",
+    "name": "Tavernaro \"Villa Clementi\"",
+    "city": "Trento",
+    "lines": [
+      "9",
+      "10"
+    ],
+    "mode": "bus",
+    "latitude": 46.080892,
+    "longitude": 11.157486
+  },
+  {
+    "id": "253",
+    "name": "Tavernaro \"Villa Clementi\"",
+    "city": "Trento",
+    "lines": [
+      "9",
+      "10"
+    ],
+    "mode": "bus",
+    "latitude": 46.081286,
+    "longitude": 11.156045
+  },
+  {
+    "id": "248",
+    "name": "Tavernaro Centro",
+    "city": "Trento",
+    "lines": [
+      "9",
+      "10"
+    ],
+    "mode": "bus",
+    "latitude": 46.081409,
+    "longitude": 11.154945
+  },
+  {
+    "id": "249",
+    "name": "Tavernaro Centro",
+    "city": "Trento",
+    "lines": [
+      "9",
+      "10"
+    ],
+    "mode": "bus",
+    "latitude": 46.081506,
+    "longitude": 11.155013
+  },
+  {
+    "id": "2304",
+    "name": "Toldi",
+    "city": "Rovereto",
+    "lines": [
+      "6",
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 45.897936,
+    "longitude": 11.061771
+  },
+  {
+    "id": "2508",
+    "name": "Toldi",
+    "city": "Rovereto",
+    "lines": [
+      "6",
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 45.897853,
+    "longitude": 11.061812
+  },
+  {
+    "id": "443",
+    "name": "Torre Verde Galasso",
+    "city": "Trento",
+    "lines": [
+      "18"
+    ],
+    "mode": "bus",
+    "latitude": 46.070654,
+    "longitude": 11.122776
+  },
+  {
+    "id": "444",
+    "name": "Travai Al Nuoto / Muse",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "4",
+      "5",
+      "5/",
+      "8",
+      "9",
+      "10"
+    ],
+    "mode": "bus",
+    "latitude": 46.06455,
+    "longitude": 11.120922
+  },
+  {
+    "id": "2405",
+    "name": "Travai Piazza Fiera",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "8"
+    ],
+    "mode": "bus",
+    "latitude": 46.064755,
+    "longitude": 11.122318
+  },
+  {
+    "id": "2380",
+    "name": "Trener \"3 Torri Pat\"",
+    "city": "Trento",
+    "lines": [
+      "8",
+      "16"
+    ],
+    "mode": "bus",
+    "latitude": 46.095078,
+    "longitude": 11.116914
+  },
+  {
+    "id": "2801",
+    "name": "Vela \"Scuole S.Vigilio\"",
+    "city": "Trento",
+    "lines": [
+      "2",
+      "6"
+    ],
+    "mode": "bus",
+    "latitude": 46.081347,
+    "longitude": 11.102631
+  },
+  {
+    "id": "255",
+    "name": "Vela Alla Scala",
+    "city": "Trento",
+    "lines": [
+      "2",
+      "6"
+    ],
+    "mode": "bus",
+    "latitude": 46.078838,
+    "longitude": 11.103643
+  },
+  {
+    "id": "256",
+    "name": "Vela Alla Scala",
+    "city": "Trento",
+    "lines": [
+      "2",
+      "6"
+    ],
+    "mode": "bus",
+    "latitude": 46.079042,
+    "longitude": 11.10342
+  },
+  {
+    "id": "3096",
+    "name": "Vela Centro",
+    "city": "Trento",
+    "lines": [
+      "2",
+      "6"
+    ],
+    "mode": "bus",
+    "latitude": 46.082085,
+    "longitude": 11.102043
+  },
+  {
+    "id": "435",
+    "name": "Vela S.Giorgio",
+    "city": "Trento",
+    "lines": [
+      "2",
+      "6"
+    ],
+    "mode": "bus",
+    "latitude": 46.07629,
+    "longitude": 11.104958
+  },
+  {
+    "id": "436",
+    "name": "Vela S.Giorgio",
+    "city": "Trento",
+    "lines": [
+      "2",
+      "6"
+    ],
+    "mode": "bus",
+    "latitude": 46.076104,
+    "longitude": 11.105151
+  },
+  {
+    "id": "452",
+    "name": "Venezia \"Corallo\"",
+    "city": "Trento",
+    "lines": [
+      "5",
+      "5/",
+      "9",
+      "10"
+    ],
+    "mode": "bus",
+    "latitude": 46.068584,
+    "longitude": 11.136364
+  },
+  {
+    "id": "453",
+    "name": "Venezia \"Corallo\"",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "5",
+      "9"
+    ],
+    "mode": "bus",
+    "latitude": 46.069215,
+    "longitude": 11.136423
+  },
+  {
+    "id": "176",
+    "name": "Venezia \"Port'aquila\"",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "5",
+      "9"
+    ],
+    "mode": "bus",
+    "latitude": 46.069863,
+    "longitude": 11.12824
+  },
+  {
+    "id": "2927",
+    "name": "Venezia \"Port'aquila\"",
+    "city": "Trento",
+    "lines": [
+      "5",
+      "5/",
+      "9",
+      "10",
+      "C"
+    ],
+    "mode": "bus",
+    "latitude": 46.069509,
+    "longitude": 11.127874
+  },
+  {
+    "id": "450",
+    "name": "Venezia Cave",
+    "city": "Trento",
+    "lines": [
+      "5",
+      "5/",
+      "9",
+      "10"
+    ],
+    "mode": "bus",
+    "latitude": 46.06664,
+    "longitude": 11.13153
+  },
+  {
+    "id": "451",
+    "name": "Venezia Cave",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "5",
+      "9"
+    ],
+    "mode": "bus",
+    "latitude": 46.066443,
+    "longitude": 11.132573
+  },
+  {
+    "id": "2520",
+    "name": "Verdi Inama",
+    "city": "Trento",
+    "lines": [
+      "N"
+    ],
+    "mode": "bus",
+    "latitude": 46.066534,
+    "longitude": 11.117868
+  },
+  {
+    "id": "2537",
+    "name": "Verona \"Big Center\"",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "8",
+      "13",
+      "C"
+    ],
+    "mode": "bus",
+    "latitude": 46.045701,
+    "longitude": 11.130926
+  },
+  {
+    "id": "2538",
+    "name": "Verona \"Big Center\"",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "4",
+      "8",
+      "13"
+    ],
+    "mode": "bus",
+    "latitude": 46.045723,
+    "longitude": 11.131083
+  },
+  {
+    "id": "459",
+    "name": "Verona \"Palazzo Stella\"",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "8",
+      "13",
+      "C"
+    ],
+    "mode": "bus",
+    "latitude": 46.043087,
+    "longitude": 11.131261
+  },
+  {
+    "id": "461",
+    "name": "Verona \"Questura\"",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "8",
+      "13",
+      "C"
+    ],
+    "mode": "bus",
+    "latitude": 46.047729,
+    "longitude": 11.131077
+  },
+  {
+    "id": "464",
+    "name": "Verona \"Questura\"",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "4",
+      "8",
+      "13",
+      "C"
+    ],
+    "mode": "bus",
+    "latitude": 46.047963,
+    "longitude": 11.131182
+  },
+  {
+    "id": "217",
+    "name": "Verona \"S.Bartolameo\"",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "8",
+      "12",
+      "13",
+      "18"
+    ],
+    "mode": "bus",
+    "latitude": 46.050654,
+    "longitude": 11.130531
+  },
+  {
+    "id": "218",
+    "name": "Verona \"S.Bartolameo\"",
+    "city": "Trento",
+    "lines": [
+      "1",
+      "3",
+      "4",
+      "8",
+      "13"
+    ],
+    "mode": "bus",
+    "latitude": 46.051053,
+    "longitude": 11.130406
+  },
+  {
+    "id": "462",
+    "name": "Verona Einaudi",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "8",
+      "12",
+      "13",
+      "18"
+    ],
+    "mode": "bus",
+    "latitude": 46.052957,
+    "longitude": 11.129723
+  },
+  {
+    "id": "463",
+    "name": "Verona Einaudi",
+    "city": "Trento",
+    "lines": [
+      "1",
+      "3",
+      "4",
+      "8",
+      "13"
+    ],
+    "mode": "bus",
+    "latitude": 46.052827,
+    "longitude": 11.129887
+  },
+  {
+    "id": "457",
+    "name": "Verona Fogazzaro",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "8",
+      "12",
+      "13"
+    ],
+    "mode": "bus",
+    "latitude": 46.056393,
+    "longitude": 11.128495
+  },
+  {
+    "id": "458",
+    "name": "Verona Fogazzaro",
+    "city": "Trento",
+    "lines": [
+      "1",
+      "3",
+      "4",
+      "8",
+      "13"
+    ],
+    "mode": "bus",
+    "latitude": 46.05648,
+    "longitude": 11.128573
+  },
+  {
+    "id": "460",
+    "name": "Verona Menguzzato",
+    "city": "Trento",
+    "lines": [
+      "3",
+      "4",
+      "8",
+      "C"
+    ],
+    "mode": "bus",
+    "latitude": 46.042627,
+    "longitude": 11.131436
+  },
+  {
+    "id": "2845",
+    "name": "Via 13 Settembre",
+    "city": "Rovereto",
+    "lines": [
+      "2",
+      "3",
+      "6",
+      "A"
+    ],
+    "mode": "bus",
+    "latitude": 45.908319,
+    "longitude": 11.04167
+  },
+  {
+    "id": "1397",
+    "name": "Via A Prato",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "6",
+      "AB"
+    ],
+    "mode": "bus",
+    "latitude": 45.893472,
+    "longitude": 11.03071
+  },
+  {
+    "id": "2421",
+    "name": "Via A Prato",
+    "city": "Rovereto",
+    "lines": [
+      "6",
+      "B"
+    ],
+    "mode": "bus",
+    "latitude": 45.893517,
+    "longitude": 11.03078
+  },
+  {
+    "id": "2354",
+    "name": "Via All'adige",
+    "city": "Rovereto",
+    "lines": [
+      "3",
+      "5"
+    ],
+    "mode": "bus",
+    "latitude": 45.888316,
+    "longitude": 11.019061
+  },
+  {
+    "id": "2825",
+    "name": "Via All'adige",
+    "city": "Rovereto",
+    "lines": [
+      "5"
+    ],
+    "mode": "bus",
+    "latitude": 45.888292,
+    "longitude": 11.018708
+  },
+  {
+    "id": "1385",
+    "name": "Via Balista",
+    "city": "Rovereto",
+    "lines": [
+      "3",
+      "5",
+      "6"
+    ],
+    "mode": "bus",
+    "latitude": 45.894807,
+    "longitude": 11.032744
+  },
+  {
+    "id": "1386",
+    "name": "Via Balista",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "3",
+      "6",
+      "AB"
+    ],
+    "mode": "bus",
+    "latitude": 45.895135,
+    "longitude": 11.032558
+  },
+  {
+    "id": "2831",
+    "name": "Via Balista Ist. Veronesi",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "6"
+    ],
+    "mode": "bus",
+    "latitude": 45.896006,
+    "longitude": 11.030938
+  },
+  {
+    "id": "2755",
+    "name": "Via Baratieri",
+    "city": "Rovereto",
+    "lines": [
+      "A",
+      "AB"
+    ],
+    "mode": "bus",
+    "latitude": 45.894959,
+    "longitude": 11.040345
+  },
+  {
+    "id": "2884",
+    "name": "Via Bellini",
+    "city": "Rovereto",
+    "lines": [
+      "A",
+      "C"
+    ],
+    "mode": "bus",
+    "latitude": 45.899196,
+    "longitude": 11.044612
+  },
+  {
+    "id": "1359",
+    "name": "Via Benacense Parco Ferrari",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "2",
+      "AB",
+      "B"
+    ],
+    "mode": "bus",
+    "latitude": 45.877968,
+    "longitude": 11.033225
+  },
+  {
+    "id": "1362",
+    "name": "Via Benacense Parco Ferrari",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "2"
+    ],
+    "mode": "bus",
+    "latitude": 45.877967,
+    "longitude": 11.033346
+  },
+  {
+    "id": "1360",
+    "name": "Via Benacense Scuole Dante",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "2",
+      "AB",
+      "B"
+    ],
+    "mode": "bus",
+    "latitude": 45.879524,
+    "longitude": 11.034866
+  },
+  {
+    "id": "1361",
+    "name": "Via Benacense Scuole Dante",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "2"
+    ],
+    "mode": "bus",
+    "latitude": 45.879687,
+    "longitude": 11.035197
+  },
+  {
+    "id": "3006",
+    "name": "Via Benacense Scuole Ex Edili",
+    "city": "Rovereto",
+    "lines": [
+      "1"
+    ],
+    "mode": "bus",
+    "latitude": 45.880003,
+    "longitude": 11.035388
+  },
+  {
+    "id": "1357",
+    "name": "Via Benacense Via Fiume",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "2",
+      "A",
+      "AB",
+      "B"
+    ],
+    "mode": "bus",
+    "latitude": 45.881902,
+    "longitude": 11.038149
+  },
+  {
+    "id": "1358",
+    "name": "Via Benacense Via Fiume",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "2"
+    ],
+    "mode": "bus",
+    "latitude": 45.881987,
+    "longitude": 11.038449
+  },
+  {
+    "id": "2962",
+    "name": "Via Brigata Mantova",
+    "city": "Rovereto",
+    "lines": [
+      "B"
+    ],
+    "mode": "bus",
+    "latitude": 45.868249,
+    "longitude": 11.036135
+  },
+  {
+    "id": "2963",
+    "name": "Via Brigata Mantova",
+    "city": "Rovereto",
+    "lines": [
+      "B"
+    ],
+    "mode": "bus",
+    "latitude": 45.868273,
+    "longitude": 11.036219
+  },
+  {
+    "id": "2998",
+    "name": "Via Campagnole",
+    "city": "Rovereto",
+    "lines": [
+      "A",
+      "AB",
+      "B"
+    ],
+    "mode": "bus",
+    "latitude": 45.889321,
+    "longitude": 11.037107
+  },
+  {
+    "id": "1364",
+    "name": "Via Cavour",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "2",
+      "3",
+      "5",
+      "6",
+      "7",
+      "A",
+      "AB",
+      "B",
+      "V"
+    ],
+    "mode": "bus",
+    "latitude": 45.887193,
+    "longitude": 11.038491
+  },
+  {
+    "id": "1366",
+    "name": "Via Cavour",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "2",
+      "5",
+      "6",
+      "7",
+      "A",
+      "B",
+      "V"
+    ],
+    "mode": "bus",
+    "latitude": 45.887107,
+    "longitude": 11.038239
+  },
+  {
+    "id": "1363",
+    "name": "Via Cavour Via Riva",
+    "city": "Rovereto",
+    "lines": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "mode": "bus",
+    "latitude": 45.88728,
+    "longitude": 11.034509
+  },
+  {
+    "id": "1365",
+    "name": "Via Cavour Via Riva",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "AB",
+      "B"
+    ],
+    "mode": "bus",
+    "latitude": 45.88726,
+    "longitude": 11.034203
+  },
+  {
+    "id": "1367",
+    "name": "Via Cesari Stazione Fs",
+    "city": "Rovereto",
+    "lines": [
+      "5",
+      "7",
+      "A",
+      "AB",
+      "B"
+    ],
+    "mode": "bus",
+    "latitude": 45.89033,
+    "longitude": 11.03564
+  },
+  {
+    "id": "2964",
+    "name": "Via Cipressi",
+    "city": "Rovereto",
+    "lines": [
+      "AB",
+      "B"
+    ],
+    "mode": "bus",
+    "latitude": 45.870152,
+    "longitude": 11.032799
+  },
+  {
+    "id": "2986",
+    "name": "Via Circonvallazione",
+    "city": "Rovereto",
+    "lines": [
+      "A"
+    ],
+    "mode": "bus",
+    "latitude": 45.883833,
+    "longitude": 11.038545
+  },
+  {
+    "id": "2676",
+    "name": "Via Cittadella Via Mozart",
+    "city": "Rovereto",
+    "lines": [
+      "A",
+      "AB"
+    ],
+    "mode": "bus",
+    "latitude": 45.901296,
+    "longitude": 11.040141
+  },
+  {
+    "id": "2770",
+    "name": "Via Comel",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "6"
+    ],
+    "mode": "bus",
+    "latitude": 45.903978,
+    "longitude": 11.042051
+  },
+  {
+    "id": "2397",
+    "name": "Via Cornacalda",
+    "city": "Rovereto",
+    "lines": [
+      "AB",
+      "B"
+    ],
+    "mode": "bus",
+    "latitude": 45.866829,
+    "longitude": 11.035088
+  },
+  {
+    "id": "1431",
+    "name": "Via Craffonara",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "V"
+    ],
+    "mode": "bus",
+    "latitude": 45.88661,
+    "longitude": 11.034168
+  },
+  {
+    "id": "1369",
+    "name": "Via Dante Borgo S.Caterina",
+    "city": "Rovereto",
+    "lines": [
+      "A",
+      "AB",
+      "B"
+    ],
+    "mode": "bus",
+    "latitude": 45.889667,
+    "longitude": 11.040463
+  },
+  {
+    "id": "1370",
+    "name": "Via Dante Mon. All'alpino",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "2",
+      "3",
+      "5",
+      "6",
+      "AB",
+      "B",
+      "V"
+    ],
+    "mode": "bus",
+    "latitude": 45.886799,
+    "longitude": 11.040419
+  },
+  {
+    "id": "1371",
+    "name": "Via Dante Mon. All'alpino",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "2",
+      "5",
+      "6",
+      "7",
+      "A",
+      "AB",
+      "B",
+      "V"
+    ],
+    "mode": "bus",
+    "latitude": 45.886264,
+    "longitude": 11.040284
+  },
+  {
+    "id": "2992",
+    "name": "Via Del Garda Via Porte Rosse",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "2"
+    ],
+    "mode": "bus",
+    "latitude": 45.872791,
+    "longitude": 11.028362
+  },
+  {
+    "id": "2993",
+    "name": "Via Del Garda Via Porte Rosse",
+    "city": "Rovereto",
+    "lines": [
+      "2"
+    ],
+    "mode": "bus",
+    "latitude": 45.872854,
+    "longitude": 11.0282
+  },
+  {
+    "id": "2915",
+    "name": "Via Dell'artigiano",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "2"
+    ],
+    "mode": "bus",
+    "latitude": 45.864346,
+    "longitude": 11.017916
+  },
+  {
+    "id": "2398",
+    "name": "Via Della Cisterna",
+    "city": "Rovereto",
+    "lines": [
+      "AB",
+      "B"
+    ],
+    "mode": "bus",
+    "latitude": 45.867868,
+    "longitude": 11.034807
+  },
+  {
+    "id": "2759",
+    "name": "Via Delle Laste",
+    "city": "Trento",
+    "lines": [
+      "C"
+    ],
+    "mode": "bus",
+    "latitude": 46.072479,
+    "longitude": 11.129844
+  },
+  {
+    "id": "2542",
+    "name": "Via di Vittorio",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "2"
+    ],
+    "mode": "bus",
+    "latitude": 45.863063,
+    "longitude": 11.02088
+  },
+  {
+    "id": "1376",
+    "name": "Via Driopozzo Bivio Solatrix",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "6",
+      "A"
+    ],
+    "mode": "bus",
+    "latitude": 45.899636,
+    "longitude": 11.044399
+  },
+  {
+    "id": "2310",
+    "name": "Via Driopozzo Bivio Solatrix",
+    "city": "Rovereto",
+    "lines": [
+      "2",
+      "3",
+      "4",
+      "A",
+      "C"
+    ],
+    "mode": "bus",
+    "latitude": 45.898904,
+    "longitude": 11.044437
+  },
+  {
+    "id": "2527",
+    "name": "Via Eremo",
+    "city": "Trento",
+    "lines": [
+      "CM"
+    ],
+    "mode": "bus",
+    "latitude": 46.06784,
+    "longitude": 11.175508
+  },
+  {
+    "id": "2534",
+    "name": "Via Eremo",
+    "city": "Trento",
+    "lines": [
+      "CM"
+    ],
+    "mode": "bus",
+    "latitude": 46.067848,
+    "longitude": 11.175603
+  },
+  {
+    "id": "2311",
+    "name": "Via Fedrigotti Chiesa",
+    "city": "Rovereto",
+    "lines": [
+      "5",
+      "6"
+    ],
+    "mode": "bus",
+    "latitude": 45.884252,
+    "longitude": 11.020443
+  },
+  {
+    "id": "2875",
+    "name": "Via Fornaci \"Dana\"",
+    "city": "Rovereto",
+    "lines": [
+      "1"
+    ],
+    "mode": "bus",
+    "latitude": 45.85458,
+    "longitude": 11.004318
+  },
+  {
+    "id": "2876",
+    "name": "Via Fornaci \"Dana\"",
+    "city": "Rovereto",
+    "lines": [
+      "1"
+    ],
+    "mode": "bus",
+    "latitude": 45.854392,
+    "longitude": 11.004105
+  },
+  {
+    "id": "1504",
+    "name": "Via Fornaci \"Texbond\"",
+    "city": "Rovereto",
+    "lines": [
+      "1"
+    ],
+    "mode": "bus",
+    "latitude": 45.859884,
+    "longitude": 11.005372
+  },
+  {
+    "id": "2874",
+    "name": "Via Fornaci \"Texbond\"",
+    "city": "Rovereto",
+    "lines": [
+      "1"
+    ],
+    "mode": "bus",
+    "latitude": 45.859154,
+    "longitude": 11.00506
+  },
+  {
+    "id": "2937",
+    "name": "Via Fornaci Via Pineta",
+    "city": "Rovereto",
+    "lines": [
+      "1"
+    ],
+    "mode": "bus",
+    "latitude": 45.864929,
+    "longitude": 11.006105
+  },
+  {
+    "id": "2938",
+    "name": "Via Fornaci Via Pineta",
+    "city": "Rovereto",
+    "lines": [
+      "1"
+    ],
+    "mode": "bus",
+    "latitude": 45.864743,
+    "longitude": 11.005587
+  },
+  {
+    "id": "1380",
+    "name": "Via Giovannini",
+    "city": "Rovereto",
+    "lines": [
+      "6",
+      "A"
+    ],
+    "mode": "bus",
+    "latitude": 45.906976,
+    "longitude": 11.043227
+  },
+  {
+    "id": "2318",
+    "name": "Via Lagarina",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "6"
+    ],
+    "mode": "bus",
+    "latitude": 45.910333,
+    "longitude": 11.039896
+  },
+  {
+    "id": "2321",
+    "name": "Via Lagarina",
+    "city": "Rovereto",
+    "lines": [
+      "2",
+      "3",
+      "4"
+    ],
+    "mode": "bus",
+    "latitude": 45.910851,
+    "longitude": 11.03975
+  },
+  {
+    "id": "1685",
+    "name": "Via Macello",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "2",
+      "3",
+      "B"
+    ],
+    "mode": "bus",
+    "latitude": 45.894294,
+    "longitude": 11.032821
+  },
+  {
+    "id": "1381",
+    "name": "Via Magazol Via Cimarosa",
+    "city": "Rovereto",
+    "lines": [
+      "1"
+    ],
+    "mode": "bus",
+    "latitude": 45.89984,
+    "longitude": 11.039956
+  },
+  {
+    "id": "2979",
+    "name": "Via Magazol Via Cimarosa",
+    "city": "Rovereto",
+    "lines": [
+      "A",
+      "AB"
+    ],
+    "mode": "bus",
+    "latitude": 45.899853,
+    "longitude": 11.039703
+  },
+  {
+    "id": "2319",
+    "name": "Via Magazol Viale Trento",
+    "city": "Rovereto",
+    "lines": [
+      "A"
+    ],
+    "mode": "bus",
+    "latitude": 45.89903,
+    "longitude": 11.041963
+  },
+  {
+    "id": "2869",
+    "name": "Via Magazol Viale Trento",
+    "city": "Rovereto",
+    "lines": [
+      "A",
+      "AB"
+    ],
+    "mode": "bus",
+    "latitude": 45.899211,
+    "longitude": 11.041958
+  },
+  {
+    "id": "1383",
+    "name": "Via Manzoni \"Dolomiti En.\"",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "2",
+      "3",
+      "5",
+      "6"
+    ],
+    "mode": "bus",
+    "latitude": 45.893302,
+    "longitude": 11.036155
+  },
+  {
+    "id": "1384",
+    "name": "Via Manzoni \"Dolomiti En.\"",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "3",
+      "6",
+      "AB",
+      "B"
+    ],
+    "mode": "bus",
+    "latitude": 45.893257,
+    "longitude": 11.036473
+  },
+  {
+    "id": "1388",
+    "name": "Via Manzoni Via Paoli",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "3",
+      "6",
+      "A",
+      "AB",
+      "B"
+    ],
+    "mode": "bus",
+    "latitude": 45.892158,
+    "longitude": 11.0394
+  },
+  {
+    "id": "2827",
+    "name": "Via Monte Pipel",
+    "city": "Rovereto",
+    "lines": [
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 45.895169,
+    "longitude": 11.05715
+  },
+  {
+    "id": "1391",
+    "name": "Via Paoli",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 45.891405,
+    "longitude": 11.040044
+  },
+  {
+    "id": "1389",
+    "name": "Via Paoli Piazza 25 Aprile",
+    "city": "Rovereto",
+    "lines": [
+      "A",
+      "AB"
+    ],
+    "mode": "bus",
+    "latitude": 45.893125,
+    "longitude": 11.040071
+  },
+  {
+    "id": "1433",
+    "name": "Via Parteli",
+    "city": "Rovereto",
+    "lines": [
+      "A",
+      "AB"
+    ],
+    "mode": "bus",
+    "latitude": 45.896415,
+    "longitude": 11.037051
+  },
+  {
+    "id": "2984",
+    "name": "Via Parteli",
+    "city": "Rovereto",
+    "lines": [
+      "A",
+      "AB"
+    ],
+    "mode": "bus",
+    "latitude": 45.895739,
+    "longitude": 11.038201
+  },
+  {
+    "id": "1434",
+    "name": "Via Pasqui",
+    "city": "Rovereto",
+    "lines": [
+      "A",
+      "AB"
+    ],
+    "mode": "bus",
+    "latitude": 45.899131,
+    "longitude": 11.037382
+  },
+  {
+    "id": "2983",
+    "name": "Via Pasqui",
+    "city": "Rovereto",
+    "lines": [
+      "A",
+      "AB"
+    ],
+    "mode": "bus",
+    "latitude": 45.899327,
+    "longitude": 11.037319
+  },
+  {
+    "id": "1392",
+    "name": "Via Pasubio Via Unione",
+    "city": "Rovereto",
+    "lines": [
+      "3",
+      "6"
+    ],
+    "mode": "bus",
+    "latitude": 45.887436,
+    "longitude": 11.024869
+  },
+  {
+    "id": "1395",
+    "name": "Via Pasubio Via Unione",
+    "city": "Rovereto",
+    "lines": [
+      "3",
+      "6"
+    ],
+    "mode": "bus",
+    "latitude": 45.887527,
+    "longitude": 11.024528
+  },
+  {
+    "id": "1393",
+    "name": "Via Pasubio Viale Vittoria",
+    "city": "Rovereto",
+    "lines": [
+      "3",
+      "6"
+    ],
+    "mode": "bus",
+    "latitude": 45.887203,
+    "longitude": 11.030676
+  },
+  {
+    "id": "1394",
+    "name": "Via Pasubio Viale Vittoria",
+    "city": "Rovereto",
+    "lines": [
+      "3",
+      "6"
+    ],
+    "mode": "bus",
+    "latitude": 45.887291,
+    "longitude": 11.030752
+  },
+  {
+    "id": "2706",
+    "name": "Via Pedroni",
+    "city": "Rovereto",
+    "lines": [
+      "B"
+    ],
+    "mode": "bus",
+    "latitude": 45.892054,
+    "longitude": 11.032947
+  },
+  {
+    "id": "1400",
+    "name": "Via Pellico Brione",
+    "city": "Rovereto",
+    "lines": [
+      "6",
+      "A"
+    ],
+    "mode": "bus",
+    "latitude": 45.904405,
+    "longitude": 11.042574
+  },
+  {
+    "id": "3001",
+    "name": "Via Perosi",
+    "city": "Rovereto",
+    "lines": [
+      "3",
+      "4"
+    ],
+    "mode": "bus",
+    "latitude": 45.904188,
+    "longitude": 11.044079
+  },
+  {
+    "id": "1399",
+    "name": "Via Puccini Via Donizetti",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "6",
+      "A"
+    ],
+    "mode": "bus",
+    "latitude": 45.90126,
+    "longitude": 11.046191
+  },
+  {
+    "id": "2322",
+    "name": "Via Puccini Via Donizetti",
+    "city": "Rovereto",
+    "lines": [
+      "2",
+      "3",
+      "4",
+      "A"
+    ],
+    "mode": "bus",
+    "latitude": 45.901456,
+    "longitude": 11.046258
+  },
+  {
+    "id": "1398",
+    "name": "Via Puccini Via Perosi",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "6",
+      "A"
+    ],
+    "mode": "bus",
+    "latitude": 45.903744,
+    "longitude": 11.04498
+  },
+  {
+    "id": "2323",
+    "name": "Via Puccini Via Perosi",
+    "city": "Rovereto",
+    "lines": [
+      "2",
+      "3",
+      "A"
+    ],
+    "mode": "bus",
+    "latitude": 45.904419,
+    "longitude": 11.044624
+  },
+  {
+    "id": "2391",
+    "name": "Via Rovigo",
+    "city": "Rovereto",
+    "lines": [
+      "A"
+    ],
+    "mode": "bus",
+    "latitude": 45.880506,
+    "longitude": 11.03807
+  },
+  {
+    "id": "1444",
+    "name": "Via S.Maria",
+    "city": "Rovereto",
+    "lines": [
+      "7",
+      "A"
+    ],
+    "mode": "bus",
+    "latitude": 45.884706,
+    "longitude": 11.04309
+  },
+  {
+    "id": "1401",
+    "name": "Via Saibanti",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "A",
+      "AB",
+      "B",
+      "V"
+    ],
+    "mode": "bus",
+    "latitude": 45.888197,
+    "longitude": 11.036753
+  },
+  {
+    "id": "1402",
+    "name": "Via Saibanti",
+    "city": "Rovereto",
+    "lines": [
+      "5",
+      "7",
+      "A",
+      "B"
+    ],
+    "mode": "bus",
+    "latitude": 45.887981,
+    "longitude": 11.036659
+  },
+  {
+    "id": "2855",
+    "name": "Via Salvetti",
+    "city": "Rovereto",
+    "lines": [
+      "6",
+      "A"
+    ],
+    "mode": "bus",
+    "latitude": 45.905917,
+    "longitude": 11.042877
+  },
+  {
+    "id": "3008",
+    "name": "Via Setaioli",
+    "city": "Rovereto",
+    "lines": [
+      "7",
+      "A"
+    ],
+    "mode": "bus",
+    "latitude": 45.887242,
+    "longitude": 11.041458
+  },
+  {
+    "id": "1405",
+    "name": "Via Tiella",
+    "city": "Rovereto",
+    "lines": [
+      "2",
+      "3",
+      "6",
+      "A"
+    ],
+    "mode": "bus",
+    "latitude": 45.907639,
+    "longitude": 11.043746
+  },
+  {
+    "id": "2966",
+    "name": "Via Tonetti",
+    "city": "Rovereto",
+    "lines": [
+      "A",
+      "AB"
+    ],
+    "mode": "bus",
+    "latitude": 45.90278,
+    "longitude": 11.037626
+  },
+  {
+    "id": "2707",
+    "name": "Via Unione \"Residenza Eos\"",
+    "city": "Rovereto",
+    "lines": [
+      "6",
+      "B"
+    ],
+    "mode": "bus",
+    "latitude": 45.893575,
+    "longitude": 11.027471
+  },
+  {
+    "id": "2899",
+    "name": "Via Unione \"Residenza Eos\"",
+    "city": "Rovereto",
+    "lines": [
+      "3",
+      "5",
+      "6"
+    ],
+    "mode": "bus",
+    "latitude": 45.893596,
+    "longitude": 11.027583
+  },
+  {
+    "id": "1408",
+    "name": "Via Unione Scuole Degasperi",
+    "city": "Rovereto",
+    "lines": [
+      "3",
+      "6"
+    ],
+    "mode": "bus",
+    "latitude": 45.885193,
+    "longitude": 11.023238
+  },
+  {
+    "id": "1409",
+    "name": "Via Unione Scuole Degasperi",
+    "city": "Rovereto",
+    "lines": [
+      "6"
+    ],
+    "mode": "bus",
+    "latitude": 45.885611,
+    "longitude": 11.023154
+  },
+  {
+    "id": "2710",
+    "name": "Via Unione Scuole Filzi",
+    "city": "Rovereto",
+    "lines": [
+      "6",
+      "B"
+    ],
+    "mode": "bus",
+    "latitude": 45.888851,
+    "longitude": 11.024409
+  },
+  {
+    "id": "2768",
+    "name": "Via Unione Scuole Filzi",
+    "city": "Rovereto",
+    "lines": [
+      "3",
+      "5",
+      "6"
+    ],
+    "mode": "bus",
+    "latitude": 45.888922,
+    "longitude": 11.024484
+  },
+  {
+    "id": "2996",
+    "name": "Via Unione Via Zotti",
+    "city": "Rovereto",
+    "lines": [
+      "6",
+      "B"
+    ],
+    "mode": "bus",
+    "latitude": 45.886411,
+    "longitude": 11.023182
+  },
+  {
+    "id": "2474",
+    "name": "Via Vallunga Bivio M. Pipel",
+    "city": "Rovereto",
+    "lines": [
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 45.895183,
+    "longitude": 11.0521
+  },
+  {
+    "id": "2478",
+    "name": "Via Vallunga Bivio M. Pipel",
+    "city": "Rovereto",
+    "lines": [
+      "6",
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 45.895148,
+    "longitude": 11.051957
+  },
+  {
+    "id": "2329",
+    "name": "Via Vicenza Via Asiago",
+    "city": "Rovereto",
+    "lines": [
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 45.885554,
+    "longitude": 11.059487
+  },
+  {
+    "id": "2886",
+    "name": "Via Vicenza Via Asiago",
+    "city": "Rovereto",
+    "lines": [
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 45.885264,
+    "longitude": 11.060081
+  },
+  {
+    "id": "1290",
+    "name": "Via Vicenza Via Cartiera",
+    "city": "Rovereto",
+    "lines": [
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 45.887177,
+    "longitude": 11.05054
+  },
+  {
+    "id": "1291",
+    "name": "Via Vicenza Via Cartiera",
+    "city": "Rovereto",
+    "lines": [
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 45.887171,
+    "longitude": 11.050971
+  },
+  {
+    "id": "2816",
+    "name": "Via Zandonai",
+    "city": "Rovereto",
+    "lines": [
+      "3",
+      "5"
+    ],
+    "mode": "bus",
+    "latitude": 45.886686,
+    "longitude": 11.020064
+  },
+  {
+    "id": "1410",
+    "name": "Via Zeni \"Meccatronica\"",
+    "city": "Rovereto",
+    "lines": [
+      "6"
+    ],
+    "mode": "bus",
+    "latitude": 45.890456,
+    "longitude": 11.032678
+  },
+  {
+    "id": "1411",
+    "name": "Via Zeni \"Meccatronica\"",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "2",
+      "6",
+      "AB"
+    ],
+    "mode": "bus",
+    "latitude": 45.89097,
+    "longitude": 11.03262
+  },
+  {
+    "id": "2775",
+    "name": "Via Zigherane",
+    "city": "Rovereto",
+    "lines": [
+      "6"
+    ],
+    "mode": "bus",
+    "latitude": 45.879419,
+    "longitude": 11.023347
+  },
+  {
+    "id": "2776",
+    "name": "Via Zigherane",
+    "city": "Rovereto",
+    "lines": [
+      "6"
+    ],
+    "mode": "bus",
+    "latitude": 45.879872,
+    "longitude": 11.022909
+  },
+  {
+    "id": "1447",
+    "name": "Via Zotti",
+    "city": "Rovereto",
+    "lines": [
+      "5",
+      "6"
+    ],
+    "mode": "bus",
+    "latitude": 45.886244,
+    "longitude": 11.020845
+  },
+  {
+    "id": "1446",
+    "name": "Via Zotti Via Cevedale",
+    "city": "Rovereto",
+    "lines": [
+      "5",
+      "6",
+      "B"
+    ],
+    "mode": "bus",
+    "latitude": 45.885735,
+    "longitude": 11.025638
+  },
+  {
+    "id": "2330",
+    "name": "Viale Caproni \"Chizzola\"",
+    "city": "Rovereto",
+    "lines": [
+      "1"
+    ],
+    "mode": "bus",
+    "latitude": 45.868392,
+    "longitude": 11.022253
+  },
+  {
+    "id": "2902",
+    "name": "Viale Caproni \"Chizzola\"",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "2"
+    ],
+    "mode": "bus",
+    "latitude": 45.868327,
+    "longitude": 11.021973
+  },
+  {
+    "id": "2540",
+    "name": "Viale Caproni \"Luxottica\"",
+    "city": "Rovereto",
+    "lines": [
+      "1"
+    ],
+    "mode": "bus",
+    "latitude": 45.864872,
+    "longitude": 11.017777
+  },
+  {
+    "id": "1437",
+    "name": "Viale Caproni \"Sony\"",
+    "city": "Rovereto",
+    "lines": [
+      "1"
+    ],
+    "mode": "bus",
+    "latitude": 45.865416,
+    "longitude": 11.01079
+  },
+  {
+    "id": "1335",
+    "name": "Viale Dei Colli \"Distributore\"",
+    "city": "Rovereto",
+    "lines": [
+      "6",
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 45.88741,
+    "longitude": 11.059524
+  },
+  {
+    "id": "1337",
+    "name": "Viale Dei Colli \"Distributore\"",
+    "city": "Rovereto",
+    "lines": [
+      "6"
+    ],
+    "mode": "bus",
+    "latitude": 45.887476,
+    "longitude": 11.059522
+  },
+  {
+    "id": "2922",
+    "name": "Viale Dei Colli Bertolda",
+    "city": "Rovereto",
+    "lines": [
+      "6",
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 45.888472,
+    "longitude": 11.051778
+  },
+  {
+    "id": "3011",
+    "name": "Viale Dei Colli Campolongo",
+    "city": "Rovereto",
+    "lines": [
+      "6",
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 45.887912,
+    "longitude": 11.057153
+  },
+  {
+    "id": "3012",
+    "name": "Viale Dei Colli Campolongo",
+    "city": "Rovereto",
+    "lines": [
+      "6"
+    ],
+    "mode": "bus",
+    "latitude": 45.887952,
+    "longitude": 11.057521
+  },
+  {
+    "id": "1374",
+    "name": "Viale Dei Colli S.Biagio",
+    "city": "Rovereto",
+    "lines": [
+      "6",
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 45.890117,
+    "longitude": 11.050075
+  },
+  {
+    "id": "1375",
+    "name": "Viale Dei Colli S.Biagio",
+    "city": "Rovereto",
+    "lines": [
+      "6"
+    ],
+    "mode": "bus",
+    "latitude": 45.890249,
+    "longitude": 11.050137
+  },
+  {
+    "id": "1372",
+    "name": "Viale Dei Colli Sc. Alberghiera",
+    "city": "Rovereto",
+    "lines": [
+      "6",
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 45.891061,
+    "longitude": 11.047352
+  },
+  {
+    "id": "1373",
+    "name": "Viale Dei Colli Sc. Alberghiera",
+    "city": "Rovereto",
+    "lines": [
+      "6",
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 45.890999,
+    "longitude": 11.047589
+  },
+  {
+    "id": "2481",
+    "name": "Viale Dei Colli Via Vallunga",
+    "city": "Rovereto",
+    "lines": [
+      "6",
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 45.891102,
+    "longitude": 11.049809
+  },
+  {
+    "id": "2482",
+    "name": "Viale Dei Colli Via Vallunga",
+    "city": "Rovereto",
+    "lines": [
+      "6"
+    ],
+    "mode": "bus",
+    "latitude": 45.891319,
+    "longitude": 11.049805
+  },
+  {
+    "id": "1442",
+    "name": "Viale Del Lavoro \"Aticarta\"",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "2"
+    ],
+    "mode": "bus",
+    "latitude": 45.866651,
+    "longitude": 11.02347
+  },
+  {
+    "id": "2331",
+    "name": "Viale Del Lavoro \"Aticarta\"",
+    "city": "Rovereto",
+    "lines": [
+      "1"
+    ],
+    "mode": "bus",
+    "latitude": 45.86612,
+    "longitude": 11.024025
+  },
+  {
+    "id": "1443",
+    "name": "Viale Del Lavoro \"Rovercenter\"",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "2"
+    ],
+    "mode": "bus",
+    "latitude": 45.863651,
+    "longitude": 11.027037
+  },
+  {
+    "id": "2982",
+    "name": "Viale Del Lavoro \"Rovercenter\"",
+    "city": "Rovereto",
+    "lines": [
+      "1"
+    ],
+    "mode": "bus",
+    "latitude": 45.863793,
+    "longitude": 11.026965
+  },
+  {
+    "id": "1440",
+    "name": "Viale Dell'industria",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "2"
+    ],
+    "mode": "bus",
+    "latitude": 45.871673,
+    "longitude": 11.020696
+  },
+  {
+    "id": "2332",
+    "name": "Viale Dell'industria",
+    "city": "Rovereto",
+    "lines": [
+      "1"
+    ],
+    "mode": "bus",
+    "latitude": 45.871421,
+    "longitude": 11.020859
+  },
+  {
+    "id": "2863",
+    "name": "Viale Schio",
+    "city": "Rovereto",
+    "lines": [
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 45.883663,
+    "longitude": 11.043848
+  },
+  {
+    "id": "2864",
+    "name": "Viale Schio",
+    "city": "Rovereto",
+    "lines": [
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 45.883793,
+    "longitude": 11.043948
+  },
+  {
+    "id": "2898",
+    "name": "Viale Schio S.Maria",
+    "city": "Rovereto",
+    "lines": [
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 45.884669,
+    "longitude": 11.043457
+  },
+  {
+    "id": "1414",
+    "name": "Viale Trento Via Brione",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "2",
+      "3",
+      "6",
+      "V"
+    ],
+    "mode": "bus",
+    "latitude": 45.901664,
+    "longitude": 11.041509
+  },
+  {
+    "id": "1415",
+    "name": "Viale Trento Via Brione",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "6",
+      "V"
+    ],
+    "mode": "bus",
+    "latitude": 45.901469,
+    "longitude": 11.041672
+  },
+  {
+    "id": "1412",
+    "name": "Viale Trento Via Magazol",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "2",
+      "3",
+      "6",
+      "V"
+    ],
+    "mode": "bus",
+    "latitude": 45.899565,
+    "longitude": 11.042103
+  },
+  {
+    "id": "1413",
+    "name": "Viale Trento Via Magazol",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "6",
+      "V"
+    ],
+    "mode": "bus",
+    "latitude": 45.899753,
+    "longitude": 11.04217
+  },
+  {
+    "id": "1416",
+    "name": "Viale Trento Via Salvetti",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "6",
+      "V"
+    ],
+    "mode": "bus",
+    "latitude": 45.906562,
+    "longitude": 11.040032
+  },
+  {
+    "id": "1417",
+    "name": "Viale Trento Via Salvetti",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "6",
+      "V"
+    ],
+    "mode": "bus",
+    "latitude": 45.906461,
+    "longitude": 11.040139
+  },
+  {
+    "id": "1419",
+    "name": "Viale Vittoria Fucine",
+    "city": "Rovereto",
+    "lines": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "mode": "bus",
+    "latitude": 45.886322,
+    "longitude": 11.028863
+  },
+  {
+    "id": "1421",
+    "name": "Viale Vittoria Fucine",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "B"
+    ],
+    "mode": "bus",
+    "latitude": 45.886323,
+    "longitude": 11.029127
+  },
+  {
+    "id": "2758",
+    "name": "Viale Vittoria Scuole Degasperi",
+    "city": "Rovereto",
+    "lines": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "mode": "bus",
+    "latitude": 45.884953,
+    "longitude": 11.023994
+  },
+  {
+    "id": "2832",
+    "name": "Viale Vittoria Scuole Degasperi",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "mode": "bus",
+    "latitude": 45.88489,
+    "longitude": 11.024081
+  },
+  {
+    "id": "1418",
+    "name": "Viale Vittoria Via Zotti",
+    "city": "Rovereto",
+    "lines": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "mode": "bus",
+    "latitude": 45.88536,
+    "longitude": 11.025501
+  },
+  {
+    "id": "1420",
+    "name": "Viale Vittoria Via Zotti",
+    "city": "Rovereto",
+    "lines": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "mode": "bus",
+    "latitude": 45.885258,
+    "longitude": 11.025452
+  },
+  {
+    "id": "2865",
+    "name": "Viale Zugna 13",
+    "city": "Rovereto",
+    "lines": [
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 45.884202,
+    "longitude": 11.046711
+  },
+  {
+    "id": "2866",
+    "name": "Viale Zugna 13",
+    "city": "Rovereto",
+    "lines": [
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 45.884292,
+    "longitude": 11.046929
+  },
+  {
+    "id": "2867",
+    "name": "Viale Zugna 48",
+    "city": "Rovereto",
+    "lines": [
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 45.884115,
+    "longitude": 11.049105
+  },
+  {
+    "id": "2868",
+    "name": "Viale Zugna 48",
+    "city": "Rovereto",
+    "lines": [
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 45.884311,
+    "longitude": 11.049407
+  },
+  {
+    "id": "3138",
+    "name": "Viale Zugna Via Della Pinera",
+    "city": "Rovereto",
+    "lines": [
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 45.882875,
+    "longitude": 11.04816
+  },
+  {
+    "id": "3139",
+    "name": "Viale Zugna Via Della Pinera",
+    "city": "Rovereto",
+    "lines": [
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 45.883027,
+    "longitude": 11.049077
+  },
+  {
+    "id": "454",
+    "name": "Vicenza Montello",
+    "city": "Trento",
+    "lines": [
+      "6"
+    ],
+    "mode": "bus",
+    "latitude": 46.061688,
+    "longitude": 11.135919
+  },
+  {
+    "id": "455",
+    "name": "Vicenza Montello",
+    "city": "Trento",
+    "lines": [
+      "1",
+      "6"
+    ],
+    "mode": "bus",
+    "latitude": 46.061756,
+    "longitude": 11.135814
+  },
+  {
+    "id": "2767",
+    "name": "Vigo Meano \"S.Pietro\"",
+    "city": "Trento",
+    "lines": [
+      "3"
+    ],
+    "mode": "bus",
+    "latitude": 46.128254,
+    "longitude": 11.134672
+  },
+  {
+    "id": "39",
+    "name": "Vigo Meano Alle Gorghe",
+    "city": "Trento",
+    "lines": [
+      "3"
+    ],
+    "mode": "bus",
+    "latitude": 46.129695,
+    "longitude": 11.134602
+  },
+  {
+    "id": "40",
+    "name": "Vigo Meano Alle Gorghe",
+    "city": "Trento",
+    "lines": [
+      "3"
+    ],
+    "mode": "bus",
+    "latitude": 46.129572,
+    "longitude": 11.134665
+  },
+  {
+    "id": "2502",
+    "name": "Vigo Meano Don Perugini",
+    "city": "Trento",
+    "lines": [
+      "3"
+    ],
+    "mode": "bus",
+    "latitude": 46.132978,
+    "longitude": 11.133928
+  },
+  {
+    "id": "2970",
+    "name": "Vigo Meano Don Perugini",
+    "city": "Trento",
+    "lines": [
+      "3"
+    ],
+    "mode": "bus",
+    "latitude": 46.133146,
+    "longitude": 11.133777
+  },
+  {
+    "id": "469",
+    "name": "Vigo Meano Piazza Stainer",
+    "city": "Trento",
+    "lines": [
+      "3"
+    ],
+    "mode": "bus",
+    "latitude": 46.131433,
+    "longitude": 11.134609
+  },
+  {
+    "id": "470",
+    "name": "Vigo Meano Piazza Stainer",
+    "city": "Trento",
+    "lines": [
+      "3"
+    ],
+    "mode": "bus",
+    "latitude": 46.131968,
+    "longitude": 11.134013
+  },
+  {
+    "id": "467",
+    "name": "Vigo Meano Rio Papa",
+    "city": "Trento",
+    "lines": [
+      "3"
+    ],
+    "mode": "bus",
+    "latitude": 46.133407,
+    "longitude": 11.132546
+  },
+  {
+    "id": "468",
+    "name": "Vigo Meano Rio Papa",
+    "city": "Trento",
+    "lines": [
+      "3"
+    ],
+    "mode": "bus",
+    "latitude": 46.133614,
+    "longitude": 11.13241
+  },
+  {
+    "id": "478",
+    "name": "Villamontagna \"Michei\"",
+    "city": "Trento",
+    "lines": [
+      "9",
+      "10"
+    ],
+    "mode": "bus",
+    "latitude": 46.084235,
+    "longitude": 11.16288
+  },
+  {
+    "id": "479",
+    "name": "Villamontagna \"Michei\"",
+    "city": "Trento",
+    "lines": [
+      "9",
+      "10"
+    ],
+    "mode": "bus",
+    "latitude": 46.08452,
+    "longitude": 11.163106
+  },
+  {
+    "id": "477",
+    "name": "Villamontagna P.Predaroi",
+    "city": "Trento",
+    "lines": [
+      "9",
+      "10"
+    ],
+    "mode": "bus",
+    "latitude": 46.086121,
+    "longitude": 11.160453
+  },
+  {
+    "id": "481",
+    "name": "Villazzano \"Chiesa\"",
+    "city": "Trento",
+    "lines": [
+      "6",
+      "13"
+    ],
+    "mode": "bus",
+    "latitude": 46.049358,
+    "longitude": 11.143947
+  },
+  {
+    "id": "2499",
+    "name": "Villazzano \"Chiesa\"",
+    "city": "Trento",
+    "lines": [
+      "1",
+      "6",
+      "13"
+    ],
+    "mode": "bus",
+    "latitude": 46.049327,
+    "longitude": 11.14384
+  },
+  {
+    "id": "2689",
+    "name": "Villazzano \"Stazione Fs\"",
+    "city": "Trento",
+    "lines": [
+      "6"
+    ],
+    "mode": "bus",
+    "latitude": 46.044632,
+    "longitude": 11.139478
+  },
+  {
+    "id": "324",
+    "name": "Villazzano \"Villa De Mersi\"",
+    "city": "Trento",
+    "lines": [
+      "6",
+      "13"
+    ],
+    "mode": "bus",
+    "latitude": 46.048201,
+    "longitude": 11.143371
+  },
+  {
+    "id": "475",
+    "name": "Villazzano \"Villa Tambosi\"",
+    "city": "Trento",
+    "lines": [
+      "6",
+      "13"
+    ],
+    "mode": "bus",
+    "latitude": 46.043932,
+    "longitude": 11.140651
+  },
+  {
+    "id": "476",
+    "name": "Villazzano \"Villa Tambosi\"",
+    "city": "Trento",
+    "lines": [
+      "1",
+      "6",
+      "13"
+    ],
+    "mode": "bus",
+    "latitude": 46.043827,
+    "longitude": 11.140139
+  },
+  {
+    "id": "486",
+    "name": "Villazzano Banala",
+    "city": "Trento",
+    "lines": [
+      "1",
+      "6",
+      "13"
+    ],
+    "mode": "bus",
+    "latitude": 46.047437,
+    "longitude": 11.142286
+  },
+  {
+    "id": "378",
+    "name": "Villazzano Giordano",
+    "city": "Trento",
+    "lines": [
+      "6"
+    ],
+    "mode": "bus",
+    "latitude": 46.050762,
+    "longitude": 11.148486
+  },
+  {
+    "id": "379",
+    "name": "Villazzano Giordano",
+    "city": "Trento",
+    "lines": [
+      "1",
+      "6"
+    ],
+    "mode": "bus",
+    "latitude": 46.050756,
+    "longitude": 11.148399
+  },
+  {
+    "id": "376",
+    "name": "Villazzano Marzola",
+    "city": "Trento",
+    "lines": [
+      "6"
+    ],
+    "mode": "bus",
+    "latitude": 46.046735,
+    "longitude": 11.148768
+  },
+  {
+    "id": "377",
+    "name": "Villazzano Marzola",
+    "city": "Trento",
+    "lines": [
+      "1",
+      "6"
+    ],
+    "mode": "bus",
+    "latitude": 46.046644,
+    "longitude": 11.14899
+  },
+  {
+    "id": "484",
+    "name": "Villazzano Piazza Nicolini",
+    "city": "Trento",
+    "lines": [
+      "6"
+    ],
+    "mode": "bus",
+    "latitude": 46.048996,
+    "longitude": 11.14602
+  },
+  {
+    "id": "485",
+    "name": "Villazzano Piazza Nicolini",
+    "city": "Trento",
+    "lines": [
+      "1",
+      "6"
+    ],
+    "mode": "bus",
+    "latitude": 46.049107,
+    "longitude": 11.146087
+  },
+  {
+    "id": "159",
+    "name": "Villazzano Valnigra",
+    "city": "Trento",
+    "lines": [
+      "6",
+      "13"
+    ],
+    "mode": "bus",
+    "latitude": 46.052083,
+    "longitude": 11.146588
+  },
+  {
+    "id": "160",
+    "name": "Villazzano Valnigra",
+    "city": "Trento",
+    "lines": [
+      "1",
+      "6",
+      "13"
+    ],
+    "mode": "bus",
+    "latitude": 46.052091,
+    "longitude": 11.146369
+  },
+  {
+    "id": "473",
+    "name": "Villazzano Villa Belfonte",
+    "city": "Trento",
+    "lines": [
+      "6"
+    ],
+    "mode": "bus",
+    "latitude": 46.043566,
+    "longitude": 11.149677
+  },
+  {
+    "id": "474",
+    "name": "Villazzano Villa Belfonte",
+    "city": "Trento",
+    "lines": [
+      "1",
+      "6"
+    ],
+    "mode": "bus",
+    "latitude": 46.043555,
+    "longitude": 11.149783
+  },
+  {
+    "id": "446",
+    "name": "Vittorio Veneto \"S.Giuseppe\"",
+    "city": "Trento",
+    "lines": [
+      "2",
+      "4",
+      "8",
+      "13"
+    ],
+    "mode": "bus",
+    "latitude": 46.057759,
+    "longitude": 11.119314
+  },
+  {
+    "id": "447",
+    "name": "Vittorio Veneto Lorenzoni",
+    "city": "Trento",
+    "lines": [
+      "2",
+      "4",
+      "8",
+      "13"
+    ],
+    "mode": "bus",
+    "latitude": 46.058637,
+    "longitude": 11.123793
+  },
+  {
+    "id": "2342",
+    "name": "Zaffoni",
+    "city": "Rovereto",
+    "lines": [
+      "6",
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 45.89131,
+    "longitude": 11.065349
+  },
+  {
+    "id": "2343",
+    "name": "Zaffoni",
+    "city": "Rovereto",
+    "lines": [
+      "6",
+      "7"
+    ],
+    "mode": "bus",
+    "latitude": 45.891331,
+    "longitude": 11.06585
+  },
+  {
+    "id": "456",
+    "name": "Zambra \"Ist. D'arte Vittoria\"",
+    "city": "Trento",
+    "lines": [
+      "3"
+    ],
+    "mode": "bus",
+    "latitude": 46.092327,
+    "longitude": 11.116446
+  },
+  {
+    "id": "2385",
+    "name": "Zambra \"Ist. D'arte Vittoria\"",
+    "city": "Trento",
+    "lines": [
+      "16"
+    ],
+    "mode": "bus",
+    "latitude": 46.09251,
+    "longitude": 11.116229
+  },
+  {
+    "id": "2120",
+    "name": "Zambra \"Top Center\"",
+    "city": "Trento",
+    "lines": [
+      "3"
+    ],
+    "mode": "bus",
+    "latitude": 46.091131,
+    "longitude": 11.117806
+  },
+  {
+    "id": "2384",
+    "name": "Zambra \"Top Center\"",
+    "city": "Trento",
+    "lines": [
+      "16"
+    ],
+    "mode": "bus",
+    "latitude": 46.091021,
+    "longitude": 11.117999
+  },
+  {
+    "id": "490",
+    "name": "Zell Marnighe",
+    "city": "Trento",
+    "lines": [
+      "9",
+      "10",
+      "16"
+    ],
+    "mode": "bus",
+    "latitude": 46.080233,
+    "longitude": 11.138364
+  },
+  {
+    "id": "491",
+    "name": "Zell Marnighe",
+    "city": "Trento",
+    "lines": [
+      "9",
+      "10",
+      "16"
+    ],
+    "mode": "bus",
+    "latitude": 46.080041,
+    "longitude": 11.138755
+  }
+]

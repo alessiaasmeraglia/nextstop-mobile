@@ -127,7 +127,7 @@ export default function StopDetailsScreen() {
                 />
 
                 <Text style={styles.noticeText}>
-                    Demo data — scheduled times are simulated.
+                    Official GTFS stop data. Scheduled departures coming soon.
                 </Text>
             </View>
 
@@ -154,7 +154,7 @@ export default function StopDetailsScreen() {
                     </Text>
 
                     <Text style={styles.emptyDescription}>
-                        There are no demo departures for this stop.
+                        Scheduled departures are not available yet.
                     </Text>
                 </View>
             ) : (

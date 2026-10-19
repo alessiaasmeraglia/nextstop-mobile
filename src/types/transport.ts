@@ -1,4 +1,3 @@
-
 export type TransportMode = "bus" | "train";
 
 export interface Stop {
@@ -7,6 +6,8 @@ export interface Stop {
     city: string;
     lines: string[];
     mode: TransportMode;
+    latitude?: number;
+    longitude?: number;
 }
 
 

@@ -9,8 +9,7 @@ import {
 
 import AsyncStorage from "@react-native-async-storage/async-storage";
 
-const STORAGE_KEY = "@nextstop:favorites";
-
+const STORAGE_KEY = "@nextstop:gtfs:favorites:v1";
 interface FavoritesContextType {
     favorites: string[];
     isFavorite: (id: string) => boolean;

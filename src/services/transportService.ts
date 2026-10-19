@@ -1,11 +1,11 @@
-
-import { departures } from "../data/departures";
-import { stops } from "../data/stops";
+import gtfsStops from "../data/gtfsStops.json";
 
 import type {
     Departure,
     Stop,
 } from "../types/transport";
+
+const stops = gtfsStops as Stop[];
 
 export const transportService = {
     getStops(): Stop[] {
@@ -23,21 +23,17 @@ export const transportService = {
             return stops;
         }
 
-        return stops.filter(
-            (stop) =>
-                stop.name.toLowerCase().includes(normalizedQuery) ||
-                stop.city.toLowerCase().includes(normalizedQuery) ||
-                stop.lines.some((line) =>
-                    line.toLowerCase().includes(normalizedQuery)
-                )
+        return stops.filter((stop) =>
+            stop.name.toLowerCase().includes(normalizedQuery) ||
+            stop.city.toLowerCase().includes(normalizedQuery) ||
+            stop.lines.some((line) =>
+                line.toLowerCase().includes(normalizedQuery)
+            )
         );
     },
 
-    getDeparturesByStopId(stopId: string): Departure[] {
-        return departures
-            .filter((departure) => departure.stopId === stopId)
-            .sort((a, b) =>
-                a.scheduledTime.localeCompare(b.scheduledTime)
-            );
+    // Scheduled GTFS departures will be integrated next.
+    getDeparturesByStopId(_stopId: string): Departure[] {
+        return [];
     },
 };
