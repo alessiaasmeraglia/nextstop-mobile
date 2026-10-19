@@ -32,7 +32,8 @@
   "devDependencies": {
     "@types/react": "~19.2.2",
     "csv-parse": "^7.0.3",
-    "typescript": "~6.0.3"
+    "typescript": "~6.0.3",
+    "vitest": "^5.0.5"
   },
   "scripts": {
     "start": "expo start",
@@ -40,7 +41,9 @@
     "ios": "expo start --ios",
     "web": "expo start --web",
     "lint": "expo lint",
-    "import:gtfs": "node scripts/import-gtfs.mjs"
+    "import:gtfs": "node scripts/import-gtfs.mjs",
+    "import:departures": "node scripts/import-gtfs-departures.mjs",
+    "test": "vitest run"
   },
   "private": true
 }

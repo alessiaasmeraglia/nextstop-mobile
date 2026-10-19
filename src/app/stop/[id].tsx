@@ -1,4 +1,4 @@
-
+import { useCallback, useState } from "react";
 import {
     Pressable,
     ScrollView,
@@ -8,7 +8,11 @@ import {
 } from "react-native";
 
 import Ionicons from "@expo/vector-icons/Ionicons";
-import { Stack, useLocalSearchParams } from "expo-router";
+import {
+    Stack,
+    useFocusEffect,
+    useLocalSearchParams
+} from "expo-router";
 
 import DepartureCard from "../../components/DepartureCard";
 import {
@@ -18,9 +22,74 @@ import {
     typography,
 } from "../../constants/theme";
 import { useFavorites } from "../../context/FavoritesContext";
+import { getTodayInTrento, scheduleService } from "../../services/scheduleService";
 import { transportService } from "../../services/transportService";
 
+
+function getTomorrow(date: string): string {
+    const nextDate = new Date(`${date}T00:00:00Z`);
+
+    nextDate.setUTCDate(nextDate.getUTCDate() + 1);
+
+    return nextDate.toISOString().slice(0, 10);
+}
+
+
+function getMinutesUntilDeparture(
+    scheduledTime: string,
+    now: number
+): number {
+    const formatter = new Intl.DateTimeFormat("en-GB", {
+        timeZone: "Europe/Rome",
+        hour: "2-digit",
+        minute: "2-digit",
+        hourCycle: "h23",
+    });
+
+    const parts = formatter.formatToParts(new Date(now));
+
+    const hours = Number(
+        parts.find((part) => part.type === "hour")?.value
+    );
+
+    const minutes = Number(
+        parts.find((part) => part.type === "minute")?.value
+    );
+
+    const [departureHours, departureMinutes] =
+        scheduledTime.split(":").map(Number);
+
+    const currentMinutes = hours * 60 + minutes;
+
+    const scheduledMinutes =
+        departureHours * 60 + departureMinutes;
+
+    return scheduledMinutes - currentMinutes;
+}
+
+
 export default function StopDetailsScreen() {
+    const [selectedDay, setSelectedDay] = useState<
+        "today" | "tomorrow"
+    >("today");
+
+
+    const [currentTime, setCurrentTime] = useState(
+        () => Date.now()
+    );
+
+    useFocusEffect(
+        useCallback(() => {
+            setCurrentTime(Date.now());
+
+            const interval = setInterval(() => {
+                setCurrentTime(Date.now());
+            }, 30_000);
+
+            return () => clearInterval(interval);
+        }, [])
+    );
+
     const { id } = useLocalSearchParams<{ id: string }>();
 
     const {
@@ -49,8 +118,23 @@ export default function StopDetailsScreen() {
         );
     }
 
+    const today = getTodayInTrento();
+
+    const selectedDate =
+        selectedDay === "today"
+            ? today
+            : getTomorrow(today);
+
     const stopDepartures =
-        transportService.getDeparturesByStopId(stop.id);
+        selectedDay === "today"
+            ? scheduleService.getUpcomingDepartures(
+                stop.id,
+                10,
+                currentTime
+            )
+            : scheduleService
+                .getScheduledDepartures(stop.id, selectedDate)
+                .slice(0, 10);
 
     const saved = isFavorite(stop.id);
 
@@ -127,19 +211,69 @@ export default function StopDetailsScreen() {
                 />
 
                 <Text style={styles.noticeText}>
-                    Official GTFS stop data. Scheduled departures coming soon.
+                    Official GTFS timetable. Times are scheduled,
+                    not real-time predictions.
                 </Text>
             </View>
 
             <View style={styles.sectionHeader}>
                 <Text style={styles.sectionTitle}>
-                    Departures
+                    Scheduled departures
                 </Text>
 
                 <Text style={styles.sectionLabel}>
                     Scheduled
                 </Text>
             </View>
+
+
+            <View style={styles.daySelector}>
+                <Pressable
+                    onPress={() => setSelectedDay("today")}
+                    style={[
+                        styles.dayButton,
+                        selectedDay === "today" && styles.dayButtonActive,
+                    ]}
+                    accessibilityRole="button"
+                    accessibilityState={{
+                        selected: selectedDay === "today",
+                    }}
+                >
+                    <Text
+                        style={[
+                            styles.dayButtonText,
+                            selectedDay === "today" &&
+                            styles.dayButtonTextActive,
+                        ]}
+                    >
+                        Today
+                    </Text>
+                </Pressable>
+
+                <Pressable
+                    onPress={() => setSelectedDay("tomorrow")}
+                    style={[
+                        styles.dayButton,
+                        selectedDay === "tomorrow" &&
+                        styles.dayButtonActive,
+                    ]}
+                    accessibilityRole="button"
+                    accessibilityState={{
+                        selected: selectedDay === "tomorrow",
+                    }}
+                >
+                    <Text
+                        style={[
+                            styles.dayButtonText,
+                            selectedDay === "tomorrow" &&
+                            styles.dayButtonTextActive,
+                        ]}
+                    >
+                        Tomorrow
+                    </Text>
+                </Pressable>
+            </View>
+
 
             {stopDepartures.length === 0 ? (
                 <View style={styles.empty}>
@@ -150,20 +284,55 @@ export default function StopDetailsScreen() {
                     />
 
                     <Text style={styles.emptyTitle}>
-                        No departures available
+                        {selectedDay === "today"
+                            ? "No more departures today"
+                            : "No departures scheduled"}
                     </Text>
 
                     <Text style={styles.emptyDescription}>
-                        Scheduled departures are not available yet.
+                        {selectedDay === "today"
+                            ? "There are no more scheduled departures for today. Check tomorrow's timetable."
+                            : "No scheduled departures were found for tomorrow."}
                     </Text>
                 </View>
             ) : (
-                stopDepartures.map((departure) => (
-                    <DepartureCard
-                        key={departure.id}
-                        departure={departure}
-                    />
-                ))
+
+                stopDepartures.map((departure) => {
+                    const minutesUntil =
+                        selectedDay === "today"
+                            ? getMinutesUntilDeparture(
+                                departure.scheduledTime,
+                                currentTime
+                            )
+                            : null;
+
+                    return (
+                        <View
+                            key={departure.id}
+                            style={styles.departureWrapper}
+                        >
+                            <DepartureCard departure={departure} />
+
+                            {minutesUntil !== null &&
+                                minutesUntil >= 0 && (
+                                    <View style={styles.countdown}>
+                                        <Ionicons
+                                            name="time-outline"
+                                            size={14}
+                                            color={colors.primary}
+                                        />
+
+                                        <Text style={styles.countdownText}>
+                                            {minutesUntil === 0
+                                                ? "Scheduled now"
+                                                : `In ${minutesUntil} min`}
+                                        </Text>
+                                    </View>
+                                )}
+                        </View>
+                    );
+                })
+
             )}
         </ScrollView>
     );
@@ -252,6 +421,36 @@ const styles = StyleSheet.create({
         fontSize: typography.small,
         color: colors.textSecondary,
     },
+
+    daySelector: {
+        flexDirection: "row",
+        gap: spacing.sm,
+        marginBottom: spacing.lg,
+    },
+
+    dayButton: {
+        flex: 1,
+        paddingVertical: spacing.md,
+        alignItems: "center",
+        justifyContent: "center",
+        borderRadius: radius.md,
+        backgroundColor: colors.surface,
+    },
+
+    dayButtonActive: {
+        backgroundColor: colors.primary,
+    },
+
+    dayButtonText: {
+        fontSize: typography.body,
+        fontWeight: "600",
+        color: colors.textSecondary,
+    },
+
+    dayButtonTextActive: {
+        color: "#FFFFFF",
+    },
+
     empty: {
         alignItems: "center",
         padding: spacing.xl,
@@ -270,4 +469,27 @@ const styles = StyleSheet.create({
         textAlign: "center",
         lineHeight: 22,
     },
+
+    departureWrapper: {
+        marginBottom: spacing.sm,
+    },
+
+    countdown: {
+        flexDirection: "row",
+        alignItems: "center",
+        alignSelf: "flex-end",
+        gap: spacing.xs,
+        paddingHorizontal: spacing.md,
+        paddingVertical: spacing.sm,
+        backgroundColor: colors.primaryLight,
+        borderRadius: radius.md,
+        marginTop: spacing.xs,
+    },
+
+    countdownText: {
+        fontSize: typography.small,
+        fontWeight: "600",
+        color: colors.primary,
+    },
+
 });

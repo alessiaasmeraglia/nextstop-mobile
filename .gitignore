@@ -30,6 +30,9 @@ yarn-error.*
 .DS_Store
 *.pem
 
+# Raw GTFS datasets
+/data/gtfs/
+
 # local env files
 .env*.local
 .env
@@ -42,6 +45,3 @@ example
 # generated native folders
 /ios
 /android
-
-# Raw GTFS datasets
-/data/gtfs/

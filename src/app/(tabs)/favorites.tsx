@@ -1,4 +1,3 @@
-
 import {
     ActivityIndicator,
     FlatList,
@@ -12,14 +11,14 @@ import { router } from "expo-router";
 
 import StopCard from "../../components/StopCard";
 import { useFavorites } from "../../context/FavoritesContext";
-import { stops } from "../../data/stops";
+import { transportService } from "../../services/transportService";
 
 export default function FavoritesScreen() {
     const { favorites, isLoading } = useFavorites();
 
-    const favoriteStops = stops.filter((stop) =>
-        favorites.includes(stop.id)
-    );
+    const favoriteStops = transportService
+        .getStops()
+        .filter((stop) => favorites.includes(stop.id));
 
     if (isLoading) {
         return (
