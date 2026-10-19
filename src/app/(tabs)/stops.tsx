@@ -1,8 +1,10 @@
+
 import Ionicons from "@expo/vector-icons/Ionicons";
 import { router } from "expo-router";
 import { useMemo, useState } from "react";
 import {
     FlatList,
+    Pressable,
     StyleSheet,
     Text,
     TextInput,
@@ -10,22 +12,22 @@ import {
 } from "react-native";
 
 import StopCard from "../../components/StopCard";
-import { stops } from "../../data/stops";
+import { colors, radius, spacing, typography } from "../../constants/theme";
+import { transportService } from "../../services/transportService";
+
+type CityFilter = "All" | "Trento" | "Rovereto";
+
+const cityFilters: CityFilter[] = ["All", "Trento", "Rovereto"];
 
 export default function StopsScreen() {
     const [search, setSearch] = useState("");
+    const [city, setCity] = useState<CityFilter>("All");
 
     const filteredStops = useMemo(() => {
-        const query = search.trim().toLowerCase();
-
-        return stops.filter((stop) => {
-            return (
-                stop.name.toLowerCase().includes(query) ||
-                stop.city.toLowerCase().includes(query) ||
-                stop.lines.some((line) => line.includes(query))
-            );
-        });
-    }, [search]);
+        return transportService
+            .searchStops(search)
+            .filter((stop) => city === "All" || stop.city === city);
+    }, [search, city]);
 
     return (
         <View style={styles.container}>
@@ -39,18 +41,57 @@ export default function StopsScreen() {
                 <Ionicons
                     name="search-outline"
                     size={22}
-                    color="#737383"
+                    color={colors.primary}
                 />
 
                 <TextInput
                     style={styles.input}
                     placeholder="Search stops or lines..."
-                    placeholderTextColor="#737383"
+                    placeholderTextColor={colors.textSecondary}
                     value={search}
                     onChangeText={setSearch}
                     autoCorrect={false}
                     accessibilityLabel="Search stops or lines"
                 />
+
+                {search.length > 0 && (
+                    <Pressable
+                        onPress={() => setSearch("")}
+                        accessibilityRole="button"
+                        accessibilityLabel="Clear search"
+                        hitSlop={8}
+                    >
+                        <Ionicons
+                            name="close-circle"
+                            size={22}
+                            color={colors.textSecondary}
+                        />
+                    </Pressable>
+                )}
+            </View>
+
+            <View style={styles.filters}>
+                {cityFilters.map((filter) => (
+                    <Pressable
+                        key={filter}
+                        onPress={() => setCity(filter)}
+                        style={[
+                            styles.filterButton,
+                            city === filter && styles.filterButtonActive,
+                        ]}
+                        accessibilityRole="button"
+                        accessibilityState={{ selected: city === filter }}
+                    >
+                        <Text
+                            style={[
+                                styles.filterText,
+                                city === filter && styles.filterTextActive,
+                            ]}
+                        >
+                            {filter}
+                        </Text>
+                    </Pressable>
+                ))}
             </View>
 
             <Text style={styles.results}>
@@ -60,7 +101,8 @@ export default function StopsScreen() {
             <FlatList
                 data={filteredStops}
                 keyExtractor={(item) => item.id}
-
+                keyboardShouldPersistTaps="handled"
+                contentContainerStyle={styles.list}
                 renderItem={({ item }) => (
                     <StopCard
                         stop={item}
@@ -72,24 +114,31 @@ export default function StopsScreen() {
                         }
                     />
                 )}
-
-                contentContainerStyle={styles.list}
-                keyboardShouldPersistTaps="handled"
                 ListEmptyComponent={
                     <View style={styles.empty}>
                         <Ionicons
                             name="search-outline"
-                            size={36}
-                            color="#737383"
+                            size={40}
+                            color={colors.textSecondary}
                         />
-
-                        <Text style={styles.emptyText}>
+                        <Text style={styles.emptyTitle}>
                             No stops found
                         </Text>
-
                         <Text style={styles.emptyDescription}>
-                            Try searching for another stop or line.
+                            Try another search or change your city filter.
                         </Text>
+                        <Pressable
+                            onPress={() => {
+                                setSearch("");
+                                setCity("All");
+                            }}
+                            accessibilityRole="button"
+                            style={styles.resetButton}
+                        >
+                            <Text style={styles.resetText}>
+                                Reset filters
+                            </Text>
+                        </Pressable>
                     </View>
                 }
             />
@@ -100,60 +149,98 @@ export default function StopsScreen() {
 const styles = StyleSheet.create({
     container: {
         flex: 1,
-        backgroundColor: "#F8F9FC",
-        paddingHorizontal: 24,
-        paddingTop: 24,
+        backgroundColor: colors.background,
+        paddingHorizontal: spacing.lg,
+        paddingTop: spacing.lg,
     },
     title: {
-        fontSize: 28,
+        fontSize: typography.title,
         fontWeight: "700",
-        color: "#1E1E2D",
+        color: colors.text,
     },
     subtitle: {
-        fontSize: 16,
-        color: "#737383",
-        marginTop: 8,
-        marginBottom: 24,
+        fontSize: typography.body,
+        color: colors.textSecondary,
+        marginTop: spacing.sm,
+        marginBottom: spacing.lg,
     },
     searchContainer: {
         flexDirection: "row",
         alignItems: "center",
-        backgroundColor: "#FFFFFF",
-        paddingHorizontal: 16,
-        borderRadius: 14,
-        gap: 12,
+        backgroundColor: colors.surface,
+        paddingHorizontal: spacing.md,
+        borderRadius: radius.lg,
+        gap: spacing.sm,
         height: 56,
     },
     input: {
         flex: 1,
-        fontSize: 16,
-        color: "#1E1E2D",
+        fontSize: typography.body,
+        color: colors.text,
+    },
+    filters: {
+        flexDirection: "row",
+        gap: spacing.sm,
+        marginTop: spacing.md,
+    },
+    filterButton: {
+        flex: 1,
+        alignItems: "center",
+        paddingVertical: 12,
+        borderRadius: radius.md,
+        backgroundColor: colors.surface,
+        borderWidth: 1,
+        borderColor: colors.border,
+    },
+    filterButtonActive: {
+        backgroundColor: colors.primary,
+        borderColor: colors.primary,
+    },
+    filterText: {
+        color: colors.textSecondary,
+        fontSize: 13,
+        fontWeight: "600",
+    },
+    filterTextActive: {
+        color: colors.surface,
     },
     results: {
-        fontSize: 14,
-        fontWeight: "500",
-        color: "#737383",
-        marginTop: 24,
-        marginBottom: 16,
+        fontSize: typography.caption,
+        color: colors.textSecondary,
+        marginTop: spacing.lg,
+        marginBottom: spacing.md,
     },
     list: {
-        paddingBottom: 24,
         flexGrow: 1,
+        paddingBottom: spacing.lg,
     },
     empty: {
+        flex: 1,
         alignItems: "center",
-        paddingTop: 64,
+        justifyContent: "center",
+        paddingHorizontal: spacing.lg,
+        gap: spacing.md,
     },
-    emptyText: {
-        fontSize: 18,
-        fontWeight: "600",
-        color: "#1E1E2D",
-        marginTop: 16,
+    emptyTitle: {
+        fontSize: typography.subtitle,
+        fontWeight: "700",
+        color: colors.text,
     },
     emptyDescription: {
-        fontSize: 14,
-        color: "#737383",
-        marginTop: 8,
+        fontSize: typography.caption,
+        color: colors.textSecondary,
         textAlign: "center",
+        lineHeight: 22,
+    },
+    resetButton: {
+        backgroundColor: colors.primaryLight,
+        borderRadius: radius.md,
+        paddingHorizontal: spacing.lg,
+        paddingVertical: 12,
+        marginTop: spacing.sm,
+    },
+    resetText: {
+        color: colors.primary,
+        fontWeight: "700",
     },
 });
