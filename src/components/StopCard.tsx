@@ -11,6 +11,8 @@ import Ionicons from "@expo/vector-icons/Ionicons";
 import { useFavorites } from "../context/FavoritesContext";
 import type { Stop } from "../types/transport";
 
+import { colors, radius, spacing } from "../constants/theme";
+
 interface StopCardProps {
     stop: Stop;
     onPress?: () => void;
@@ -82,48 +84,56 @@ export default function StopCard({
     );
 }
 
+
 const styles = StyleSheet.create({
     card: {
         flexDirection: "row",
         alignItems: "center",
-        backgroundColor: "#FFFFFF",
-        borderRadius: 16,
-        padding: 16,
+        backgroundColor: colors.surface,
+        borderRadius: radius.lg,
+        padding: spacing.md,
         marginBottom: 12,
         gap: 10,
     },
+
     mainContent: {
         flex: 1,
         flexDirection: "row",
         alignItems: "center",
         gap: 14,
     },
+
     iconContainer: {
         width: 48,
         height: 48,
-        borderRadius: 14,
-        backgroundColor: "#F0EBFF",
+        borderRadius: radius.md,
+        backgroundColor: colors.primaryLight,
         alignItems: "center",
         justifyContent: "center",
     },
+
     content: {
         flex: 1,
     },
+
     name: {
         fontSize: 16,
         fontWeight: "600",
-        color: "#1E1E2D",
+        color: colors.text,
     },
+
     city: {
         fontSize: 14,
-        color: "#737383",
-        marginTop: 4,
+        color: colors.textSecondary,
+        marginTop: spacing.xs,
     },
+
     lines: {
         fontSize: 13,
-        color: "#7047EB",
-        marginTop: 8,
+        color: colors.primary,
+        marginTop: spacing.sm,
     },
+
     favoriteButton: {
         width: 44,
         height: 44,
