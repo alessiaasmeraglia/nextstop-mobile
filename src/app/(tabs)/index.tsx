@@ -96,9 +96,8 @@ export default function HomeScreen() {
               ? "Loading favorites..."
               : favorites.length === 0
                 ? "Save a stop to access it quickly"
-                : `${favorites.length} saved ${
-                    favorites.length === 1 ? "stop" : "stops"
-                  }`}
+                : `${favorites.length} saved ${favorites.length === 1 ? "stop" : "stops"
+                }`}
           </Text>
         </View>
 
@@ -157,8 +156,9 @@ export default function HomeScreen() {
         </Pressable>
       </View>
 
-      <Text style={styles.demoNotice}>
-        Currently displaying demo transit information.
+      <Text style={styles.footerText}>
+        Transport data by Trentino Trasporti.
+        Scheduled times only.
       </Text>
     </ScrollView>
   );
@@ -271,7 +271,7 @@ const styles = StyleSheet.create({
     color: colors.textSecondary,
     lineHeight: 20,
   },
-  demoNotice: {
+  footerText: {
     marginTop: spacing.xl,
     color: colors.textSecondary,
     fontSize: typography.small,
