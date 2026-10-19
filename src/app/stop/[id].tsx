@@ -1,40 +1,107 @@
 
+import {
+    Pressable,
+    ScrollView,
+    StyleSheet,
+    Text,
+    View,
+} from "react-native";
+
 import Ionicons from "@expo/vector-icons/Ionicons";
 import { Stack, useLocalSearchParams } from "expo-router";
-import { ScrollView, StyleSheet, Text, View } from "react-native";
 
-import { departures } from "../../data/departures";
-import { stops } from "../../data/stops";
+import DepartureCard from "../../components/DepartureCard";
+import {
+    colors,
+    radius,
+    spacing,
+    typography,
+} from "../../constants/theme";
+import { useFavorites } from "../../context/FavoritesContext";
+import { transportService } from "../../services/transportService";
 
 export default function StopDetailsScreen() {
     const { id } = useLocalSearchParams<{ id: string }>();
 
-    const stop = stops.find((item) => item.id === id);
+    const {
+        isFavorite,
+        toggleFavorite,
+        isLoading,
+    } = useFavorites();
+
+    const stop = transportService.getStopById(id);
 
     if (!stop) {
         return (
             <View style={styles.container}>
                 <Stack.Screen options={{ title: "Stop not found" }} />
-                <Text style={styles.title}>Stop not found</Text>
-                <Text style={styles.subtitle}>
-                    This stop does not exist.
-                </Text>
+
+                <View style={styles.content}>
+                    <Text style={styles.title}>
+                        Stop not found
+                    </Text>
+
+                    <Text style={styles.subtitle}>
+                        The requested stop does not exist.
+                    </Text>
+                </View>
             </View>
         );
     }
 
-    const stopDepartures = departures
-        .filter((item) => item.stopId === stop.id)
-        .sort((a, b) =>
-            a.scheduledTime.localeCompare(b.scheduledTime)
-        );
+    const stopDepartures =
+        transportService.getDeparturesByStopId(stop.id);
+
+    const saved = isFavorite(stop.id);
 
     return (
         <ScrollView
             style={styles.container}
             contentContainerStyle={styles.content}
         >
-            <Stack.Screen options={{ title: "Stop details" }} />
+            <Stack.Screen
+                options={{ title: "Stop details" }}
+            />
+
+            <View style={styles.header}>
+                <View style={styles.stopIcon}>
+                    <Ionicons
+                        name={
+                            stop.mode === "train"
+                                ? "train-outline"
+                                : "bus-outline"
+                        }
+                        size={28}
+                        color={colors.primary}
+                    />
+                </View>
+
+                <Pressable
+                    style={styles.favoriteButton}
+                    onPress={() => toggleFavorite(stop.id)}
+                    disabled={isLoading}
+                    accessibilityRole="button"
+                    accessibilityLabel={
+                        saved
+                            ? "Remove stop from favorites"
+                            : "Add stop to favorites"
+                    }
+                    accessibilityState={{
+                        selected: saved,
+                        disabled: isLoading,
+                    }}
+                >
+                    <Ionicons
+                        name={saved ? "heart" : "heart-outline"}
+                        size={26}
+                        color={
+                            saved
+                                ? colors.primary
+                                : colors.textSecondary
+                        }
+                    />
+                </Pressable>
+            </View>
 
             <Text style={styles.label}>BUS STOP</Text>
 
@@ -44,55 +111,58 @@ export default function StopDetailsScreen() {
                 <Ionicons
                     name="location-outline"
                     size={18}
-                    color="#737383"
+                    color={colors.textSecondary}
                 />
-                <Text style={styles.subtitle}>{stop.city}</Text>
+
+                <Text style={styles.subtitle}>
+                    {stop.city}, Italy
+                </Text>
             </View>
 
             <View style={styles.notice}>
                 <Ionicons
                     name="information-circle-outline"
-                    size={20}
-                    color="#7047EB"
+                    size={22}
+                    color={colors.primary}
                 />
+
                 <Text style={styles.noticeText}>
-                    Demo departures — simulated data
+                    Demo data — scheduled times are simulated.
                 </Text>
             </View>
 
-            <Text style={styles.sectionTitle}>
-                Upcoming departures
-            </Text>
+            <View style={styles.sectionHeader}>
+                <Text style={styles.sectionTitle}>
+                    Departures
+                </Text>
+
+                <Text style={styles.sectionLabel}>
+                    Scheduled
+                </Text>
+            </View>
 
             {stopDepartures.length === 0 ? (
-                <Text style={styles.empty}>
-                    No departures available for this stop.
-                </Text>
+                <View style={styles.empty}>
+                    <Ionicons
+                        name="time-outline"
+                        size={38}
+                        color={colors.textSecondary}
+                    />
+
+                    <Text style={styles.emptyTitle}>
+                        No departures available
+                    </Text>
+
+                    <Text style={styles.emptyDescription}>
+                        There are no demo departures for this stop.
+                    </Text>
+                </View>
             ) : (
                 stopDepartures.map((departure) => (
-                    <View
+                    <DepartureCard
                         key={departure.id}
-                        style={styles.departureCard}
-                    >
-                        <View style={styles.lineBadge}>
-                            <Text style={styles.lineText}>
-                                {departure.line}
-                            </Text>
-                        </View>
-
-                        <View style={styles.departureInfo}>
-                            <Text style={styles.destination}>
-                                {departure.destination}
-                            </Text>
-                            <Text style={styles.timeLabel}>
-                                Scheduled departure
-                            </Text>
-                        </View>
-
-                        <Text style={styles.time}>
-                            {departure.scheduledTime}
-                        </Text>
-                    </View>
+                        departure={departure}
+                    />
                 ))
             )}
         </ScrollView>
@@ -102,97 +172,102 @@ export default function StopDetailsScreen() {
 const styles = StyleSheet.create({
     container: {
         flex: 1,
-        backgroundColor: "#F8F9FC",
+        backgroundColor: colors.background,
     },
     content: {
-        padding: 24,
-        paddingBottom: 40,
+        padding: spacing.lg,
+        paddingBottom: spacing.xxl,
+    },
+    header: {
+        flexDirection: "row",
+        justifyContent: "space-between",
+        alignItems: "center",
+        marginBottom: spacing.lg,
+    },
+    stopIcon: {
+        width: 56,
+        height: 56,
+        borderRadius: radius.lg,
+        backgroundColor: colors.primaryLight,
+        alignItems: "center",
+        justifyContent: "center",
+    },
+    favoriteButton: {
+        width: 48,
+        height: 48,
+        borderRadius: radius.md,
+        backgroundColor: colors.surface,
+        alignItems: "center",
+        justifyContent: "center",
     },
     label: {
-        fontSize: 12,
+        fontSize: typography.small,
         fontWeight: "700",
-        color: "#7047EB",
+        color: colors.primary,
         letterSpacing: 2,
-        marginBottom: 12,
+        marginBottom: spacing.sm,
     },
     title: {
-        fontSize: 30,
+        fontSize: typography.title,
         fontWeight: "700",
-        color: "#1E1E2D",
+        color: colors.text,
     },
     location: {
         flexDirection: "row",
         alignItems: "center",
-        gap: 6,
-        marginTop: 10,
+        gap: spacing.xs,
+        marginTop: spacing.sm,
     },
     subtitle: {
-        fontSize: 15,
-        color: "#737383",
+        fontSize: typography.body,
+        color: colors.textSecondary,
     },
     notice: {
         flexDirection: "row",
         alignItems: "center",
-        backgroundColor: "#F0EBFF",
-        padding: 16,
-        borderRadius: 14,
-        marginTop: 30,
-        gap: 10,
+        backgroundColor: colors.primaryLight,
+        padding: spacing.md,
+        borderRadius: radius.lg,
+        marginTop: spacing.xl,
+        gap: spacing.sm,
     },
     noticeText: {
-        color: "#5940A8",
-        fontSize: 13,
         flex: 1,
+        fontSize: typography.caption,
+        color: colors.primary,
+    },
+    sectionHeader: {
+        flexDirection: "row",
+        justifyContent: "space-between",
+        alignItems: "center",
+        marginTop: spacing.xl,
+        marginBottom: spacing.md,
     },
     sectionTitle: {
-        fontSize: 20,
+        fontSize: typography.subtitle,
         fontWeight: "700",
-        marginTop: 32,
-        marginBottom: 16,
-        color: "#1E1E2D",
+        color: colors.text,
     },
-    departureCard: {
-        flexDirection: "row",
-        alignItems: "center",
-        backgroundColor: "#FFFFFF",
-        padding: 16,
-        borderRadius: 16,
-        marginBottom: 12,
-        gap: 14,
-    },
-    lineBadge: {
-        backgroundColor: "#7047EB",
-        width: 44,
-        height: 44,
-        borderRadius: 12,
-        alignItems: "center",
-        justifyContent: "center",
-    },
-    lineText: {
-        color: "#FFFFFF",
-        fontSize: 16,
-        fontWeight: "700",
-    },
-    departureInfo: {
-        flex: 1,
-    },
-    destination: {
-        fontSize: 16,
-        fontWeight: "600",
-        color: "#1E1E2D",
-    },
-    timeLabel: {
-        fontSize: 12,
-        color: "#737383",
-        marginTop: 5,
-    },
-    time: {
-        fontSize: 16,
-        fontWeight: "700",
-        color: "#7047EB",
+    sectionLabel: {
+        fontSize: typography.small,
+        color: colors.textSecondary,
     },
     empty: {
-        fontSize: 15,
-        color: "#737383",
+        alignItems: "center",
+        padding: spacing.xl,
+        backgroundColor: colors.surface,
+        borderRadius: radius.lg,
+        gap: spacing.md,
+    },
+    emptyTitle: {
+        fontSize: typography.body,
+        fontWeight: "700",
+        color: colors.text,
+    },
+    emptyDescription: {
+        fontSize: typography.caption,
+        color: colors.textSecondary,
+        textAlign: "center",
+        lineHeight: 22,
     },
 });
