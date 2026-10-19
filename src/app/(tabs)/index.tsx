@@ -1,139 +1,280 @@
 
+import {
+  Pressable,
+  ScrollView,
+  StyleSheet,
+  Text,
+  View,
+} from "react-native";
+
 import Ionicons from "@expo/vector-icons/Ionicons";
 import { router } from "expo-router";
-import { Pressable, StyleSheet, Text, View } from "react-native";
+
+import {
+  colors,
+  radius,
+  spacing,
+  typography,
+} from "../../constants/theme";
+
+import { useFavorites } from "../../context/FavoritesContext";
 
 export default function HomeScreen() {
+  const { favorites, isLoading } = useFavorites();
+
   return (
-    <View style={styles.container}>
+    <ScrollView
+      style={styles.container}
+      contentContainerStyle={styles.content}
+    >
       <View style={styles.header}>
-        <Text style={styles.label}>NEXTSTOP MOBILE</Text>
+        <View style={styles.headerText}>
+          <Text style={styles.label}>
+            NEXTSTOP MOBILE
+          </Text>
 
-        <Text style={styles.title}>
-          Where to next?
-        </Text>
+          <Text style={styles.title}>
+            Where to next?
+          </Text>
 
-        <Text style={styles.subtitle}>
-          Find your stop, check departures
-          and move around with ease.
-        </Text>
+          <Text style={styles.subtitle}>
+            Your city, one stop away.
+          </Text>
+        </View>
+
+        <View style={styles.headerIcon}>
+          <Ionicons
+            name="bus-outline"
+            size={28}
+            color={colors.primary}
+          />
+        </View>
       </View>
 
       <Pressable
         style={styles.searchCard}
         onPress={() => router.push("/stops")}
         accessibilityRole="button"
-        accessibilityLabel="Explore bus stops"
+        accessibilityLabel="Search stops or lines"
       >
         <Ionicons
           name="search-outline"
           size={24}
-          color="#7047EB"
+          color={colors.primary}
         />
 
         <Text style={styles.searchText}>
-          Search for a stop...
+          Search stops or lines...
         </Text>
 
         <Ionicons
           name="arrow-forward"
           size={20}
-          color="#7047EB"
+          color={colors.primary}
+        />
+      </Pressable>
+
+      <Pressable
+        style={styles.favoritesCard}
+        onPress={() => router.push("/favorites")}
+        accessibilityRole="button"
+        accessibilityLabel="Open favorite stops"
+      >
+        <Ionicons
+          name="heart"
+          size={25}
+          color={colors.surface}
+        />
+
+        <View style={styles.favoritesContent}>
+          <Text style={styles.favoritesTitle}>
+            Your favorite stops
+          </Text>
+
+          <Text style={styles.favoritesSubtitle}>
+            {isLoading
+              ? "Loading favorites..."
+              : favorites.length === 0
+                ? "Save a stop to access it quickly"
+                : `${favorites.length} saved ${
+                    favorites.length === 1 ? "stop" : "stops"
+                  }`}
+          </Text>
+        </View>
+
+        <Ionicons
+          name="arrow-forward"
+          size={20}
+          color={colors.surface}
         />
       </Pressable>
 
       <Text style={styles.sectionTitle}>
-        Your journey starts here
+        Explore mobility
       </Text>
 
-      <View style={styles.infoCard}>
-        <Ionicons
-          name="bus-outline"
-          size={26}
-          color="#7047EB"
-        />
+      <View style={styles.grid}>
+        <Pressable
+          style={styles.featureCard}
+          onPress={() => router.push("/stops")}
+          accessibilityRole="button"
+          accessibilityLabel="Explore bus stops"
+        >
+          <Ionicons
+            name="bus-outline"
+            size={28}
+            color={colors.primary}
+          />
 
-        <View style={styles.infoContent}>
-          <Text style={styles.infoTitle}>
-            Public transport, simplified.
+          <Text style={styles.featureTitle}>
+            Bus stops
           </Text>
 
-          <Text style={styles.infoText}>
-            Explore routes and stops in one place.
+          <Text style={styles.featureDescription}>
+            Find stops and departures
           </Text>
-        </View>
+        </Pressable>
+
+        <Pressable
+          style={styles.featureCard}
+          onPress={() => router.push("/stops")}
+          accessibilityRole="button"
+          accessibilityLabel="Explore transit lines"
+        >
+          <Ionicons
+            name="git-branch-outline"
+            size={28}
+            color={colors.primary}
+          />
+
+          <Text style={styles.featureTitle}>
+            Routes
+          </Text>
+
+          <Text style={styles.featureDescription}>
+            Search available lines
+          </Text>
+        </Pressable>
       </View>
-    </View>
+
+      <Text style={styles.demoNotice}>
+        Currently displaying demo transit information.
+      </Text>
+    </ScrollView>
   );
 }
 
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: "#F8F9FC",
-    padding: 24,
+    backgroundColor: colors.background,
+  },
+  content: {
+    padding: spacing.lg,
+    paddingBottom: spacing.xxl,
   },
   header: {
-    marginTop: 36,
-    marginBottom: 32,
+    flexDirection: "row",
+    alignItems: "center",
+    marginTop: spacing.lg,
+    marginBottom: spacing.xl,
+  },
+  headerText: {
+    flex: 1,
   },
   label: {
-    fontSize: 12,
+    fontSize: typography.small,
     fontWeight: "700",
-    color: "#7047EB",
+    color: colors.primary,
     letterSpacing: 2,
-    marginBottom: 16,
+    marginBottom: spacing.md,
   },
   title: {
-    fontSize: 34,
+    fontSize: typography.hero,
     fontWeight: "700",
-    color: "#1E1E2D",
+    color: colors.text,
   },
   subtitle: {
-    fontSize: 16,
-    color: "#737383",
-    lineHeight: 24,
-    marginTop: 12,
+    fontSize: typography.body,
+    color: colors.textSecondary,
+    marginTop: spacing.sm,
+  },
+  headerIcon: {
+    backgroundColor: colors.primaryLight,
+    borderRadius: radius.lg,
+    padding: spacing.md,
+    marginLeft: spacing.sm,
   },
   searchCard: {
     flexDirection: "row",
     alignItems: "center",
-    backgroundColor: "#FFFFFF",
-    padding: 20,
-    borderRadius: 16,
+    backgroundColor: colors.surface,
+    borderRadius: radius.lg,
+    padding: spacing.md,
+    minHeight: 60,
     gap: 12,
   },
   searchText: {
     flex: 1,
-    color: "#737383",
-    fontSize: 16,
+    fontSize: typography.body,
+    color: colors.textSecondary,
   },
-  sectionTitle: {
-    fontSize: 20,
-    fontWeight: "700",
-    marginTop: 40,
-    marginBottom: 16,
-    color: "#1E1E2D",
-  },
-  infoCard: {
+  favoritesCard: {
     flexDirection: "row",
     alignItems: "center",
-    backgroundColor: "#FFFFFF",
-    padding: 20,
-    borderRadius: 16,
-    gap: 16,
+    backgroundColor: colors.primary,
+    borderRadius: radius.lg,
+    padding: spacing.lg,
+    marginTop: spacing.md,
+    gap: spacing.md,
   },
-  infoContent: {
+  favoritesContent: {
     flex: 1,
   },
-  infoTitle: {
-    fontSize: 16,
-    fontWeight: "600",
-    color: "#1E1E2D",
+  favoritesTitle: {
+    fontSize: typography.body,
+    fontWeight: "700",
+    color: colors.surface,
   },
-  infoText: {
-    fontSize: 14,
-    color: "#737383",
-    marginTop: 6,
+  favoritesSubtitle: {
+    fontSize: typography.caption,
+    color: colors.primaryLight,
+    marginTop: spacing.xs,
+  },
+  sectionTitle: {
+    fontSize: typography.subtitle,
+    fontWeight: "700",
+    color: colors.text,
+    marginTop: spacing.xxl,
+    marginBottom: spacing.md,
+  },
+  grid: {
+    flexDirection: "row",
+    gap: spacing.md,
+  },
+  featureCard: {
+    flex: 1,
+    minWidth: 0,
+    backgroundColor: colors.surface,
+    borderRadius: radius.lg,
+    padding: spacing.md,
+    gap: spacing.sm,
+  },
+  featureTitle: {
+    fontSize: typography.body,
+    fontWeight: "700",
+    color: colors.text,
+    marginTop: spacing.md,
+  },
+  featureDescription: {
+    fontSize: typography.caption,
+    color: colors.textSecondary,
+    lineHeight: 20,
+  },
+  demoNotice: {
+    marginTop: spacing.xl,
+    color: colors.textSecondary,
+    fontSize: typography.small,
+    textAlign: "center",
   },
 });
